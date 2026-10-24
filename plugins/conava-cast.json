@@ -1,0 +1,24 @@
+{
+    "id": "cast",
+    "name": "Cast",
+    "capabilities": [
+        "daemon",
+        "dankbar-widget",
+        "control-center"
+    ],
+    "category": "utilities",
+    "repo": "https://github.com/Conava/dux-plugins",
+    "path": "Cast",
+    "author": "Marlon Kranz",
+    "description": "Mirror your screen to Chromecast, Google TV and AirPlay devices, and play files, music, playlists, slideshows and links on Chromecast",
+    "dependencies": [
+        "cast-helper"
+    ],
+    "compositors": [
+        "any"
+    ],
+    "distro": [
+        "any"
+    ],
+    "screenshot": "https://raw.githubusercontent.com/Conava/dux-plugins/master/Cast/screenshots/overview.png"
+}
