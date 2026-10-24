@@ -18,9 +18,14 @@ let
   moduleForNixpkgs = lib.optionalAttrs (options ? programs.dms-shell.plugins) {
     programs.dms-shell.plugins = pluginsConfig;
   };
+
+  moduleForNixpkgsUnstable = lib.optionalAttrs (options ? programs.dux-shell.plugins) {
+    programs.dux-shell.plugins = pluginsConfig;
+  };
 in
 lib.mkMerge [
   moduleForStableFlake
   moduleForFlake
   moduleForNixpkgs
+  moduleForNixpkgsUnstable
 ]
