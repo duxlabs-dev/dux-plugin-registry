@@ -20,5 +20,5 @@
     ],
     "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/bongoCat/screenshot.png",
     "path": "bongoCat",
-    "requires_dms": ">=1.5.0"
+    "requires_dms": ">=2.0.0"
 }

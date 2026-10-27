@@ -16,5 +16,6 @@
     "distro": [
         "any"
     ],
-    "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/persona5Calendar/screenshot.png"
+    "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/persona5Calendar/screenshot.png",
+    "requires_dms": ">=2.0.0"
 }

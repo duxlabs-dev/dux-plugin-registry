@@ -10,7 +10,7 @@
     "repo": "https://github.com/hthienloc/dms-plugins",
     "author": "Loc Huynh",
     "description": "Screenshot annotation and screen recording plugin.",
-    "requires_dms": ">=1.6.0",
+    "requires_dms": ">=2.0.0",
     "dependencies": [
         "gpu-screen-recorder",
         "wf-recorder",
@@ -18,8 +18,7 @@
         "imagemagick",
         "img2pdf",
         "tesseract",
-        "zbar",
-        "curl"
+        "zbar"
     ],
     "compositors": [
         "any"
