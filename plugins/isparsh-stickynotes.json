@@ -1,0 +1,14 @@
+{
+    "id": "stickyNotes",
+    "name": "Sticky Notes",
+    "capabilities": ["desktop-widget"],
+    "category": "productivity",
+    "repo": "https://github.com/iSparsh/dms-stickynotes",
+    "author": "iSparsh",
+    "description": "A stack of handwritten-style paper notes on your desktop; peel sheets off and stick them anywhere",
+    "dependencies": ["python"],
+    "compositors": ["niri"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/iSparsh/dms-stickynotes/main/assets/screenshot.png",
+    "requires_dms": ">=2.0.0"
+}
