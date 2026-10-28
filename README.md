@@ -3703,6 +3703,36 @@ Reminds you to alternate between sitting and standing with configurable, idle-aw
 
 
 
+#### [Sticky Notes](https://github.com/iSparsh/dms-stickynotes)
+
+A stack of handwritten-style paper notes on your desktop; peel sheets off and stick them anywhere
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: stickyNotes
+- name: Sticky Notes
+- author: iSparsh
+- compositors: any
+- capabilities: desktop-widget
+- dependencies: 
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/iSparsh/dms-stickynotes/main/assets/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Todo](https://github.com/iskepr/DankTodoLauncher)
 
 A simple todo list plugin to manage, track, and export your daily tasks directly from the launcher.
