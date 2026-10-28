@@ -5,15 +5,12 @@
         "dankbar-widget",
         "desktop-widget"
     ],
-    "category": "system",
+    "category": "monitoring",
     "repo": "https://github.com/JessVolet/VMonitorSRV",
     "author": "JessVolet",
-    "description": "Monitor remote Linux servers running Glances: CPU, RAM, Btrfs subvolumes, network interfaces, and Podman containers.",
-    "dependencies": [
-        "python3",
-        "glances",
-        "glances-dotfiles"
-    ],
+    "description": "Monitor remote servers through the Glances API, including resources, storage, network interfaces, containers, and alerts. The server must run the dotfiles-glances API.",
+    "dependencies": [],
+    "requires_dms": ">=2.0.0",
     "compositors": [
         "any"
     ],
