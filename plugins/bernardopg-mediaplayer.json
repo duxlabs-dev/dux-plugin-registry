@@ -1,0 +1,14 @@
+{
+    "id": "mediaPlayer",
+    "name": "Media Player",
+    "capabilities": ["desktop-widget"],
+    "category": "utilities",
+    "repo": "https://github.com/bernardopg/mediaPlayer",
+    "author": "Bernardo Gomes (originally by Abdur Rahman Rifat)",
+    "description": "Desktop MPRIS player with spinning album art, playback controls, a seekbar and an optional wave background. Uses the shell's media services, hides when nothing is playing.",
+    "dependencies": [],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/bernardopg/mediaPlayer/main/assets/screenshot.png",
+    "requires_dms": ">=2.0.0"
+}
