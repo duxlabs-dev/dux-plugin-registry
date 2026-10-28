@@ -1,0 +1,23 @@
+{
+  "id": "aiUsage",
+  "name": "Subscription Usage Meter",
+  "capabilities": [
+    "dankbar-widget"
+  ],
+  "category": "monitoring",
+  "repo": "https://github.com/ilajosmanov/dms-ai-usage-tracker",
+  "author": "ilajosmanov",
+  "description": "Account-wide Codex and Claude subscription usage in one segmented bar meter.",
+  "dependencies": [
+    "python3",
+    "claude"
+  ],
+  "compositors": [
+    "niri"
+  ],
+  "distro": [
+    "any"
+  ],
+  "requires_dms": ">=2.0.0",
+  "screenshot": "https://raw.githubusercontent.com/ilajosmanov/dms-ai-usage-tracker/main/docs/screenshot.png"
+}
