@@ -1,13 +1,13 @@
 {
-    "id": "obsbotControl",
+    "id": "obsbot4linuxDux",
     "name": "OBSBOT Control",
     "capabilities": ["dankbar-widget", "control-center"],
     "category": "utilities",
-    "repo": "https://github.com/nofuturekid/dms-obsbot-control",
+    "repo": "https://github.com/nofuturekid/obsbot4linux-dux",
     "author": "nofuturekid",
     "description": "Control the OBSBOT Tiny 2 Lite webcam through obsbot4linux: sleep/wake, AI tracking, zoom, pan/tilt, field of view, HDR, exposure, image, audio, gestures and a live preview.",
     "dependencies": ["obsbot4linux", "qt6-multimedia"],
     "compositors": ["any"],
     "distro": ["any"],
-    "screenshot": "https://raw.githubusercontent.com/nofuturekid/dms-obsbot-control/main/assets/screenshot.png"
+    "screenshot": "https://raw.githubusercontent.com/nofuturekid/obsbot4linux-dux/main/assets/screenshot.png"
 }
