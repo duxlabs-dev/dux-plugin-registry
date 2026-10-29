@@ -1,0 +1,14 @@
+{
+    "id": "hyprwhsprAstral",
+    "name": "Hyprwhspr Astral",
+    "capabilities": ["desktop-widget"],
+    "category": "utilities",
+    "repo": "https://github.com/lucianosrp/HyprwhsprAstral",
+    "author": "lucianosrp",
+    "description": "Astral voice visualizer for hyprwhspr. A ribbon of twinkling stardust over a planet horizon that breathes with your voice while hyprwhspr is recording, shedding drifting motes and forming fleeting constellations at peaks.",
+    "dependencies": ["hyprwhspr"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/lucianosrp/HyprwhsprAstral/main/screenshot.png",
+    "requires_dms": ">=1.5.0"
+}
