@@ -5,7 +5,7 @@
     "category": "audio",
     "repo": "https://github.com/segfawlt/dux-bar-volume",
     "author": "segfawlt",
-    "description": "Control the system volume and monitor brightness by scrolling over the bar",
+    "description": "Control system volume and mute by scrolling or clicking over the bar, with Control Center brightness scroll, per-widget checklists, and optional max-volume and OSD timing overrides",
     "dependencies": [],
     "compositors": ["any"],
     "distro": ["any"],
