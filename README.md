@@ -1766,7 +1766,7 @@ Dank Bar widget showing per-CPU-core load as bars with.
 
 #### [CPU Monitor](https://github.com/rollecode/dms-cpu-monitor)
 
-CPU usage as an animated progress bar in your DankBar, updated every second
+CPU usage as an animated progress bar in your DankBar, updated every few seconds from DMS
 
 
 
@@ -2159,14 +2159,14 @@ Monitor disk, ZFS pool, and Nix store usage with smart mount classification and 
 
 
 
-#### [GPU Monitor](https://github.com/rollecode/dms-gpu-monitor)
+#### [GPU Monitor (NVIDIA)](https://github.com/rollecode/dms-gpu-monitor)
 
-NVIDIA GPU load as an animated progress bar in your DankBar, updated every second
+NVIDIA GPU load as an animated progress bar in your DankBar, with a popout listing per-process GPU use and a button that sends SIGTERM to a user process. Needs nvidia-smi
 
 
 
 - id: gpuMonitor
-- name: GPU Monitor
+- name: GPU Monitor (NVIDIA)
 - author: Rolle Laukkarinen
 - compositors: any
 - capabilities: dankbar-widget
@@ -2776,7 +2776,7 @@ Realtime throughput and cumulative traffic of your local proxy, tracked via nfta
 
 #### [RAM Monitor](https://github.com/rollecode/dms-ram-monitor)
 
-RAM usage as an animated progress bar in your DankBar, updated every second
+RAM usage as an animated progress bar in your DankBar, with a popout listing per-process memory and a button that sends SIGTERM to a user process
 
 
 
@@ -2956,7 +2956,7 @@ Periodically checks URLs and alerts on unexpected HTTP status
 
 #### [VRAM Monitor](https://github.com/rollecode/dms-vram-monitor)
 
-NVIDIA VRAM usage as an animated progress bar in your DankBar, updated every second
+NVIDIA VRAM usage as an animated progress bar in your DankBar, with a popout listing per-process VRAM and a button that sends SIGTERM to a user process (session processes excluded). Needs nvidia-smi
 
 
 
