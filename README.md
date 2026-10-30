@@ -8164,16 +8164,16 @@ Inspect Gaze face-authentication health and DMS lock integration without changin
 
 #### [GitHub Heatmap Plus](https://github.com/maxlen727/DMS-GitHub_HeatMap_Plus)
 
-GitHub contribution heatmap for DankBar and your desktop, with color-coded activity levels and theme-aware styling.
+GitHub contribution heatmap for DankBar and your desktop, with color-coded activity levels and theme-aware styling. Contribution data is fetched through the third-party github-contributions-api.jogruber.de public API.
 
-
+<strong>requires DMS version</strong>: <em>>=1.5.0</em>
 
 - id: githubHeatmapPlus
 - name: GitHub Heatmap Plus
 - author: maxlen727
 - compositors: any
 - capabilities: dankbar-widget, desktop-widget
-- dependencies: dms
+- dependencies: curl, jq, libnotify, xdg-utils
 - distro: any
 
 
