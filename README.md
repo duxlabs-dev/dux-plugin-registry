@@ -2219,6 +2219,36 @@ Shows the battery level of connected game controllers
 
 
 
+#### [Gbuds Widget](https://github.com/JessVolet/Gbuds-Widget)
+
+Galaxy Buds battery, controls, desktop widgets, and event popups for Dux Shell. Requires gbuds-cli.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: gbudsWatch
+- name: Gbuds Widget
+- author: JessVolet
+- compositors: any
+- capabilities: daemon, dankbar-widget, desktop-widget
+- dependencies: gbuds-cli, bluez
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/JessVolet/Gbuds-Widget/main/assets/screenshots/control-popout.png)
+
+</details>
+
+
+
+
+
 #### [HamQSL Propagation](https://github.com/devnullvoid/dms-hamqsl-propagation)
 
 Display HamQSL solar-terrestrial and ham radio propagation data in DankBar with compact bar modes and a detailed popout
