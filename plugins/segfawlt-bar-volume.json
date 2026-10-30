@@ -1,0 +1,14 @@
+{
+    "id": "barVolume",
+    "name": "Bar Volume Control",
+    "capabilities": ["daemon", "audio", "brightness", "dankbar", "ipc"],
+    "category": "audio",
+    "repo": "https://github.com/segfawlt/dux-bar-volume",
+    "author": "segfawlt",
+    "description": "Control the system volume and monitor brightness by scrolling over the bar",
+    "dependencies": [],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "requires_dms": ">=2.0.0",
+    "screenshot": "https://raw.githubusercontent.com/segfawlt/dux-bar-volume/main/assets/preview.png"
+}
