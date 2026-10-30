@@ -10068,7 +10068,7 @@ Display Islamic prayer times from Aladhan API
 - author: muadz
 - compositors: any
 - capabilities: dankbar-widget
-- dependencies: 
+- dependencies: notify-send
 - distro: any
 
 
