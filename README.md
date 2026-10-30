@@ -9737,6 +9737,36 @@ Nothing OS-inspired desktop clock with 6 styles: digital, split, analog, analog 
 
 
 
+#### [OBSBOT Control](https://github.com/nofuturekid/obsbot4linux-dux)
+
+Control the OBSBOT Tiny 2 Lite webcam through obsbot4linux from a bar widget, a Control Center tile and a desktop preview widget: sleep/wake, AI tracking, zoom, pan/tilt, field of view, HDR, exposure, image, audio, gestures and a live preview. Requires obsbot4linux >= 0.7.1.
+
+<strong>requires DMS version</strong>: <em>>=1.5.0</em>
+
+- id: obsbot4linuxDux
+- name: OBSBOT Control
+- author: nofuturekid
+- compositors: any
+- capabilities: dankbar-widget, control-center, desktop-widget
+- dependencies: obsbot4linux, qt6-multimedia
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/nofuturekid/obsbot4linux-dux/main/assets/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [OCR Scanner](https://github.com/hthienloc/dms-plugins)
 
 Extract text from clipboard images or local files using Tesseract OCR.
