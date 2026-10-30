@@ -1737,6 +1737,44 @@
     "sha256": "0r8z3294nzmr4y17c5dp2kyrryqh05bbkvl88xp9wgkd3a3kqf30",
     "url": "https://github.com/xxyangyoulin/dms-plugin-ccal"
   },
+  "ckeys": {
+    "date": "2026-10-22T19:46:00-06:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-aRZr5dXE/ZeasqL0IVeLRcjb6eSGD6ynoltokV46WkM=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "mcloving-exe",
+      "capabilities": [
+        "daemon"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "niri"
+      ],
+      "dependencies": [
+        "wtype",
+        "xdotool"
+      ],
+      "description": "A compact touch bar with a numpad and brightness/volume sliders. Appears while a shortcut is held and types into the focused app. The touchpad-as-bar mode needs the ckeys-hold root service installed separately with sudo (it reads all input devices), plus xdotool and a C compiler; DMS installs only the QML.",
+      "distro": [
+        "any"
+      ],
+      "id": "ckeys",
+      "name": "C-Key",
+      "repo": "https://github.com/mcloving-exe/C-Key",
+      "requires_dms": ">=1.6.0",
+      "screenshot": "https://raw.githubusercontent.com/mcloving-exe/C-Key/main/screenshot.png",
+      "version": "0.2.1"
+    },
+    "path": "/nix/store/z6k528bsq9l82ii19vap3i6clqccxbrx-C-Key",
+    "rev": "2315bf37acd38fb64a66476c4e26cca6a094b05b",
+    "rootDir": "",
+    "sha256": "0hss79g92s2vlaksq3w6wklxpj25idbj3x52nad9gzf4spjnn5k9",
+    "url": "https://github.com/mcloving-exe/C-Key"
+  },
   "clashVerge": {
     "date": "2026-05-13T14:21:14+08:00",
     "deepClone": false,
