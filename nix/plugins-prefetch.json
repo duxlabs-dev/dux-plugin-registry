@@ -6041,12 +6041,12 @@
     "url": "https://github.com/rdannenbring/dropdown-menu"
   },
   "easyEffects": {
-    "date": "2026-07-12T11:52:16+02:00",
+    "date": "2026-10-30T09:33:29+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-wYpDoPfbxIh823bOUuX3uPqn+jl2d8uJw9YI/dxR+HI=",
+    "hash": "sha256-5r4SNgnDjgoVZPT0RbLyThmvCecZV/TLIeQZ41qOz5I=",
     "leaveDotGit": false,
     "meta": {
       "author": "jonkristian",
@@ -6068,12 +6068,12 @@
       "name": "Easy Effects Profile Switcher",
       "repo": "https://github.com/jonkristian/dms-easyeffects",
       "screenshot": "https://github.com/jonkristian/dms-easyeffects/blob/main/screenshot.png?raw=true",
-      "version": "1.1.1"
+      "version": "2.0.0"
     },
-    "path": "/nix/store/0nn4y4jrfc0hglrnkjn9qjx4sgafhh4n-dms-easyeffects",
-    "rev": "f3ec5779eab67d24b05b2261e76cb0a60df81654",
+    "path": "/nix/store/f8rm88zdmika9qgar5akxhf4vmkh5mgh-dms-easyeffects",
+    "rev": "151f3914b53ba8bebfb5a34f4a0901ed441e80a4",
     "rootDir": "",
-    "sha256": "0wpqa7fgs26nqf4wnxvn77xagymqyzjm5kknvdy8ii6vyyh472n1",
+    "sha256": "14ngirdf66g4475z8mqrww4sy6afyar4bx7lchahm3n314v15gp6",
     "url": "https://github.com/jonkristian/dms-easyeffects"
   },
   "emojiLauncher": {
@@ -6736,6 +6736,46 @@
     "rootDir": "",
     "sha256": "0kgi29pfv2n5g4i1dzdfc56fhywyjagx26mn90svddm49cjyakrm",
     "url": "https://github.com/arqueon/dms-gaze-auth"
+  },
+  "gbudsWatch": {
+    "date": "2026-10-29T22:28:52-06:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-9dU4CNFfuJl+UahGzEdpc6UVbDRW+UnXlH1kBCr7jwU=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "JessVolet",
+      "capabilities": [
+        "daemon",
+        "dankbar-widget",
+        "desktop-widget"
+      ],
+      "category": "monitoring",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "gbuds-cli",
+        "bluez"
+      ],
+      "description": "Galaxy Buds battery, controls, desktop widgets, and event popups for Dux Shell. Requires gbuds-cli.",
+      "distro": [
+        "any"
+      ],
+      "id": "gbudsWatch",
+      "name": "Gbuds Widget",
+      "repo": "https://github.com/JessVolet/Gbuds-Widget",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/JessVolet/Gbuds-Widget/main/assets/screenshots/control-popout.png",
+      "version": "0.1.0"
+    },
+    "path": "/nix/store/sm2r2j42cwi7f5kfarpn0jb08bj1v5c5-Gbuds-Widget",
+    "rev": "766fe60da064ff477bbf91515343a4250de3c938",
+    "rootDir": "",
+    "sha256": "01cgzcm08r3xjkblkyan6in1b9bkd53wqim8a5z9kf2zs443imgm",
+    "url": "https://github.com/JessVolet/Gbuds-Widget"
   },
   "githubHeatmapPlus": {
     "date": "2026-09-30T11:03:18+08:00",
@@ -10753,12 +10793,12 @@
     "url": "https://github.com/Lemon-mon-254/dms-proxy-traffic"
   },
   "pulsarX3": {
-    "date": "2025-12-05T13:38:05+01:00",
+    "date": "2026-10-30T09:45:14+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-WnrA1QhyRlD2CKTVipuaxL50nxljBH26rlNtxmQv28w=",
+    "hash": "sha256-ME2i6mKBbRNkkDCF+IC9ZAPAyk6hvi7C9e4pTZQLNH4=",
     "leaveDotGit": false,
     "meta": {
       "author": "jonkristian",
@@ -10780,12 +10820,12 @@
       "name": "Pulsar X3 Mouse",
       "repo": "https://github.com/jonkristian/dms-pulsar-x3",
       "screenshot": "https://github.com/jonkristian/dms-pulsar-x3/blob/main/screenshot.png?raw=true",
-      "version": "0.1.1"
+      "version": "0.2.0"
     },
-    "path": "/nix/store/dy74f6yl0abwy12i0w14y1ca9xn3iyf7-dms-pulsar-x3",
-    "rev": "fdfd5db2c775b7ba83d156f488503e7feae2d357",
+    "path": "/nix/store/lfkyz31bvz1lhhj1kxm3aflhjyrvvhl1-dms-pulsar-x3",
+    "rev": "3bacab3333b8deb4de01d4ad569df1d4638953e2",
     "rootDir": "",
-    "sha256": "1k6v5xjccvakmsx7s13336gp9gn4kadqmmd413v50ikj13aw0yjs",
+    "sha256": "0zil1fa4sagfyp12xgm19v5c00v4pn0gi19hj1j16vc1cbma4k9h",
     "url": "https://github.com/jonkristian/dms-pulsar-x3"
   },
   "pureLyrics": {
