@@ -2476,7 +2476,7 @@
         "any"
       ],
       "dependencies": [],
-      "description": "CPU usage as an animated progress bar in your DankBar, updated every second",
+      "description": "CPU usage as an animated progress bar in your DankBar, updated every few seconds from DMS",
       "distro": [
         "any"
       ],
@@ -5428,12 +5428,12 @@
     "url": "https://github.com/Klievan/dms-jira"
   },
   "dmsLenovoBatterySettings": {
-    "date": "2026-06-28T17:51:02+02:00",
+    "date": "2026-10-30T13:49:11+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-/glhQvb/ZRRW7enXVTUwAUVzf51qrt4a+eaiXgt1/to=",
+    "hash": "sha256-iRL4f2pT22+yWEWIvyA1jasf7vxxttiT907Xe64V2bk=",
     "leaveDotGit": false,
     "meta": {
       "author": "neoscaler",
@@ -5456,12 +5456,12 @@
       "name": "Lenovo Battery Settings",
       "repo": "https://github.com/neoscaler/dms-lenovo-battery-settings",
       "screenshot": "https://raw.githubusercontent.com/neoscaler/dms-lenovo-battery-settings/refs/heads/main/screenshot.png",
-      "version": "1.0.1"
+      "version": "1.0.2"
     },
-    "path": "/nix/store/q5knlz3w032252kx1i666y5xk2pp880y-dms-lenovo-battery-settings",
-    "rev": "60dc2e76ec14428b543807bf00982fc784fcfe35",
+    "path": "/nix/store/djv3kxlm7xr9709hkjbxb8ygjzwnrp5z-dms-lenovo-battery-settings",
+    "rev": "208dcc2dc732ce084085bd2e8b39bdb071ae1fe7",
     "rootDir": "",
-    "sha256": "1npyfl5mx8p6z4ddxbkakmzp6i8160smbmz9xmb18rgzyr1622gy",
+    "sha256": "1ffr2np7pmsfyy9xidkizkp1zawd6lhbz225b2r6znskd9zzh4l9",
     "url": "https://github.com/neoscaler/dms-lenovo-battery-settings"
   },
   "dmsNothingX": {
@@ -6796,15 +6796,19 @@
         "any"
       ],
       "dependencies": [
-        "dms"
+        "curl",
+        "jq",
+        "libnotify",
+        "xdg-utils"
       ],
-      "description": "GitHub contribution heatmap for DankBar and your desktop, with color-coded activity levels and theme-aware styling.",
+      "description": "GitHub contribution heatmap for DankBar and your desktop, with color-coded activity levels and theme-aware styling. Contribution data is fetched through the third-party github-contributions-api.jogruber.de public API.",
       "distro": [
         "any"
       ],
       "id": "githubHeatmapPlus",
       "name": "GitHub Heatmap Plus",
       "repo": "https://github.com/maxlen727/DMS-GitHub_HeatMap_Plus",
+      "requires_dms": ">=1.5.0",
       "screenshot": "https://raw.githubusercontent.com/maxlen727/DMS-GitHub_HeatMap_Plus/refs/heads/main/assets/Overall.png",
       "version": "2.1.0"
     },
@@ -7088,12 +7092,12 @@
       "dependencies": [
         "nvidia-smi"
       ],
-      "description": "NVIDIA GPU load as an animated progress bar in your DankBar, updated every second",
+      "description": "NVIDIA GPU load as an animated progress bar in your DankBar, with a popout listing per-process GPU use and a button that sends SIGTERM to a user process. Needs nvidia-smi",
       "distro": [
         "any"
       ],
       "id": "gpuMonitor",
-      "name": "GPU Monitor",
+      "name": "GPU Monitor (NVIDIA)",
       "repo": "https://github.com/rollecode/dms-gpu-monitor",
       "screenshot": "https://raw.githubusercontent.com/rollecode/dms-gpu-monitor/main/Screenshot.png",
       "version": "1.5.1"
@@ -10656,7 +10660,9 @@
       "compositors": [
         "any"
       ],
-      "dependencies": [],
+      "dependencies": [
+        "notify-send"
+      ],
       "description": "Display Islamic prayer times from Aladhan API",
       "distro": [
         "any"
@@ -11040,7 +11046,7 @@
         "any"
       ],
       "dependencies": [],
-      "description": "RAM usage as an animated progress bar in your DankBar, updated every second",
+      "description": "RAM usage as an animated progress bar in your DankBar, with a popout listing per-process memory and a button that sends SIGTERM to a user process",
       "distro": [
         "any"
       ],
@@ -13625,7 +13631,7 @@
       "dependencies": [
         "nvidia-smi"
       ],
-      "description": "NVIDIA VRAM usage as an animated progress bar in your DankBar, updated every second",
+      "description": "NVIDIA VRAM usage as an animated progress bar in your DankBar, with a popout listing per-process VRAM and a button that sends SIGTERM to a user process (session processes excluded). Needs nvidia-smi",
       "distro": [
         "any"
       ],
