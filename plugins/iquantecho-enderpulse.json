@@ -10,7 +10,7 @@
   "category": "appearance",
   "repo": "https://github.com/iquantecho/enderpulse",
   "author": "iquantecho",
-  "description": "A responsive Cava visualizer for DankBar and the desktop",
+  "description": "A responsive Cava visualizer for the Dux bar, dock, and desktop",
   "dependencies": [
     "cava"
   ],
@@ -20,6 +20,6 @@
   "distro": [
     "any"
   ],
-  "requires_dms": ">=1.5.1",
+  "requires_dms": ">=2.0.0",
   "screenshot": "https://raw.githubusercontent.com/iquantecho/enderpulse/main/docs/enderpulse-preview.png"
 }
