@@ -1,0 +1,14 @@
+{
+  "id": "gbudsWatch",
+  "name": "Gbuds Widget",
+  "capabilities": ["daemon", "dankbar-widget", "desktop-widget"],
+  "category": "monitoring",
+  "repo": "https://github.com/JessVolet/Gbuds-Widget",
+  "author": "JessVolet",
+  "description": "Galaxy Buds battery, controls, desktop widgets, and event popups for Dux Shell. Requires gbuds-cli.",
+  "dependencies": ["gbuds-cli", "bluez"],
+  "requires_dms": ">=2.0.0",
+  "compositors": ["any"],
+  "distro": ["any"],
+  "screenshot": "https://raw.githubusercontent.com/JessVolet/Gbuds-Widget/main/assets/screenshots/control-popout.png"
+}
