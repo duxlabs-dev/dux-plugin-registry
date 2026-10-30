@@ -12820,6 +12820,20 @@ Resident Evil inspired: Umbrella scarlet accent on graphite black, with T-virus 
 
 
 
+### caelus
+
+A dark and light port of dacctal's caelus colorscheme: warm amber accents over near-black neutrals, with cream text and muted blue/green status colors. Light mode uses cream surfaces with burnt-orange accents. Original palette: https://git.symlinx.net/daccfiles/tree/.config/nvim-lazy/lua/caelus/init.lua
+
+- **Author:** magma_x
+- **ID:** `caelus` **Version:** `2.0.0`
+
+![WCAG AA](https://img.shields.io/badge/WCAG_contrast-AA-green)
+
+
+![caelus](themes/caelus/preview.svg)
+
+
+
 ### deepmono
 
 Pure grayscale theme, soft off-black at night, three button variants
