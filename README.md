@@ -5817,6 +5817,36 @@ List and activate open browser tabs from the DMS launcher via tabctl
 
 
 
+#### [C-Key](https://github.com/mcloving-exe/C-Key)
+
+A compact touch bar with a numpad and brightness/volume sliders. Appears while a shortcut is held and types into the focused app. The touchpad-as-bar mode needs the ckeys-hold root service installed separately with sudo (it reads all input devices), plus xdotool and a C compiler; DMS installs only the QML.
+
+<strong>requires DMS version</strong>: <em>>=1.6.0</em>
+
+- id: ckeys
+- name: C-Key
+- author: mcloving-exe
+- compositors: niri
+- capabilities: daemon
+- dependencies: wtype, xdotool
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/mcloving-exe/C-Key/main/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [CPU Thermal Indicator](https://github.com/zhtlancer/dms-cpu-thermal-indicator.git)
 
 CPU temperature and fan speed monitor for DankBar using Linux hwmon
