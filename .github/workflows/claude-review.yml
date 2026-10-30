@@ -130,21 +130,28 @@ jobs:
                - Raw Qt controls where a Dank component exists.
                - Properties, signals, services or components that don't exist in DMS.
                - If the entry sets i18n true: every user-facing string must go through I18n.trFor("<plugin id>", ...) with the literal id.
-            3. Registry entry: CI already checks the schema, links, and that id and name match plugin.json. Check that capabilities, compositors, dependencies and requires_dms match what the code does, the description is accurate, and it doesn't duplicate a plugin already in plugins/ at the repository root. If it overlaps one, name it and say whether the PR justifies it per CONTRIBUTING.md. For updates, review the JSON change. If repo or path changed, review the new source like a new plugin. For a listed plugin, review the entry as it stands.
+            3. Registry entry: CI already checks the schema, links, and that id and name match plugin.json. Check that capabilities, compositors, dependencies and requires_dms match what the code does, the description and PR body match the code, and it doesn't duplicate a plugin already in plugins/ at the repository root. A mismatch is a finding: requires_dms missing when the code needs DCommon or other 2.0 APIs, compositors narrower or wider than the code supports, a binary the code runs that isn't declared. If it overlaps a listed plugin, name it. Overlap the PR body does not justify per CONTRIBUTING.md is needs-changes, not a note for the maintainer. For updates, review the JSON change. If repo or path changed, review the new source like a new plugin. For a listed plugin, review the entry as it stands.
 
-            Skip style, naming, structure, minor bugs and missing features unless it clearly breaks the plugin or the shell.
+            Every convention break in 2 and every mismatch in 3 is a finding, not a suggestion. Skip pure style, naming and structure. A bug that stops a described feature from working is a finding.
 
-            Themes: CI validates colors and contrast. Only flag duplicates of themes already in themes/, misleading metadata, or files outside themes/<slug>/.
+            Some findings are notes, not issues: the maintainer merges over them and the author fixes them in a later release. Report them with severity note so they don't block:
+            - Hardcoded spacing, radii, pixel sizes or icon sizes. Hardcoded colors and font sizes stay issues.
+            - Raw Qt controls or deprecated Dank* shims that still work where a D* component exists.
+            - Overlap with a listed plugin when the PR body gives a reason. Say what overlaps and what the reason is. Overlap with no reason stays an issue.
+            - A description that leaves something out but isn't wrong about network, privileges or dependencies.
+            - Dead code, no-op calls, leftover comments, and behavior the PR didn't introduce.
+
+            Themes: CI validates colors and contrast. Findings: duplicates of themes already in themes/, a description that doesn't describe the theme or credits a source without saying it's a port, keys outside the theme schema in CONTRIBUTING.md, and any file other than theme.json (CONTRIBUTING.md says commit only theme.json, previews are generated).
 
             Other changes (scripts, workflows, docs): flag real bugs and security problems. For workflows, check for pull_request_target misuse and script injection.
 
             Only report what you confirmed in the files. Not sure: leave it out.
 
             Result fields:
-            - verdict: ready (nothing blocking), needs-changes, or reject (malware, duplicate without justification, doesn't work, or clearly unreviewed AI output per CONTRIBUTING.md). For a listed plugin, reject means recommend removing it.
+            - verdict: ready only when there is no blocker and no issue. Notes don't affect it. Any blocker or issue means needs-changes, which moves the PR to draft until the author fixes it. reject for malware, duplicate without justification, doesn't work, or clearly unreviewed AI output per CONTRIBUTING.md. For a listed plugin, reject means recommend removing it.
             - summary: one to three sentences on what the PR or plugin adds and your call.
             - footprint: for plugins, one or two sentences on what it does to the system: commands it runs, hosts it contacts, files it writes, privileges it needs. Empty string otherwise.
-            - findings: blocker (must fix before merge) or issue (should fix). file is the path you read relative to the repository root, e.g. review/src/<name>/Widget.qml, review/pr/plugins/<name>.json or plugins/<name>.json, empty if none. line is 1-based, 0 if it doesn't apply. detail is what's wrong and the fix in one or two sentences.
+            - findings: blocker is what makes the PR unsafe or broken: malware, abuse, code that doesn't run, undisclosed network or telemetry, hardcoded credentials or another app's API keys, shell commands built from unescaped strings. issue must be fixed before merge. note is the list above. Don't soften a finding with "consider", "not blocking" or "maintainer should decide"; say what to change. file is the path you read relative to the repository root, e.g. review/src/<name>/Widget.qml, review/pr/plugins/<name>.json or plugins/<name>.json, empty if none. line is 1-based, 0 if it doesn't apply. detail is what's wrong and the fix in one or two sentences.
             - checked: one line on what you covered.
 
             Write like a terse maintainer: plain sentences, no praise, no filler, no headings, no emoji, no em dashes.
@@ -153,7 +160,7 @@ jobs:
             --max-turns 80
             --allowedTools "Read,Grep,Glob"
             --disallowedTools "Bash,Edit,Write,MultiEdit,NotebookEdit,WebFetch,WebSearch,Task"
-            --json-schema '{"type":"object","additionalProperties":false,"required":["verdict","summary","footprint","findings","checked"],"properties":{"verdict":{"type":"string","enum":["ready","needs-changes","reject"]},"summary":{"type":"string"},"footprint":{"type":"string"},"findings":{"type":"array","items":{"type":"object","additionalProperties":false,"required":["severity","file","line","detail"],"properties":{"severity":{"type":"string","enum":["blocker","issue"]},"file":{"type":"string"},"line":{"type":"integer"},"detail":{"type":"string"}}}},"checked":{"type":"string"}}}'
+            --json-schema '{"type":"object","additionalProperties":false,"required":["verdict","summary","footprint","findings","checked"],"properties":{"verdict":{"type":"string","enum":["ready","needs-changes","reject"]},"summary":{"type":"string"},"footprint":{"type":"string"},"findings":{"type":"array","items":{"type":"object","additionalProperties":false,"required":["severity","file","line","detail"],"properties":{"severity":{"type":"string","enum":["blocker","issue","note"]},"file":{"type":"string"},"line":{"type":"integer"},"detail":{"type":"string"}}}},"checked":{"type":"string"}}}'
 
       - name: Save result
         env:

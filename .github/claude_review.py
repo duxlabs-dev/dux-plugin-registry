@@ -56,7 +56,7 @@ VERDICTS = {
     "pr": {"ready": "ready", "needs-changes": "needs changes", "reject": "recommend closing"},
     "plugin": {"ready": "ready", "needs-changes": "needs changes", "reject": "recommend removal"},
 }
-SEVERITIES = {"blocker", "issue"}
+SEVERITIES = {"blocker", "issue", "note"}
 MINIMIZE = "mutation($id: ID!) { minimizeComment(input: {subjectId: $id, classifier: OUTDATED}) { clientMutationId } }"
 TO_DRAFT = "mutation($id: ID!) { convertPullRequestToDraft(input: {pullRequestId: $id}) { clientMutationId } }"
 DRAFT_NOTE = "Moved to draft. Push fixes or update the plugin repo, then mark it ready for review for another pass."
