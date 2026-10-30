@@ -10090,6 +10090,46 @@
     "sha256": "01zq3gq0h97v4xw3zc7y1ab0wd3miyjvh238kwr44df73ix6gi22",
     "url": "https://github.com/TEJASJONDHALE/dms-nvidia-gpu-monitor"
   },
+  "obsbot4linuxDux": {
+    "date": "2026-10-28T14:04:37+01:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-vtbHAXzBWDnSiuKuA56rApDVhf9OkJqfoPubmcwVyQY=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "nofuturekid",
+      "capabilities": [
+        "dankbar-widget",
+        "control-center",
+        "desktop-widget"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "obsbot4linux",
+        "qt6-multimedia"
+      ],
+      "description": "Control the OBSBOT Tiny 2 Lite webcam through obsbot4linux from a bar widget, a Control Center tile and a desktop preview widget: sleep/wake, AI tracking, zoom, pan/tilt, field of view, HDR, exposure, image, audio, gestures and a live preview. Requires obsbot4linux >= 0.7.1.",
+      "distro": [
+        "any"
+      ],
+      "id": "obsbot4linuxDux",
+      "name": "OBSBOT Control",
+      "repo": "https://github.com/nofuturekid/obsbot4linux-dux",
+      "requires_dms": ">=1.5.0",
+      "screenshot": "https://raw.githubusercontent.com/nofuturekid/obsbot4linux-dux/main/assets/screenshot.png",
+      "version": "0.19.1"
+    },
+    "path": "/nix/store/n1sk0lf8fybmaqzhjxd6b3dbv63a7f1p-obsbot4linux-dux",
+    "rev": "dd897397d04492a09dae68788136d646e9c4cd06",
+    "rootDir": "",
+    "sha256": "01n92p69k6zvl2grm42fzy2xb402mfg07bp2ib93jn61gh0wgmmy",
+    "url": "https://github.com/nofuturekid/obsbot4linux-dux"
+  },
   "obsidianCapture": {
     "date": "2026-09-13T02:08:38+02:00",
     "deepClone": false,
