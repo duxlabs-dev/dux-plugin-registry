@@ -7173,7 +7173,7 @@ Desktop widget for RSS/Atom feeds with vim-style keyboard navigation, a reading 
 - author: BrendonJL, Xn4m3d, Alessandro Ianne
 - compositors: any
 - capabilities: desktop-widget
-- dependencies: curl
+- dependencies: curl, wl-clipboard
 - distro: any
 
 
