@@ -1,0 +1,27 @@
+{
+    "id": "displayModes",
+    "name": "Display Modes",
+    "capabilities": [
+        "dankbar-widget",
+        "control-center",
+        "launcher",
+        "ipc"
+    ],
+    "category": "system",
+    "repo": "https://github.com/godsGived/dms-display-modes",
+    "author": "godsGived",
+    "description": "Win+P-style monitor switcher for niri: laptop only, external only, or extended, with the extended layout remembered.",
+    "dependencies": [
+        "niri",
+        "jq",
+        "bash"
+    ],
+    "compositors": [
+        "niri"
+    ],
+    "distro": [
+        "any"
+    ],
+    "screenshot": "https://raw.githubusercontent.com/godsGived/dms-display-modes/main/assets/screenshot.png",
+    "requires_dms": ">=2.0.0"
+}
