@@ -8232,12 +8232,12 @@
     "url": "https://github.com/sgtaziz/dms-wallpaperengine"
   },
   "liveChartSchedule": {
-    "date": "2026-10-24T23:17:10+05:30",
+    "date": "2026-10-31T13:19:25+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-klsr07oXJPS5qelb+PdPI5vYfXQXaC4RVrjw1fw1BQk=",
+    "hash": "sha256-LbF2cd/yGx2BGU/z+a9uRAAFi+w2TQZ/m1C8I7nmjPU=",
     "leaveDotGit": false,
     "meta": {
       "author": "JDKamalakar",
@@ -8269,12 +8269,12 @@
       "screenshot": "https://raw.githubusercontent.com/JDKamalakar/DMS-LiveChart.me/refs/heads/main/assets/POP-Up_UI.png",
       "settings": "./LiveChartSettings.qml",
       "type": "widget",
-      "version": "2.0.0"
+      "version": "2.0.2"
     },
-    "path": "/nix/store/5z41wkkva899zw5wsni470byi0d7h39c-DMS-LiveChart.me",
-    "rev": "c65a8eb19eab48b0b8f17a27296789e57fc713f1",
+    "path": "/nix/store/81r12hxssa515k7b7kqhng5i2v2a3x6w-DMS-LiveChart.me",
+    "rev": "46817cad5874ca5982ba39924c68542cd468baac",
     "rootDir": "",
-    "sha256": "02856pydbw5qaq8jws0pfiyxi6r39zvzhnz9m6wz890ppb9jnnwj",
+    "sha256": "1xccwswj7g2hkdzhck9nxj5ha024dspzkwsg360is6zjvxqpdc9d",
     "url": "https://github.com/JDKamalakar/DMS-LiveChart.me"
   },
   "liveLyrics": {
@@ -8982,6 +8982,46 @@
     "rootDir": "",
     "sha256": "0bypgf183k1n9yls8j8i9s6mcw5x37pqy531rmz068fll5wq1xsw",
     "url": "https://github.com/korbash/mihomo-dms-widget"
+  },
+  "miniDesktop": {
+    "date": "2026-10-31T04:44:14+03:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-U1QiWIrQcV5PIO5zW+H/Pdvit/f9v1Ho/FP0SpcofEA=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "KadirJeager",
+      "capabilities": [
+        "desktop-widget"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "python-gobject",
+        "python-pywayland",
+        "wl-clipboard",
+        "glib2"
+      ],
+      "description": "A small desktop for any folder plus app shortcuts: one-click app icons on top, the folder's files below, with a context menu to create documents, folders and shortcuts, copy/paste, drag and drop and previews; copy and cut need a compositor with ext-data-control-v1",
+      "distro": [
+        "any"
+      ],
+      "id": "miniDesktop",
+      "name": "Mini Desktop",
+      "repo": "https://github.com/KadirJeager/dms-mini-desktop",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/KadirJeager/dms-mini-desktop/main/assets/screenshot.png",
+      "version": "2.1.0"
+    },
+    "path": "/nix/store/aymqx8ydv6pr2pk7xy8dv95sny28z4id-dms-mini-desktop",
+    "rev": "5081d9243c44bd1a2cd59c736411a04fefb4aa0e",
+    "rootDir": "",
+    "sha256": "0h3w52blmx2kzkl53gzxyyvy5nrxzzhmnwzf417mwwfhi9c24m2k",
+    "url": "https://github.com/KadirJeager/dms-mini-desktop"
   },
   "mise": {
     "date": "2026-10-27T10:38:56+01:00",
