@@ -10147,6 +10147,41 @@ Display Islamic prayer times from Aladhan API
 
 
 
+#### [Presentation Hub](https://github.com/Miho1254/duxshell-presentor-hub)
+
+Move presentation windows to an audience display, manage a session, and optionally mirror with wl-mirror.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: presentationHub
+- name: Presentation Hub
+- author: Miho1254
+- compositors: niri
+- capabilities: daemon, dankbar-widget
+- dependencies: wl-mirror (optional)
+- distro: any
+
+
+
+
+> [!NOTE]
+> This plugin is part of a monorepo, please copy the contents of the [presentation-hub](https://github.com/Miho1254/duxshell-presentor-hub/tree/main/presentation-hub) folder to your `~/.config/dms/plugins/` folder.
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/Miho1254/duxshell-presentor-hub/main/assets/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Proton VPN](https://github.com/JDKamalakar/DMS-Proton_VPN)
 
 Proton VPN client using pVPN backend CLI.
