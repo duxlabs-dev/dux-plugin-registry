@@ -1,0 +1,24 @@
+{
+    "id": "inlineKeyboard",
+    "name": "Inline Keyboard",
+    "capabilities": [
+        "daemon",
+        "ipc",
+        "dankbar-widget"
+    ],
+    "category": "utilities",
+    "repo": "https://github.com/LilFishyChan/dms-inline-keyboard",
+    "author": "LilFishyChan",
+    "description": "On-screen touch keyboard. Candidates, preedit and input-method state are drawn inside the keyboard; that part needs fcitx5 plus a separately built companion addon.",
+    "dependencies": [
+        "ydotool"
+    ],
+    "compositors": [
+        "niri"
+    ],
+    "distro": [
+        "any"
+    ],
+    "requires_dms": ">=2.0.0",
+    "screenshot": "https://raw.githubusercontent.com/LilFishyChan/dms-inline-keyboard/main/docs/images/keyboard.png"
+}
