@@ -10758,6 +10758,45 @@
     "sha256": "1zxz6j83vcasf5qg37limcmssg1hxgh49ldnjkvih2si80ivda0k",
     "url": "https://github.com/muadzmo/prayertimes"
   },
+  "presentationHub": {
+    "date": "2026-10-31T11:29:13+07:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-6iiDeQkV0/ONcy6eQp6luJjjB6cOpKwKSNqSkdW3B+I=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Miho1254",
+      "capabilities": [
+        "daemon",
+        "dankbar-widget"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "niri"
+      ],
+      "dependencies": [
+        "wl-mirror (optional)"
+      ],
+      "description": "Move presentation windows to an audience display, manage a session, and optionally mirror with wl-mirror.",
+      "distro": [
+        "any"
+      ],
+      "id": "presentationHub",
+      "name": "Presentation Hub",
+      "path": "presentation-hub",
+      "repo": "https://github.com/Miho1254/duxshell-presentor-hub",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/Miho1254/duxshell-presentor-hub/main/assets/screenshot.png",
+      "version": "0.1.0"
+    },
+    "path": "/nix/store/fp64346plpwnz483ak4ammsdnk01lag5-duxshell-presentor-hub",
+    "rev": "987765437488899b429c03e0f207a2b4eeace635",
+    "rootDir": "",
+    "sha256": "1qh7nzar34ns905ar90flw3y765qlng457ifff6z7lqm15wq6a7a",
+    "url": "https://github.com/Miho1254/duxshell-presentor-hub"
+  },
   "processList": {
     "date": "2026-03-31T14:08:31+03:00",
     "deepClone": false,
