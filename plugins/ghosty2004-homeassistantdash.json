@@ -1,0 +1,14 @@
+{
+  "id": "homeAssistantDash",
+  "name": "Home Assistant",
+  "capabilities": ["dash-tab", "dash-card", "dankbar-widget", "daemon", "ipc"],
+  "category": "utilities",
+  "repo": "https://github.com/ghosty2004/dms-home-assistant",
+  "author": "ghosty2004",
+  "description": "Home Assistant inside the DMS dashboard: rooms, lights, climate, security, media and automations with the same icons, colors and controls as the HA frontend",
+  "dependencies": ["qt6-websockets"],
+  "compositors": ["any"],
+  "distro": ["any"],
+  "screenshot": "https://raw.githubusercontent.com/ghosty2004/dms-home-assistant/main/screenshots/areas.png",
+  "requires_dms": ">=2.0.0"
+}
