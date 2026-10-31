@@ -269,9 +269,9 @@ AI depth-aware wallpapers: the near part of your wallpaper is redrawn above desk
 
 #### [EnderPulse](https://github.com/iquantecho/enderpulse)
 
-A responsive Cava visualizer for DankBar and the desktop
+A responsive Cava visualizer for the Dux bar, dock, and desktop
 
-<strong>requires DMS version</strong>: <em>>=1.5.1</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: enderPulse
 - name: EnderPulse
