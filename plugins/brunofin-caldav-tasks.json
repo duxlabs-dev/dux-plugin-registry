@@ -1,0 +1,13 @@
+{
+    "id": "caldavTasks",
+    "name": "CalDAV Tasks",
+    "capabilities": ["dankbar-widget"],
+    "category": "productivity",
+    "repo": "https://github.com/brunofin/dms-caldav-tasks",
+    "author": "Bruno Finger",
+    "description": "Manage tasks from multiple CalDAV and Evolution system accounts in grouped, collapsible lists, sorted by open tasks. Evolution system-account support is optional and requires PyGObject and the EDataServer-1.2, ECal-2.0, and ICalGLib-3.0 typelibs from evolution-data-server.",
+    "dependencies": ["python3", "python-caldav"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/brunofin/dms-caldav-tasks/main/assets/screenshot.jpg"
+}
