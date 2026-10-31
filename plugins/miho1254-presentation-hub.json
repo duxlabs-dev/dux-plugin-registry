@@ -11,9 +11,6 @@
     "author": "Miho1254",
     "description": "Move presentation windows to an audience display, manage a session, and optionally mirror with wl-mirror.",
     "dependencies": [
-        "cmake",
-        "C++17 compiler",
-        "Qt 6 development files",
         "wl-mirror (optional)"
     ],
     "compositors": [
