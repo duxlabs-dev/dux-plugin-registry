@@ -17,7 +17,7 @@
         "niri"
     ],
     "distro": [
-        "arch"
+        "any"
     ],
     "screenshot": "https://raw.githubusercontent.com/Miho1254/duxshell-presentor-hub/main/assets/screenshot.png",
     "requires_dms": ">=2.0.0"
