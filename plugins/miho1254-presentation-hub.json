@@ -1,0 +1,24 @@
+{
+    "id": "presentationHub",
+    "name": "Presentation Hub",
+    "capabilities": [
+        "daemon",
+        "dankbar-widget"
+    ],
+    "category": "utilities",
+    "repo": "https://github.com/Miho1254/duxshell-presentor-hub",
+    "path": "presentation-hub",
+    "author": "Miho1254",
+    "description": "Move presentation windows to an audience display, manage a session, and optionally mirror with wl-mirror.",
+    "dependencies": [
+        "wl-mirror (optional)"
+    ],
+    "compositors": [
+        "niri"
+    ],
+    "distro": [
+        "any"
+    ],
+    "screenshot": "https://raw.githubusercontent.com/Miho1254/duxshell-presentor-hub/main/assets/screenshot.png",
+    "requires_dms": ">=2.0.0"
+}
