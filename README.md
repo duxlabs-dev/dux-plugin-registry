@@ -5532,6 +5532,36 @@ A QuickShell plugin for DankMaterialShell that tracks anime episode releases and
 
 
 
+#### [App Menu Editor](https://github.com/Fansirsqi/dms-app-menu-editor)
+
+Browse application launchers from user and system directories, and create or edit user-level .desktop overrides with environment variables and automatic icon detection.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: appMenuEditor
+- name: App Menu Editor
+- author: fansir
+- compositors: any
+- capabilities: dash-tab, launcher
+- dependencies: python3, kdialog or zenity (optional, file picker), update-desktop-database (optional, desktop database refresh), kbuildsycoca6 or kbuildsycoca5 (optional, KDE menu refresh)
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/Fansirsqi/dms-app-menu-editor/main/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Audio Slots IPC](https://github.com/lpv11/dms-audio-slots)
 
 Daemon plugin for cycling saved output/input device slots and toggling focused-app mute via DMS IPC.
