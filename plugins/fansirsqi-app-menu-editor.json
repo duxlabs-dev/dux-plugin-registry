@@ -1,0 +1,13 @@
+{
+    "id": "appMenuEditor",
+    "name": "App Menu Editor",
+    "capabilities": ["dash-tab", "launcher"],
+    "category": "utilities",
+    "repo": "https://github.com/Fansirsqi/dms-app-menu-editor",
+    "author": "fansir",
+    "description": "Create and edit application menu launchers (.desktop files) from the dash, with icon, executable, and environment variable editors.",
+    "dependencies": ["python3"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/Fansirsqi/dms-app-menu-editor/main/screenshot.png"
+}
