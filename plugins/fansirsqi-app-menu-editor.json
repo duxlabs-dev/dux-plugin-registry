@@ -5,9 +5,15 @@
     "category": "utilities",
     "repo": "https://github.com/Fansirsqi/dms-app-menu-editor",
     "author": "fansir",
-    "description": "Browse and edit application launchers (.desktop files) from the dash, including system entries, environment variables, and automatic icon detection.",
-    "dependencies": ["python3"],
+    "description": "Browse application launchers from user and system directories, and create or edit user-level .desktop overrides with environment variables and automatic icon detection.",
+    "dependencies": [
+        "python3",
+        "kdialog or zenity (optional, file picker)",
+        "update-desktop-database (optional, desktop database refresh)",
+        "kbuildsycoca6 or kbuildsycoca5 (optional, KDE menu refresh)"
+    ],
     "compositors": ["any"],
     "distro": ["any"],
-    "screenshot": "https://raw.githubusercontent.com/Fansirsqi/dms-app-menu-editor/main/screenshot.png"
+    "screenshot": "https://raw.githubusercontent.com/Fansirsqi/dms-app-menu-editor/main/screenshot.png",
+    "requires_dms": ">=2.0.0"
 }
