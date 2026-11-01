@@ -1,0 +1,14 @@
+{
+    "id": "ollamaUsage",
+    "name": "Ollama Cloud Usage",
+    "capabilities": ["dankbar-widget"],
+    "category": "monitoring",
+    "repo": "https://gitlab.com/lobstermane/dms-ollama-usage",
+    "author": "lobster-mane",
+    "description": "Unofficial Ollama Cloud usage widget: used/remaining percentages for the 5-hour and weekly windows, with a per-model request breakdown.",
+    "dependencies": ["ollama-cloud-usage"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "screenshot": "https://gitlab.com/lobstermane/dms-ollama-usage/-/raw/main/screenshot.png",
+    "requires_dms": ">=1.5.0"
+}
