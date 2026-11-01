@@ -6,8 +6,9 @@
   "repo": "https://github.com/kkolsut/ApodWallpaper",
   "author": "Krzysztof Kolsut",
   "description": "Sets NASA's Astronomy Picture of the Day as your wallpaper and refreshes it daily",
-  "dependencies": ["curl"],
-  "compositors": ["niri"],
+  "dependencies": [],
+  "compositors": ["any"],
   "distro": ["any"],
-  "screenshot": "https://raw.githubusercontent.com/kkolsut/ApodWallpaper/0546afbac3db29a7614b4b8449f6a1e51acc6c67/config_screen.png"
+  "screenshot": "https://raw.githubusercontent.com/kkolsut/ApodWallpaper/0546afbac3db29a7614b4b8449f6a1e51acc6c67/config_screen.png",
+  "requires_dms": ">=2.0.0"
 }
