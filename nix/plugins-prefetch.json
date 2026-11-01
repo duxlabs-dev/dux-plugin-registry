@@ -5252,6 +5252,48 @@
     "sha256": "01rngzaw8687q9ikdc9im1mzq0bk46iy0h77mjzlpra5kl6yjz95",
     "url": "https://github.com/jfchenier/dms-display-mirror"
   },
+  "displayModes": {
+    "date": "2026-10-29T19:43:11+03:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-CRuuwlEHQb8H1oLarTtxmQc35DHIWWhYrnsPaILob3g=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "godsGived",
+      "capabilities": [
+        "dankbar-widget",
+        "control-center",
+        "launcher",
+        "ipc"
+      ],
+      "category": "system",
+      "compositors": [
+        "niri"
+      ],
+      "dependencies": [
+        "niri",
+        "jq",
+        "bash"
+      ],
+      "description": "Win+P-style monitor switcher for niri: laptop only, external only, or extended, with the extended layout remembered.",
+      "distro": [
+        "any"
+      ],
+      "id": "displayModes",
+      "name": "Display Modes",
+      "repo": "https://github.com/godsGived/dms-display-modes",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/godsGived/dms-display-modes/main/assets/screenshot.png",
+      "version": "1.0.0"
+    },
+    "path": "/nix/store/gszygfi0nhvz36bvqac5plhwjsx5da5z-dms-display-modes",
+    "rev": "2f0b535d30dc0db987d2cffca66db8c8939020a9",
+    "rootDir": "",
+    "sha256": "0y3gx216h3vvmrc6hnf867j3f1wrf4xsvnl2sq3vyh87a71aw6q9",
+    "url": "https://github.com/godsGived/dms-display-modes"
+  },
   "displayOutput": {
     "date": "2026-02-27T09:38:31+07:00",
     "deepClone": false,
