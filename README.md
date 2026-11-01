@@ -8542,6 +8542,36 @@ Hide/Show bar widgets with a click or hover
 
 
 
+#### [Home Assistant](https://github.com/ghosty2004/dms-home-assistant)
+
+Home Assistant inside the DMS dashboard: rooms, lights, climate, security, media and automations with the same icons, colors and controls as the HA frontend
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: homeAssistantDash
+- name: Home Assistant
+- author: ghosty2004
+- compositors: any
+- capabilities: dash-tab, dash-card, dankbar-widget, daemon, ipc
+- dependencies: qt6-websockets
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/ghosty2004/dms-home-assistant/main/screenshots/areas.png)
+
+</details>
+
+
+
+
+
 #### [Home Assistant Monitor](https://github.com/xxyangyoulin/dms-plugin-hass)
 
 Monitor and display Home Assistant entity states in your status bar
