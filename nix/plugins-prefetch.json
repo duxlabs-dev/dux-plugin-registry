@@ -2646,12 +2646,12 @@
     "url": "https://github.com/heyitsmikey128/DankCustomRunningApps"
   },
   "dankAIUsage": {
-    "date": "2026-10-22T12:15:02+02:00",
+    "date": "2026-10-31T14:10:54+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-DmMKHQ+1pWOvwcAW126SiMr/+4ug2Feo/s997P/uPmc=",
+    "hash": "sha256-caLTUWpW7pfhIOJnd7TkfnQbuH6ERZqJ1x6EsHKK0S0=",
     "leaveDotGit": false,
     "meta": {
       "author": "alcxyz",
@@ -2675,12 +2675,12 @@
       "name": "AI Usage",
       "repo": "https://github.com/alcxyz/DankAIUsage",
       "screenshot": "https://raw.githubusercontent.com/alcxyz/DankAIUsage/main/docs/screenshot.png",
-      "version": "1.4.1"
+      "version": "2.0.0"
     },
-    "path": "/nix/store/9fc9ycikjxb3k06a7j3hmgy28lrz3j6f-DankAIUsage",
-    "rev": "3180a7e7ae3ec911473d24b0614993541b064ed7",
+    "path": "/nix/store/m6gd38lk0dyda66kph02prrfdcrvrh2d-DankAIUsage",
+    "rev": "cdaef74f0d9043e02f5a6a8790fcd0467fce129d",
     "rootDir": "",
-    "sha256": "0rryxvzyqzfgzsl5gn50igxzzjl8j9pdf5n0q6pn79dm1wfhlqqf",
+    "sha256": "0bfii9rb110ysy4rlic4gsw1nx3ywjs7frz243hrgvjnd98x78ki",
     "url": "https://github.com/alcxyz/DankAIUsage"
   },
   "dankActions": {
@@ -7443,12 +7443,12 @@
     "url": "https://github.com/derethil/dms-hue-manager"
   },
   "hydrate": {
-    "date": "2026-10-29T14:41:27-04:00",
+    "date": "2026-11-01T10:17:13+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-q8jJhbrRajjwTK7rhFhBXRtC5aj2ybWfqMKEpEmsKaw=",
+    "hash": "sha256-yb72zt4U1LO/dmLy+l5gjPfwOx3ciXYKMcKyJutyNuI=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -7472,10 +7472,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/hydrate/screenshot.png",
       "version": "2.2.2"
     },
-    "path": "/nix/store/x3m3ciyzarzzwncqjqnxdrs7f93iiz81-dms-plugins",
-    "rev": "6c3c2207d2d0e0b97d630f79aaba4514c6ffcb46",
+    "path": "/nix/store/8il9cb6v8maqq9ajhvra2jjxr27ccqq6-dms-plugins",
+    "rev": "1b9d4bd9c8abdefb2611eb5120b90a3167efb187",
     "rootDir": "",
-    "sha256": "1b19mi4s9162m2gvbjgnm3jl46sx85c89sxf9kq3hsnipa2wkj5b",
+    "sha256": "1qinfbmjdcn26457d2fw3lxz1xwcc1ggmwk2fszv7m0lvv7gdgn9",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "hyprSubmap": {
@@ -10131,12 +10131,12 @@
     "url": "https://github.com/TEJASJONDHALE/dms-nvidia-gpu-monitor"
   },
   "obsbot4linuxDux": {
-    "date": "2026-10-31T01:25:42+01:00",
+    "date": "2026-10-31T21:19:30+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-TEPl7/kn8GUJQRxwFbKWWlTSCv93SUPpCEX1AjE2w7E=",
+    "hash": "sha256-tNHp81Ey3ZxBQ/2GhTk6xPFM7WMDTHPwTJTOylliT2o=",
     "leaveDotGit": false,
     "meta": {
       "author": "nofuturekid",
@@ -10162,12 +10162,12 @@
       "repo": "https://github.com/nofuturekid/obsbot4linux-dux",
       "requires_dms": ">=1.5.0",
       "screenshot": "https://raw.githubusercontent.com/nofuturekid/obsbot4linux-dux/main/assets/screenshot.png",
-      "version": "0.21.0"
+      "version": "0.27.0"
     },
-    "path": "/nix/store/qgaqayjv5q4iwgybispq3qsph2f9ayaz-obsbot4linux-dux",
-    "rev": "e5b78e305b73b52d85780ad9c31cded08d90009f",
+    "path": "/nix/store/r4wasghfhvhy7g7n54rgsp3vwf9vaka4-obsbot4linux-dux",
+    "rev": "2dc4e6c3e382850f35992de61bdb271a528c8a18",
     "rootDir": "",
-    "sha256": "1cf36qqh5xa513ll6jbpzw5d4m2sjsr1aw0w844nbw17z7pyahsc",
+    "sha256": "0sjgc9cwmkll9kq76k03cgnlrwf478wqb1px8d0rrp9ja7rykldl",
     "url": "https://github.com/nofuturekid/obsbot4linux-dux"
   },
   "obsidianCapture": {
