@@ -4384,6 +4384,36 @@ Toggle Niri displays and control monitor hardware brightness, contrast, scale, r
 
 
 
+#### [Display Modes](https://github.com/godsGived/dms-display-modes)
+
+Win+P-style monitor switcher for niri: laptop only, external only, or extended, with the extended layout remembered.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: displayModes
+- name: Display Modes
+- author: godsGived
+- compositors: niri
+- capabilities: dankbar-widget, control-center, launcher, ipc
+- dependencies: niri, jq, bash
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/godsGived/dms-display-modes/main/assets/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Display Output](https://github.com/xyzsteven/dms-displayoutput)
 
 Manage display outputs (Single Display, Mirror, Extend).
