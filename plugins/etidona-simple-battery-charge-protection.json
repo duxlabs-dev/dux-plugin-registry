@@ -1,0 +1,13 @@
+{
+    "id": "simpleBatteryChargeProtection",
+    "name": "Simple Battery Charge Protection",
+    "capabilities": ["dankbar-widget"],
+    "category": "system",
+    "repo": "https://github.com/etidona/dms-simple-battery-charge-protection",
+    "author": "etidona",
+    "description": "One-click battery charge protection: ON stops charging at 80%, OFF charges to 100%.",
+    "dependencies": ["pkexec"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/etidona/dms-simple-battery-charge-protection/main/screenshot.png"
+}
