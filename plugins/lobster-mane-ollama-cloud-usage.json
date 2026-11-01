@@ -5,10 +5,10 @@
     "category": "monitoring",
     "repo": "https://gitlab.com/lobstermane/dms-ollama-usage",
     "author": "lobster-mane",
-    "description": "Unofficial Ollama Cloud usage widget: used/remaining percentages for the 5-hour and weekly windows, with a per-model request breakdown.",
+    "description": "Unofficial Ollama Cloud usage widget for the 5-hour and weekly windows, with used/remaining percentages and per-model request bars. Requires the ollama-cloud-usage helper, built from the plugin repo with Go or Nix; it scrapes ollama.com/settings using a browser session cookie you paste in.",
     "dependencies": ["ollama-cloud-usage"],
     "compositors": ["any"],
     "distro": ["any"],
     "screenshot": "https://gitlab.com/lobstermane/dms-ollama-usage/-/raw/main/screenshot.png",
-    "requires_dms": ">=1.5.0"
+    "requires_dms": ">=2.0.0"
 }
