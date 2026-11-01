@@ -7415,6 +7415,47 @@
     "sha256": "17rnhibkkpl06bx7ypwjqqpniwhr3z9b3iczqn1vfz5lm01nybir",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
+  "homeAssistantDash": {
+    "date": "2026-10-31T11:02:26+02:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-++tiM69YdGM7vGMbKOSy2MmiwrXUzKQiQKveSswUq6M=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "ghosty2004",
+      "capabilities": [
+        "dash-tab",
+        "dash-card",
+        "dankbar-widget",
+        "daemon",
+        "ipc"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "qt6-websockets"
+      ],
+      "description": "Home Assistant inside the DMS dashboard: rooms, lights, climate, security, media and automations with the same icons, colors and controls as the HA frontend",
+      "distro": [
+        "any"
+      ],
+      "id": "homeAssistantDash",
+      "name": "Home Assistant",
+      "repo": "https://github.com/ghosty2004/dms-home-assistant",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/ghosty2004/dms-home-assistant/main/screenshots/areas.png",
+      "version": "1.0.0"
+    },
+    "path": "/nix/store/yjjr2ll5hdvk36mnhj0qakcn9i4x296w-dms-home-assistant",
+    "rev": "26a138a352c861ee1a5f2e8caf2f2566715de5e7",
+    "rootDir": "",
+    "sha256": "18xb2k64mpmb80ia9k6lnp1a5jfqnbj2h6v3phxn6x2qmwrn5szv",
+    "url": "https://github.com/ghosty2004/dms-home-assistant"
+  },
   "homeAssistantMonitor": {
     "date": "2026-10-24T00:13:58+08:00",
     "deepClone": false,
@@ -9296,12 +9337,12 @@
     "url": "https://github.com/beefsizzle/ModernClockDMS"
   },
   "modes": {
-    "date": "2026-10-05T22:55:13-04:00",
+    "date": "2026-11-01T11:26:58-05:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-MkmtWN+kg8z/4dtJaHn2p6zKVV6SQbw67boqq4dkCZ8=",
+    "hash": "sha256-NRCPMKiAnlN9Sx5cMB9g3OdmsCrZy90IDh4jA8xV1tw=",
     "leaveDotGit": false,
     "meta": {
       "author": "Nicolas Chartier",
@@ -9326,10 +9367,10 @@
       "screenshot": "https://raw.githubusercontent.com/l3all/dms-modes/main/screenshot.png",
       "version": "0.1.3"
     },
-    "path": "/nix/store/7h0ws724w4b4jnjd7n30nkfa8gk50fik-dms-modes",
-    "rev": "c9ed8e88ed6e80598d8dab71df4be53670d305ea",
+    "path": "/nix/store/sdcsbf8shc3ynxbfsmz58258cvvbxjn6-dms-modes",
+    "rev": "f5b5b6edc4367ec0fabc9b6e9f8fd8e77f836b63",
     "rootDir": "",
-    "sha256": "17q9cj3snamsxlxbqhcjbrawmb57yrwnhjfvw7zwr0x4vxcasj9j",
+    "sha256": "1p6nap6068qy1q4dvjyr5aq6drywc0gk0p0y9dym77l0m0q8y41m",
     "url": "https://github.com/l3all/dms-modes"
   },
   "mouthGuard": {
