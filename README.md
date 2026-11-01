@@ -3398,6 +3398,36 @@ Quick-add tasks to the aven todo manager from DankLauncher. Pick a project from 
 
 
 
+#### [CalDAV Tasks](https://github.com/brunofin/dms-caldav-tasks)
+
+Manage tasks from multiple CalDAV and Evolution system accounts in grouped, collapsible lists, sorted by open tasks. Evolution system-account support is optional and requires PyGObject and the EDataServer-1.2, ECal-2.0, and ICalGLib-3.0 typelibs from evolution-data-server.
+
+
+
+- id: caldavTasks
+- name: CalDAV Tasks
+- author: Bruno Finger
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: python3, python-caldav
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/brunofin/dms-caldav-tasks/main/assets/screenshot.jpg)
+
+</details>
+
+
+
+
+
 #### [Dank Calendar Agenda](https://github.com/arqueon/dms-dankcalendar)
 
 dcal countdown and scrollable agenda with keyboard navigation, event copying, meeting links and IPC shortcuts; opens events in DankCalendar and keeps the countdown width stable.
