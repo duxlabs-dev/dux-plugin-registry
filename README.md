@@ -8762,6 +8762,36 @@ Convert images between formats (PNG, JPG, WEBP, BMP, TIFF) from the DankBar
 
 
 
+#### [Inline Keyboard](https://github.com/LilFishyChan/dms-inline-keyboard)
+
+On-screen touch keyboard. Candidates, preedit and input-method state are drawn inside the keyboard; that part needs fcitx5 plus a separately built companion addon. Optional voice input shells out to fcitx5-vinput's CLI when it is installed. Input-method switching uses busctl from systemd over D-Bus.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: inlineKeyboard
+- name: Inline Keyboard
+- author: LilFishyChan
+- compositors: any
+- capabilities: daemon, ipc, dankbar-widget
+- dependencies: ydotool
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/LilFishyChan/dms-inline-keyboard/main/docs/images/keyboard.png)
+
+</details>
+
+
+
+
+
 #### [Interval Command](https://github.com/corcoran/dms-interval-command)
 
 Run a command on a custom interval and display its output in the bar. Supports multiple instances with different commands.
