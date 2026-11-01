@@ -5,7 +5,7 @@
     "category": "utilities",
     "repo": "https://github.com/Fansirsqi/dms-app-menu-editor",
     "author": "fansir",
-    "description": "Create and edit application menu launchers (.desktop files) from the dash, with icon, executable, and environment variable editors.",
+    "description": "Browse and edit application launchers (.desktop files) from the dash, including system entries, environment variables, and automatic icon detection.",
     "dependencies": ["python3"],
     "compositors": ["any"],
     "distro": ["any"],
