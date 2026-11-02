@@ -9,7 +9,7 @@
   "category": "monitoring",
   "repo": "https://github.com/joshii-h/dms-device-batteries",
   "author": "joshii-h",
-  "description": "Battery levels of your iPhone (via BlueFerry), Bluetooth devices, Razer mice and USB headsets in one bar widget, with a low-battery warning",
+  "description": "Battery levels of Bluetooth devices, Razer mice, USB headsets and your iPhone in one bar widget, with a low-battery warning. Optional: openrazer, headsetcontrol, BlueFerry, python-dbus, pyudev",
   "dependencies": [
     "python3",
     "upower"
@@ -20,5 +20,6 @@
   "distro": [
     "any"
   ],
-  "screenshot": "https://raw.githubusercontent.com/joshii-h/dms-device-batteries/main/assets/popout.png"
+  "screenshot": "https://raw.githubusercontent.com/joshii-h/dms-device-batteries/main/assets/popout.png",
+  "requires_dms": ">=2.0.0"
 }
