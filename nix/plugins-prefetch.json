@@ -9185,12 +9185,12 @@
     "url": "https://github.com/korbash/mihomo-dms-widget"
   },
   "miniDesktop": {
-    "date": "2026-10-31T04:44:14+03:00",
+    "date": "2026-11-02T16:56:37+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-U1QiWIrQcV5PIO5zW+H/Pdvit/f9v1Ho/FP0SpcofEA=",
+    "hash": "sha256-5QyOd5BU1Y3A0t6a5vE1YPRT/tNI/dznB7vKFwDM/EI=",
     "leaveDotGit": false,
     "meta": {
       "author": "KadirJeager",
@@ -9216,12 +9216,12 @@
       "repo": "https://github.com/KadirJeager/dms-mini-desktop",
       "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/KadirJeager/dms-mini-desktop/main/assets/screenshot.png",
-      "version": "2.1.0"
+      "version": "2.2.1"
     },
-    "path": "/nix/store/aymqx8ydv6pr2pk7xy8dv95sny28z4id-dms-mini-desktop",
-    "rev": "5081d9243c44bd1a2cd59c736411a04fefb4aa0e",
+    "path": "/nix/store/ng4g35sswhgxiwh8darzwvr3mdrw2hjz-dms-mini-desktop",
+    "rev": "9579c050d0834c1b094a9f77d0c206b3353a8820",
     "rootDir": "",
-    "sha256": "0h3w52blmx2kzkl53gzxyyvy5nrxzzhmnwzf417mwwfhi9c24m2k",
+    "sha256": "0hpwrh01gjmv0zkxrza8sgz57x306pqyd6nysb08vmalj1vqw375",
     "url": "https://github.com/KadirJeager/dms-mini-desktop"
   },
   "mise": {
@@ -11952,6 +11952,45 @@
     "rootDir": "",
     "sha256": "11rdn16qmny62nbvzn0a3ywcqf241b6v99c17j8f6350vc101ip3",
     "url": "https://github.com/smithyyang/dms-screen-recorder"
+  },
+  "screencastPicker": {
+    "date": "2026-11-02T07:42:15-03:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-xJ02pOokqwLvz0krQwQOoNSK1oop7zywJXjFcffP1kw=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "psyreactor",
+      "capabilities": [
+        "daemon",
+        "ipc"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "mango"
+      ],
+      "dependencies": [
+        "xdg-desktop-portal-wlr",
+        "grim"
+      ],
+      "description": "Screen and window picker for screen sharing on MangoWC (xdg-desktop-portal-wlr), styled like DMS",
+      "distro": [
+        "any"
+      ],
+      "id": "screencastPicker",
+      "name": "Screencast Picker",
+      "repo": "https://github.com/psyreactor/dms-screencastPicker.git",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://github.com/psyreactor/dms-screencastPicker/raw/main/screenshot.png",
+      "version": "0.1.1"
+    },
+    "path": "/nix/store/zhr9ngbhrwrif25w92086kssb68j0cdr-dms-screencastPicker",
+    "rev": "cd0a26bc962a71a98dec4d392827a035e24ca6d4",
+    "rootDir": "",
+    "sha256": "0k6nrzvp3ibq4nq3rvr9ibb8mm501q246as9rzph5ar4xaj3d7f4",
+    "url": "https://github.com/psyreactor/dms-screencastPicker.git"
   },
   "screenkey": {
     "date": "2026-11-02T08:19:51+07:00",
