@@ -5654,7 +5654,7 @@ A QuickShell plugin for DankMaterialShell that tracks anime episode releases and
 
 #### [App Menu Editor](https://github.com/Fansirsqi/dms-app-menu-editor)
 
-Browse application launchers from user and system directories, and create or edit user-level .desktop overrides with environment variables and automatic icon detection.
+Browse application launchers from user and system directories in a draggable floating overlay, and create or edit user-level .desktop overrides with environment variables and automatic icon detection.
 
 <strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
@@ -5662,7 +5662,7 @@ Browse application launchers from user and system directories, and create or edi
 - name: App Menu Editor
 - author: fansir
 - compositors: any
-- capabilities: dash-tab, launcher
+- capabilities: dash-tab, launcher, daemon
 - dependencies: python3, kdialog or zenity (optional, file picker), update-desktop-database (optional, desktop database refresh), kbuildsycoca6 or kbuildsycoca5 (optional, KDE menu refresh)
 - distro: any
 
