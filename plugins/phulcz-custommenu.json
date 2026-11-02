@@ -6,7 +6,7 @@
     "repo": "https://github.com/PhulcZ/dms-custom-menu",
     "author": "PhulcZ",
     "description": "Highly customizable start menu and launcher: search, categories, app tiles and buttons, arranged freely on a grid",
-    "dependencies": [],
+    "dependencies": ["xdg-utils"],
     "compositors": ["hyprland"],
     "distro": ["any"],
     "requires_dms": ">=2.0.0",
