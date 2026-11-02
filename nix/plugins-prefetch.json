@@ -659,18 +659,19 @@
     "url": "https://github.com/FeikoWielsma/dms-antigravity-cli"
   },
   "appMenuEditor": {
-    "date": "2026-11-02T15:33:05+08:00",
+    "date": "2026-11-02T20:11:33+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-1m+ehJ9iGk0Wz/2kIduCn+1qynP9ahzyWRbfv7Nmp6c=",
+    "hash": "sha256-TLHGqcOCcC+rnRow4yTq2A8cIdJFMsXhJdzfzESvBa0=",
     "leaveDotGit": false,
     "meta": {
       "author": "fansir",
       "capabilities": [
         "dash-tab",
-        "launcher"
+        "launcher",
+        "daemon"
       ],
       "category": "utilities",
       "compositors": [
@@ -682,7 +683,7 @@
         "update-desktop-database (optional, desktop database refresh)",
         "kbuildsycoca6 or kbuildsycoca5 (optional, KDE menu refresh)"
       ],
-      "description": "Browse application launchers from user and system directories, and create or edit user-level .desktop overrides with environment variables and automatic icon detection.",
+      "description": "Browse application launchers from user and system directories in a draggable floating overlay, and create or edit user-level .desktop overrides with environment variables and automatic icon detection.",
       "distro": [
         "any"
       ],
@@ -693,10 +694,10 @@
       "screenshot": "https://raw.githubusercontent.com/Fansirsqi/dms-app-menu-editor/main/screenshot.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/3xdcra93kxch2lik5y2m2373ncccff6p-dms-app-menu-editor",
-    "rev": "fe81cdf3f7ef407d5becc71d81637c40506db632",
+    "path": "/nix/store/8kj846ar0yvr9h8kb6liyhwljx5s4pn6-dms-app-menu-editor",
+    "rev": "9303818cffe616e600742811fd63e1d7c17e1a22",
     "rootDir": "",
-    "sha256": "19x7csrvzpqnb7r1qspxfg56mvczhbdj397xrwb4s6k2ky29wvyn",
+    "sha256": "1b85mx2crpyw4phwacj5s8hiq3yqx8jf6c0sknmjyw42qflwdcac",
     "url": "https://github.com/Fansirsqi/dms-app-menu-editor"
   },
   "attentionBadges": {
