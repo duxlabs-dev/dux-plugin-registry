@@ -8722,6 +8722,36 @@ A widget for displaying your hostname
 
 
 
+#### [Hue Director](https://github.com/max72bra/huedirector)
+
+Control Philips Hue lights, rooms and scenes from the Dux Shell bar, with automations on login, lock, monitor power, sleep, logout, reboot and power off. Talks to the Hue Bridge on the local network (API v2). Pairing finds the bridge through mDNS with avahi-browse (optional) or, if that finds nothing and no IP is entered, through discovery.meethue.com.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: hueDirector
+- name: Hue Director
+- author: maxb
+- compositors: any
+- capabilities: daemon, dankbar-widget
+- dependencies: curl, openssl, systemd
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/max72bra/huedirector/main/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Hue Manager](https://github.com/derethil/dms-hue-manager)
 
 Control your Philips Hue lights directly from DMS
