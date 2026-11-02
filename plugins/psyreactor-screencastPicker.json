@@ -1,0 +1,14 @@
+{
+    "id": "screencastPicker",
+    "name": "Screencast Picker",
+    "capabilities": ["daemon", "ipc"],
+    "category": "utilities",
+    "repo": "https://github.com/psyreactor/dms-screencastPicker.git",
+    "author": "psyreactor",
+    "description": "Screen and window picker for screen sharing on MangoWC (xdg-desktop-portal-wlr), styled like DMS",
+    "dependencies": ["xdg-desktop-portal-wlr", "grim"],
+    "compositors": ["mango"],
+    "distro": ["any"],
+    "screenshot": "https://github.com/psyreactor/dms-screencastPicker/raw/main/screenshot.png",
+    "requires_dms": ">=2.0.0"
+}
