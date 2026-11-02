@@ -2594,6 +2594,36 @@ Monitor Nix store disk usage and system generations with integrated system manag
 
 
 
+#### [Ollama Cloud Usage](https://gitlab.com/lobstermane/dms-ollama-usage)
+
+Unofficial Ollama Cloud usage widget for the 5-hour and weekly windows, with used/remaining percentages and per-model request bars. Requires the ollama-cloud-usage helper, built from the plugin repo with Go or Nix; it scrapes ollama.com/settings using a browser session cookie you paste in.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: ollamaUsage
+- name: Ollama Cloud Usage
+- author: lobster-mane
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: ollama-cloud-usage
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://gitlab.com/lobstermane/dms-ollama-usage/-/raw/main/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [OpenTrackerBar](https://github.com/wsmajt/OpenTrackerBar)
 
 Track AI usage limits via opentracker CLI
