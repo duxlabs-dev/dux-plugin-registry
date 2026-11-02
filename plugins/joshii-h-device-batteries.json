@@ -1,0 +1,24 @@
+{
+  "id": "deviceBatteries",
+  "name": "Device Batteries",
+  "capabilities": [
+    "daemon",
+    "dankbar-widget",
+    "monitoring"
+  ],
+  "category": "monitoring",
+  "repo": "https://github.com/joshii-h/dms-device-batteries",
+  "author": "joshii-h",
+  "description": "Battery levels of your iPhone (via BlueFerry), Bluetooth devices, Razer mice and USB headsets in one bar widget, with a low-battery warning",
+  "dependencies": [
+    "python3",
+    "upower"
+  ],
+  "compositors": [
+    "any"
+  ],
+  "distro": [
+    "any"
+  ],
+  "screenshot": "https://raw.githubusercontent.com/joshii-h/dms-device-batteries/main/assets/popout.png"
+}
