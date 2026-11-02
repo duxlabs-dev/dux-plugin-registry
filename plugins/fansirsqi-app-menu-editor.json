@@ -1,11 +1,11 @@
 {
     "id": "appMenuEditor",
     "name": "App Menu Editor",
-    "capabilities": ["dash-tab", "launcher"],
+    "capabilities": ["dash-tab", "launcher", "daemon"],
     "category": "utilities",
     "repo": "https://github.com/Fansirsqi/dms-app-menu-editor",
     "author": "fansir",
-    "description": "Browse application launchers from user and system directories, and create or edit user-level .desktop overrides with environment variables and automatic icon detection.",
+    "description": "Browse application launchers from user and system directories in a draggable floating overlay, and create or edit user-level .desktop overrides with environment variables and automatic icon detection.",
     "dependencies": [
         "python3",
         "kdialog or zenity (optional, file picker)",
