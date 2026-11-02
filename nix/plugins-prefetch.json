@@ -659,12 +659,12 @@
     "url": "https://github.com/FeikoWielsma/dms-antigravity-cli"
   },
   "appMenuEditor": {
-    "date": "2026-11-01T23:55:10+08:00",
+    "date": "2026-11-02T15:33:05+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-zC51kDPPhaM3ve6pgV4ALA6dvGfe5BYW3MSaXokD5jY=",
+    "hash": "sha256-1m+ehJ9iGk0Wz/2kIduCn+1qynP9ahzyWRbfv7Nmp6c=",
     "leaveDotGit": false,
     "meta": {
       "author": "fansir",
@@ -693,10 +693,10 @@
       "screenshot": "https://raw.githubusercontent.com/Fansirsqi/dms-app-menu-editor/main/screenshot.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/6kzznyl76xxq0mf7xyws12vv34m7bc75-dms-app-menu-editor",
-    "rev": "b8040ca849995938d9b0589dd3c2bdb336bd69ea",
+    "path": "/nix/store/3xdcra93kxch2lik5y2m2373ncccff6p-dms-app-menu-editor",
+    "rev": "fe81cdf3f7ef407d5becc71d81637c40506db632",
     "rootDir": "",
-    "sha256": "0dp60f4mx6n4vhb1dr6ycyy9s3ic01g83agfplvs71fg6f87abnc",
+    "sha256": "19x7csrvzpqnb7r1qspxfg56mvczhbdj397xrwb4s6k2ky29wvyn",
     "url": "https://github.com/Fansirsqi/dms-app-menu-editor"
   },
   "attentionBadges": {
@@ -4050,12 +4050,12 @@
     "url": "https://github.com/alcxyz/DankSession"
   },
   "dankSoftwareDepot": {
-    "date": "2026-11-01T21:22:12+01:00",
+    "date": "2026-11-02T08:07:59+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-RA3+5vCTHZOl0RW9SWUGv2mVLYBlDPKIW3ftyRbqxgM=",
+    "hash": "sha256-ggB2N5CYwXdsqpMs+sPPpwDaOhD7ci/uQFTb+wysm0Y=",
     "leaveDotGit": false,
     "meta": {
       "author": "Vincent Blok",
@@ -4086,12 +4086,12 @@
       "repo": "https://github.com/vinceecniv/DuxSoftwareDepot",
       "requires_dms": ">=1.6.0",
       "screenshot": "https://raw.githubusercontent.com/vinceecniv/DuxSoftwareDepot/main/screenshot.png",
-      "version": "1.8.0"
+      "version": "1.8.1"
     },
-    "path": "/nix/store/4nia8s03ni35g59wf89c9yylnpkr4l21-DuxSoftwareDepot",
-    "rev": "75524044bb503e2b700c8cac416e4f5494df7976",
+    "path": "/nix/store/c0ias009knbccncqgwcnm9ny7lkgrwwn-DuxSoftwareDepot",
+    "rev": "8213c55192d1f7e852268bbfa095b85ae2de203e",
     "rootDir": "",
-    "sha256": "00y6x8bckvbpbf4g4335h0nrasdz0rjlkg8ms6jr67cky3kgw3a4",
+    "sha256": "0ilvmh6gpnsl83p2ywpv20xdl057rz1zlb4km9n7ghcqj0vpc042",
     "url": "https://github.com/vinceecniv/DuxSoftwareDepot"
   },
   "dankSpotify": {
@@ -5253,12 +5253,12 @@
     "url": "https://github.com/jfchenier/dms-display-mirror"
   },
   "displayModes": {
-    "date": "2026-10-29T19:43:11+03:00",
+    "date": "2026-11-02T09:23:46+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-CRuuwlEHQb8H1oLarTtxmQc35DHIWWhYrnsPaILob3g=",
+    "hash": "sha256-2iytACrupbs/xpGPvvR429XW4UydOUlrTk5mMT6Nagk=",
     "leaveDotGit": false,
     "meta": {
       "author": "godsGived",
@@ -5286,12 +5286,12 @@
       "repo": "https://github.com/godsGived/dms-display-modes",
       "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/godsGived/dms-display-modes/main/assets/screenshot.png",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
-    "path": "/nix/store/gszygfi0nhvz36bvqac5plhwjsx5da5z-dms-display-modes",
-    "rev": "2f0b535d30dc0db987d2cffca66db8c8939020a9",
+    "path": "/nix/store/ygf1xz5rvm79lynfdx1r9x0skniwsi6j-dms-display-modes",
+    "rev": "39cda93a10c87a45c1f0fd6e54423ae3d8113661",
     "rootDir": "",
-    "sha256": "0y3gx216h3vvmrc6hnf867j3f1wrf4xsvnl2sq3vyh87a71aw6q9",
+    "sha256": "02bailz32rjf9rmljfcx9khxdmfvg3sbx3wiqqzvp9gf580asb6s",
     "url": "https://github.com/godsGived/dms-display-modes"
   },
   "displayOutput": {
@@ -6897,12 +6897,12 @@
     "url": "https://github.com/arqueon/dms-gaze-auth"
   },
   "gbudsWatch": {
-    "date": "2026-10-29T22:28:52-06:00",
+    "date": "2026-11-01T22:50:57-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-9dU4CNFfuJl+UahGzEdpc6UVbDRW+UnXlH1kBCr7jwU=",
+    "hash": "sha256-KuCRGqpJuHdhjeqUyj5PXSwwPHlNpbfROrJpoRPht+0=",
     "leaveDotGit": false,
     "meta": {
       "author": "JessVolet",
@@ -6928,12 +6928,12 @@
       "repo": "https://github.com/JessVolet/Gbuds-Widget",
       "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/JessVolet/Gbuds-Widget/main/assets/screenshots/control-popout.png",
-      "version": "0.1.0"
+      "version": "0.7.0-dev.9"
     },
-    "path": "/nix/store/sm2r2j42cwi7f5kfarpn0jb08bj1v5c5-Gbuds-Widget",
-    "rev": "766fe60da064ff477bbf91515343a4250de3c938",
+    "path": "/nix/store/z9r1ibmvd69ani4ka1pgmbv51a66wzw1-Gbuds-Widget",
+    "rev": "da42dbd48e3923961144b655a56d30521bfcb12d",
     "rootDir": "",
-    "sha256": "01cgzcm08r3xjkblkyan6in1b9bkd53wqim8a5z9kf2zs443imgm",
+    "sha256": "1vdpw49s2sdj7b8vg9adg4y30b2x9wzcm57aimhpgf29m8d93q1a",
     "url": "https://github.com/JessVolet/Gbuds-Widget"
   },
   "githubHeatmapPlus": {
@@ -7457,12 +7457,12 @@
     "url": "https://github.com/ghosty2004/dms-home-assistant"
   },
   "homeAssistantMonitor": {
-    "date": "2026-10-24T00:13:58+08:00",
+    "date": "2026-11-02T13:10:36+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-2wzyeWjV0tAFh9LA/xh+f1VSOt8tDdcRYuWJcrFHdjE=",
+    "hash": "sha256-yyg1IkumcjyMxJ1aBR3/rnnxIrBpWDOR/pNKfeQ9wYg=",
     "leaveDotGit": false,
     "meta": {
       "author": "xxyangyoulin",
@@ -7487,12 +7487,12 @@
       "repo": "https://github.com/xxyangyoulin/dms-plugin-hass",
       "requires_dms": ">=1.4.0",
       "screenshot": "https://raw.githubusercontent.com/xxyangyoulin/dms-plugin-hass/master/assets/screenshot.png",
-      "version": "3.1.2"
+      "version": "3.1.3"
     },
-    "path": "/nix/store/d674a16d8x8v62kgxb30h4zvs6kjnril-dms-plugin-hass",
-    "rev": "bd95ce0d4707153c891495eb21feb9a5a675e61f",
+    "path": "/nix/store/5bib67v9xr6h9ykd3ylpqsc3malnr112-dms-plugin-hass",
+    "rev": "f76224ead8de03b94fff5f4f1821fdd1279acb85",
     "rootDir": "",
-    "sha256": "0cbn8yqp52g5c88xf39dvwx54mbzgqcgzh6jhw2x1lnmd1wz436v",
+    "sha256": "12617pj7sjlkzs8k6n39n0ig2ydfzwfhanlxqj63qwm69ci3aa6b",
     "url": "https://github.com/xxyangyoulin/dms-plugin-hass"
   },
   "hoshiCalendar": {
@@ -7747,12 +7747,12 @@
     "url": "https://github.com/nderscore/dms-plugins"
   },
   "hyprwhsprVoiceOverlay": {
-    "date": "2026-08-18T22:29:45+08:00",
+    "date": "2026-11-02T16:30:14+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-CT88AUYa6KpNOM0mMO7tMgnyyx6Ww2CoI6UeadQnK/8=",
+    "hash": "sha256-BFxAsDZS329kRYMwdtC8z/a4WKu9qmjz/3GEGp5Ki/M=",
     "leaveDotGit": false,
     "meta": {
       "author": "lucianosrp",
@@ -7775,12 +7775,12 @@
       "repo": "https://github.com/lucianosrp/HyprwhsprVoiceOverlay",
       "requires_dms": ">=1.5.0",
       "screenshot": "https://raw.githubusercontent.com/lucianosrp/HyprwhsprVoiceOverlay/main/screenshot.png",
-      "version": "1.0.0"
+      "version": "2.0.0"
     },
-    "path": "/nix/store/5gf6sg9m959v57v25nf1w21njnykg1sp-HyprwhsprVoiceOverlay",
-    "rev": "dd7e1b60fbf31aa01398e54cc27f975958769e5a",
+    "path": "/nix/store/n0vl2npmcjnlp9mkvlicd6jvaadi7x6j-HyprwhsprVoiceOverlay",
+    "rev": "ee6613706a92e292bb90d8a7695cfb489dfeb890",
     "rootDir": "",
-    "sha256": "1zrb4za6j7m54fl61hwn3v5z429jxpp309nd716sms0s8q0kqgq9",
+    "sha256": "1wwb9ag1m13izzrniamxmdcbixngpk87cc438mj6zpsj6sq40p04",
     "url": "https://github.com/lucianosrp/HyprwhsprVoiceOverlay"
   },
   "imageConverter": {
@@ -7821,12 +7821,12 @@
     "url": "https://github.com/murilo-gotardo/dms-image-converter"
   },
   "inlineKeyboard": {
-    "date": "2026-11-01T23:16:52+08:00",
+    "date": "2026-11-02T17:09:37+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-0E5K2r7SpkdWiXRoam0l0IB2/OgEO3YsTKrzh91/mkQ=",
+    "hash": "sha256-d2WNk++ZolrbzkZIvEQdCf+AVlbGYSreR5b+U74Lq4A=",
     "leaveDotGit": false,
     "meta": {
       "author": "LilFishyChan",
@@ -7851,12 +7851,12 @@
       "repo": "https://github.com/LilFishyChan/dms-inline-keyboard",
       "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/LilFishyChan/dms-inline-keyboard/main/docs/images/keyboard.png",
-      "version": "0.1.9"
+      "version": "0.2.1"
     },
-    "path": "/nix/store/fj1727af2j8pa974v991yldx01dx877l-dms-inline-keyboard",
-    "rev": "044f6ee4bb543bd84f39a735c9ca3a3f6a548cd6",
+    "path": "/nix/store/5rsx2p3xnxc68yklzg4layvkgd15c8c6-dms-inline-keyboard",
+    "rev": "ff2e2fe30b00efc0f427ff90bf640747f5050fb5",
     "rootDir": "",
-    "sha256": "0i4sgzfqgwxa9hn7cfq4x3y7d06h4mnnls3li5b4g9njpvd4lknh",
+    "sha256": "105b1fz57zln8zg2lqf6arb81zq93m2bqj26rvdmm8lrxy9qsrbp",
     "url": "https://github.com/LilFishyChan/dms-inline-keyboard"
   },
   "intelGpuMonitor": {
@@ -12288,6 +12288,43 @@
     "rootDir": "",
     "sha256": "0jr5d2f9f8x4rnj8rv40qijg0w5yqpsz9klv8875qx7wx02jl8py",
     "url": "https://github.com/Dadangdut33/dms-plugins"
+  },
+  "simpleBatteryChargeProtection": {
+    "date": "2026-11-02T09:56:56+01:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-FQNMw6ezfFbM1tJcD85nIr5kLnc9yRMyqppj/vckZgo=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "etidona",
+      "capabilities": [
+        "dankbar-widget"
+      ],
+      "category": "system",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "pkexec"
+      ],
+      "description": "One-click battery charge protection: ON stops charging at 80%, OFF charges to 100%. On first use it asks for your password (pkexec) and installs a udev rule in /etc/udev/rules.d that gives your user write access to the battery charge threshold. The rule stays after uninstalling; the README explains how to remove it.",
+      "distro": [
+        "any"
+      ],
+      "id": "simpleBatteryChargeProtection",
+      "name": "Simple Battery Charge Protection",
+      "repo": "https://github.com/etidona/dms-simple-battery-charge-protection",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/etidona/dms-simple-battery-charge-protection/main/screenshot.png",
+      "version": "1.0.0"
+    },
+    "path": "/nix/store/2bmsrdqccpbzz2xlkfb9084qzjgl8xx1-dms-simple-battery-charge-protection",
+    "rev": "4172a7bb4b9e59f79ccc8e78bc02fce9ad97145c",
+    "rootDir": "",
+    "sha256": "02k64kvzwqwsm8r17j9xfwp69gi2cz70yp6jsv65cz5klz1lq0qm",
+    "url": "https://github.com/etidona/dms-simple-battery-charge-protection"
   },
   "sitStandReminder": {
     "date": "2026-07-21T17:27:28+02:00",
