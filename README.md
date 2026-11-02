@@ -11002,6 +11002,36 @@ GPU-accelerated monitor recording with VFR, quality and resolution controls, cur
 
 
 
+#### [Screencast Picker](https://github.com/psyreactor/dms-screencastPicker.git)
+
+Screen and window picker for screen sharing on MangoWC (xdg-desktop-portal-wlr), styled like DMS
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: screencastPicker
+- name: Screencast Picker
+- author: psyreactor
+- compositors: mango
+- capabilities: daemon, ipc
+- dependencies: xdg-desktop-portal-wlr, grim
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://github.com/psyreactor/dms-screencastPicker/raw/main/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Screenkey](https://github.com/hthienloc/dms-plugins)
 
 An always-on-top keystroke and mouse click visualizer for tutorials.
