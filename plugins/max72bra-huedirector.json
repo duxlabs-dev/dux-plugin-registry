@@ -1,13 +1,25 @@
 {
     "id": "hueDirector",
     "name": "Hue Director",
-    "capabilities": ["daemon", "dankbar-widget"],
+    "capabilities": [
+        "daemon",
+        "dankbar-widget"
+    ],
     "category": "utilities",
     "repo": "https://github.com/max72bra/huedirector",
     "author": "maxb",
-    "description": "Control Philips Hue lights, rooms and scenes from the bar, with automations on session events. Talks directly to the Hue Bridge, no other tools needed.",
-    "dependencies": ["curl", "openssl"],
-    "compositors": ["any"],
-    "distro": ["any"],
+    "description": "Control Philips Hue lights, rooms and scenes from the Dux Shell bar, with automations on login, lock, monitor power, sleep, logout, reboot and power off. Talks to the Hue Bridge on the local network (API v2). Pairing finds the bridge through mDNS with avahi-browse (optional) or, if that finds nothing and no IP is entered, through discovery.meethue.com.",
+    "dependencies": [
+        "curl",
+        "openssl",
+        "systemd"
+    ],
+    "compositors": [
+        "any"
+    ],
+    "distro": [
+        "any"
+    ],
+    "requires_dms": ">=2.0.0",
     "screenshot": "https://raw.githubusercontent.com/max72bra/huedirector/main/screenshot.png"
 }
