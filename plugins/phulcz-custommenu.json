@@ -1,0 +1,13 @@
+{
+    "id": "customMenu",
+    "name": "CustomMenu",
+    "capabilities": ["dankbar-widget"],
+    "category": "utilities",
+    "repo": "https://github.com/PhulcZ/dms-custom-menu",
+    "author": "PhulcZ",
+    "description": "Highly customizable start menu and launcher: search, categories, app tiles and buttons, arranged freely on a grid",
+    "dependencies": [],
+    "compositors": ["hyprland"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/PhulcZ/dms-custom-menu/main/docs/menu.png"
+}
