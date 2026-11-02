@@ -5149,6 +5149,36 @@ Comprehensive system update widget backed by the Shelly (ALPM) CLI — pacman, A
 
 
 
+#### [Simple Battery Charge Protection](https://github.com/etidona/dms-simple-battery-charge-protection)
+
+One-click battery charge protection: ON stops charging at 80%, OFF charges to 100%. On first use it asks for your password (pkexec) and installs a udev rule in /etc/udev/rules.d that gives your user write access to the battery charge threshold. The rule stays after uninstalling; the README explains how to remove it.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: simpleBatteryChargeProtection
+- name: Simple Battery Charge Protection
+- author: etidona
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: pkexec
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/etidona/dms-simple-battery-charge-protection/main/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Storage Monitor](https://github.com/YoungJurry/dms-storage-monitor)
 
 Monitor total and per-partition storage usage with progress bars, and mount or unmount internal and removable drives via udisks2.
