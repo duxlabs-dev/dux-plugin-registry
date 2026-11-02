@@ -1,0 +1,14 @@
+{
+    "id": "simpleBatteryChargeProtection",
+    "name": "Simple Battery Charge Protection",
+    "capabilities": ["dankbar-widget"],
+    "category": "system",
+    "repo": "https://github.com/etidona/dms-simple-battery-charge-protection",
+    "author": "etidona",
+    "description": "One-click battery charge protection: ON stops charging at 80%, OFF charges to 100%. On first use it asks for your password (pkexec) and installs a udev rule in /etc/udev/rules.d that gives your user write access to the battery charge threshold. The rule stays after uninstalling; the README explains how to remove it.",
+    "dependencies": ["pkexec"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/etidona/dms-simple-battery-charge-protection/main/screenshot.png",
+    "requires_dms": ">=2.0.0"
+}
