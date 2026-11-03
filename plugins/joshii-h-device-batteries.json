@@ -1,0 +1,25 @@
+{
+  "id": "deviceBatteries",
+  "name": "Device Batteries",
+  "capabilities": [
+    "daemon",
+    "dankbar-widget",
+    "monitoring"
+  ],
+  "category": "monitoring",
+  "repo": "https://github.com/joshii-h/dms-device-batteries",
+  "author": "joshii-h",
+  "description": "Battery levels of Bluetooth devices, Logitech mice and keyboards, Razer mice, USB headsets, your iPhone and AirPods in one bar widget, with a low-battery warning. Optional: solaar, openrazer, headsetcontrol, BlueFerry (+ its AirPods plugin), python-dbus, pyudev",
+  "dependencies": [
+    "python3",
+    "upower"
+  ],
+  "compositors": [
+    "any"
+  ],
+  "distro": [
+    "any"
+  ],
+  "screenshot": "https://raw.githubusercontent.com/joshii-h/dms-device-batteries/main/assets/popout.png",
+  "requires_dms": ">=2.0.0"
+}
