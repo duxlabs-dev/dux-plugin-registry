@@ -20,7 +20,7 @@
         "settings_read",
         "settings_write"
     ],
-    "requires_dms": ">=1.5.0",
+    "requires_dms": ">=2.0.0",
     "dependencies": [
         "herdr",
         "python3",
@@ -32,6 +32,5 @@
     "distro": [
         "any"
     ],
-    "screenshot": "https://raw.githubusercontent.com/arqueon/dux-herdr-fleet/main/assets/screenshot.png",
-    "i18n": true
+    "screenshot": "https://raw.githubusercontent.com/arqueon/dux-herdr-fleet/main/assets/screenshot.png"
 }
