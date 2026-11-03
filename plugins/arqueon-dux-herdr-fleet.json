@@ -1,0 +1,35 @@
+{
+    "id": "duxHerdrFleet",
+    "name": "Dux Herdr Fleet",
+    "capabilities": [
+        "dankbar-widget",
+        "monitoring",
+        "ipc"
+    ],
+    "category": "monitoring",
+    "repo": "https://github.com/arqueon/dux-herdr-fleet",
+    "description": "Multi-machine and workspace agent monitor for herdr and Herdr Desktop App (hc) with live status, context tokens, machine filter and one-click pane focus. Fork of Mor-dev/herdr-agent-monitor expanded to all machines and hc.",
+    "version": "1.0.0",
+    "author": "arqueon",
+    "icon": "smart_toy",
+    "type": "widget",
+    "component": "./HerdrFleetWidget.qml",
+    "settings": "./HerdrFleetSettings.qml",
+    "permissions": [
+        "process",
+        "settings_read",
+        "settings_write"
+    ],
+    "requires_dms": ">=1.5.0",
+    "dependencies": [
+        "herdr",
+        "python3"
+    ],
+    "compositors": [
+        "any"
+    ],
+    "distro": [
+        "any"
+    ],
+    "screenshot": "https://raw.githubusercontent.com/arqueon/dux-herdr-fleet/main/assets/screenshot.png"
+}
