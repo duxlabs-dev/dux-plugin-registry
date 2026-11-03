@@ -5042,6 +5042,46 @@
     "sha256": "0c4ika0khjk77w9fkivm1vgqmyn593dzwbrqgz9fwfms3pkh96vf",
     "url": "https://github.com/xxyangyoulin/dms-plugin-developer-utilities"
   },
+  "deviceBatteries": {
+    "date": "2026-11-03T11:15:05+01:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-5YvrBcDiFcO/6RtESRdk5qN+VbXSF389RsAf3w71dQY=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "joshii-h",
+      "capabilities": [
+        "daemon",
+        "dankbar-widget",
+        "monitoring"
+      ],
+      "category": "monitoring",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "python3",
+        "upower"
+      ],
+      "description": "Battery levels of Bluetooth devices, Logitech mice and keyboards, Razer mice, USB headsets, your iPhone and AirPods in one bar widget, with a low-battery warning. Optional: solaar, openrazer, headsetcontrol, BlueFerry (+ its AirPods plugin), python-dbus, pyudev",
+      "distro": [
+        "any"
+      ],
+      "id": "deviceBatteries",
+      "name": "Device Batteries",
+      "repo": "https://github.com/joshii-h/dms-device-batteries",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/joshii-h/dms-device-batteries/main/assets/popout.png",
+      "version": "1.6.1"
+    },
+    "path": "/nix/store/axvhy679yifp1m2yg17kan88k4gs1w0m-dms-device-batteries",
+    "rev": "0c5110eaecff56255b36a38bb6f1fb568cd66f14",
+    "rootDir": "",
+    "sha256": "01kmyl7dy7y08qypy5yjnmapx8z6chblji0vx6zw65g2q02yp2z5",
+    "url": "https://github.com/joshii-h/dms-device-batteries"
+  },
   "dgpuStatus": {
     "date": "2026-06-08T01:18:52+01:00",
     "deepClone": false,
@@ -8630,12 +8670,12 @@
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "lyricsEmbed": {
-    "date": "2026-10-29T21:13:35+08:00",
+    "date": "2026-11-03T18:04:06+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-ljiH3xxxC05xUpqQSmxFyXaDlI84Bqh2oX+cqzK835A=",
+    "hash": "sha256-TYewX4gCQVncyhGcucU4SUUqO0yA/HHU3C1dBPRK2b4=",
     "leaveDotGit": false,
     "meta": {
       "author": "lemonmon",
@@ -8657,12 +8697,12 @@
       "name": "LyricsEmbed",
       "repo": "https://github.com/Lemon-mon-254/dms-plugin-Lyrics",
       "screenshot": "https://raw.githubusercontent.com/Lemon-mon-254/dms-plugin-Lyrics/main/docs/screenshot.png",
-      "version": "1.8.1"
+      "version": "1.8.2"
     },
-    "path": "/nix/store/li540h0qssxb00d06x0pckrhx7fbvyds-dms-plugin-Lyrics",
-    "rev": "3c5bef134d4f90da4151cff2ba4b2a3722228d09",
+    "path": "/nix/store/y6xgd3jr7kiykgrs7khhjc8w00mvy0vc-dms-plugin-Lyrics",
+    "rev": "1721609b084045a439da97784f4cf96abb9a0316",
     "rootDir": "",
-    "sha256": "146zphrap73zl5vah1iqiya86xn98mn4m44sa9qlw2vi3kgqff4n",
+    "sha256": "1gnr9bs08p9dvka73z409hxjlia9732vk70irbf5jh82i1gv11sd",
     "url": "https://github.com/Lemon-mon-254/dms-plugin-Lyrics"
   },
   "lyricsOnPanel": {
