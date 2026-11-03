@@ -5,7 +5,7 @@
     "category": "utilities",
     "repo": "https://github.com/KadirJeager/dms-mini-desktop",
     "author": "KadirJeager",
-    "description": "A small desktop for any folder plus app shortcuts: one-click app icons on top, the folder's files below, with a context menu to create documents, folders and shortcuts, copy/paste, drag and drop and previews; copy and cut need a compositor with ext-data-control-v1",
+    "description": "A small desktop for any folder plus app shortcuts: one-click app icons on top, the folder's files below, placed freely or sorted, with custom icons, a context menu to create documents, folders and shortcuts, copy/paste, drag and drop and previews; copy and cut need a compositor with ext-data-control-v1",
     "dependencies": ["python-gobject", "python-pywayland", "wl-clipboard", "glib2"],
     "compositors": ["any"],
     "distro": ["any"],
