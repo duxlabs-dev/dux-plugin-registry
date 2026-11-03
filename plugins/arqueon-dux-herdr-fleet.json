@@ -8,7 +8,7 @@
     ],
     "category": "monitoring",
     "repo": "https://github.com/arqueon/dux-herdr-fleet",
-    "description": "Multi-machine and workspace agent monitor for herdr and Herdr Desktop App (hc) with live status, context tokens, machine filter and one-click pane focus. Fork of Mor-dev/herdr-agent-monitor expanded to all machines and hc.",
+    "description": "Multi-machine and workspace agent monitor for herdr and optional Herdr Desktop App (hc/herdr-app) with live status, context tokens, machine filter and pane focus (compositor window focus is Niri-only). Fork of Mor-dev/herdr-agent-monitor.",
     "version": "1.0.0",
     "author": "arqueon",
     "icon": "smart_toy",
@@ -23,7 +23,8 @@
     "requires_dms": ">=1.5.0",
     "dependencies": [
         "herdr",
-        "python3"
+        "python3",
+        "jq"
     ],
     "compositors": [
         "any"
