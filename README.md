@@ -9604,7 +9604,7 @@ Desktop MPRIS player with spinning album art, playback controls, a seekbar and a
 
 #### [Mini Desktop](https://github.com/KadirJeager/dms-mini-desktop)
 
-A small desktop for any folder plus app shortcuts: one-click app icons on top, the folder's files below, with a context menu to create documents, folders and shortcuts, copy/paste, drag and drop and previews; copy and cut need a compositor with ext-data-control-v1
+A small desktop for any folder plus app shortcuts: one-click app icons on top, the folder's files below, placed freely or sorted, with custom icons, a context menu to create documents, folders and shortcuts, copy/paste, drag and drop and previews; copy and cut need a compositor with ext-data-control-v1
 
 <strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
