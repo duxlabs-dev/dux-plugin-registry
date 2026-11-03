@@ -2099,6 +2099,36 @@ DeepSeek Platform API balance, monthly token usage and cost in the DankBar; Play
 
 
 
+#### [Device Batteries](https://github.com/joshii-h/dms-device-batteries)
+
+Battery levels of Bluetooth devices, Logitech mice and keyboards, Razer mice, USB headsets, your iPhone and AirPods in one bar widget, with a low-battery warning. Optional: solaar, openrazer, headsetcontrol, BlueFerry (+ its AirPods plugin), python-dbus, pyudev
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: deviceBatteries
+- name: Device Batteries
+- author: joshii-h
+- compositors: any
+- capabilities: daemon, dankbar-widget, monitoring
+- dependencies: python3, upower
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/joshii-h/dms-device-batteries/main/assets/popout.png)
+
+</details>
+
+
+
+
+
 #### [Disk Monitor](https://github.com/rollecode/dms-disk-monitor)
 
 Disk usage as an animated progress bar in your DankBar, refreshed every 30 seconds
