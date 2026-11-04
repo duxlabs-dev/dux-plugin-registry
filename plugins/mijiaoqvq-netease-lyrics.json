@@ -1,0 +1,14 @@
+{
+    "id": "neteaseLyrics",
+    "name": "网易云音乐",
+    "capabilities": ["lyrics-provider"],
+    "category": "media",
+    "repo": "https://github.com/mijiaoqvq/dms-netease-lyrics",
+    "author": "mijiaoqvq",
+    "description": "Adds line-synced lyrics from NetEase Cloud Music to the built-in DMS media player.",
+    "dependencies": ["python3"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "requires_dms": ">=2.0.0",
+    "screenshot": "https://raw.githubusercontent.com/mijiaoqvq/dms-netease-lyrics/main/docs/lyrics-providers.png"
+}
