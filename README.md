@@ -1246,6 +1246,36 @@ Desktop media player widget with real-time synced lyrics and Material You 3 desi
 
 
 
+#### [NetEase Cloud Music Lyrics](https://github.com/mijiaoqvq/dms-netease-lyrics)
+
+Adds line-synced lyrics from NetEase Cloud Music to the built-in DMS media player.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: neteaseLyrics
+- name: NetEase Cloud Music Lyrics
+- author: mijiaoqvq
+- compositors: any
+- capabilities: lyrics-provider
+- dependencies: python3
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/mijiaoqvq/dms-netease-lyrics/main/docs/lyrics-providers.png)
+
+</details>
+
+
+
+
+
 #### [Pure Lyrics](https://github.com/lildengzi/pureLyrics)
 
 A minimal floating desktop widget that displays real-time synced lyrics from multiple sources.
