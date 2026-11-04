@@ -6,7 +6,7 @@
   "repo": "https://github.com/Protectore/WiredDMS",
   "path": "dms-plugin",
   "author": "Protectore",
-  "description": "CRT panel with messages inspired by anime Serial Experiments Lain. Drag with the right mouse button, resize from the bottom-right corner, wheel over it to change the font size.",
+  "description": "CRT panel that types out Serial Experiments Lain quotes over scanlines, with an optional Japanese line, glitches and a clock.",
   "dependencies": [],
   "compositors": ["any"],
   "distro": ["any"],
