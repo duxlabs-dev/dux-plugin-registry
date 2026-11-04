@@ -10,10 +10,17 @@
   "description": "Event-driven Rofi-style dimming behind Dux widget panels, without polling or external processes.",
   "dependencies": [],
   "compositors": [
-    "niri"
+    "niri",
+    "hyprland",
+    "sway",
+    "mangowc",
+    "labwc",
+    "miracle-wm",
+    "scroll"
   ],
   "distro": [
-    "arch"
+    "any"
   ],
-  "screenshot": "https://raw.githubusercontent.com/Octobersbest/dux-widget-dimmer/main/screenshot.png"
+  "screenshot": "https://raw.githubusercontent.com/Octobersbest/dux-widget-dimmer/main/screenshot.png",
+  "requires_dms": ">=2.1.0"
 }
