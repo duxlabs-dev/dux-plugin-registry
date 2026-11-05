@@ -847,6 +847,41 @@ Close and open animations for windows on niri. There are 13 kinds, among them em
 
 
 
+#### [Wired (Lain)](https://github.com/Protectore/WiredDMS)
+
+CRT panel that types out Serial Experiments Lain quotes over scanlines, with an optional Japanese line, glitches and a clock.
+
+
+
+- id: lainWidget
+- name: Wired (Lain)
+- author: Protectore
+- compositors: any
+- capabilities: desktop-widget
+- dependencies: 
+- distro: any
+
+
+
+
+> [!NOTE]
+> This plugin is part of a monorepo, please copy the contents of the [dms-plugin](https://github.com/Protectore/WiredDMS/tree/main/dms-plugin) folder to your `~/.config/dms/plugins/` folder.
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/Protectore/WiredDMS/main/wired.png)
+
+</details>
+
+
+
+
+
 #### [Xray Wallpaper](https://github.com/satoshoe-dev/dms-xray-wallpaper)
 
 Two wallpapers on top of each other: around the pointer the upper one has a soft hole that shows the picture underneath. Follows the pointer on the desktop, and a peek mode opens a round view above the windows.
