@@ -1,0 +1,14 @@
+{
+  "id": "lainWidget",
+  "name": "Wired (Lain)",
+  "capabilities": ["desktop-widget"],
+  "category": "appearance",
+  "repo": "https://github.com/Protectore/WiredDMS",
+  "path": "dms-plugin",
+  "author": "Protectore",
+  "description": "CRT panel that types out Serial Experiments Lain quotes over scanlines, with an optional Japanese line, glitches and a clock.",
+  "dependencies": [],
+  "compositors": ["any"],
+  "distro": ["any"],
+  "screenshot": "https://raw.githubusercontent.com/Protectore/WiredDMS/main/wired.png"
+}
