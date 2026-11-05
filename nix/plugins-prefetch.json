@@ -1967,12 +1967,12 @@
     "url": "https://github.com/bogdan-velicu/DankClaudeUsage"
   },
   "claudeUsageStats": {
-    "date": "2026-10-27T14:13:57+08:00",
+    "date": "2026-11-05T14:09:42+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-K41of1U5KeKVUeSP9dj1RsSRA37Tp9jBpxf41m8XZ6o=",
+    "hash": "sha256-ejiChQcBvFOBnde6Esi87HOFVxO6YygNYOJbcZny1ZQ=",
     "leaveDotGit": false,
     "meta": {
       "author": "HotcocoaCanary",
@@ -1996,10 +1996,10 @@
       "screenshot": "https://raw.githubusercontent.com/HotcocoaCanary/Canary-DMS-ClaudeUsageStats/main/screenshot.png",
       "version": "0.1.0"
     },
-    "path": "/nix/store/n8y1c09l53ib7345yvyv56b7351cxpw4-Canary-DMS-ClaudeUsageStats",
-    "rev": "d2e805ca6519c7564f582de6fdf3832db66e8d74",
+    "path": "/nix/store/jh8dxwrjd349dxvq0b87ays7d00pbdlp-Canary-DMS-ClaudeUsageStats",
+    "rev": "97012a56881ed39f28029fe573f9402ee3bb7cef",
     "rootDir": "",
-    "sha256": "1ak72xpxdy0plz0xi9ykgq1r3i26ypcgb3z4a6ay4a9ramzni39b",
+    "sha256": "156myacp2nz2c06jhqxs2dbqawzcpk415fnpkn0m7g010y2q4f3s",
     "url": "https://github.com/HotcocoaCanary/Canary-DMS-ClaudeUsageStats"
   },
   "clipShare": {
@@ -4968,6 +4968,47 @@
     "sha256": "1yi9rz01ipiia5b975c5q93h8azwfh0r8p8sa75hjcwngmw9mya4",
     "url": "https://github.com/yayuuu/desktopCommand"
   },
+  "desktopScrim": {
+    "date": "2026-11-04T14:14:31Z",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-2lpK/MzayrmWH9TbxRP48z0dsj/GGipkIiqChXQDHp8=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Desktop Scrim contributors",
+      "capabilities": [
+        "daemon"
+      ],
+      "category": "appearance",
+      "compositors": [
+        "niri",
+        "hyprland",
+        "sway",
+        "mangowc",
+        "labwc",
+        "miracle-wm",
+        "scroll"
+      ],
+      "dependencies": [],
+      "description": "Event-driven Rofi-style dimming behind Dux widget panels, without polling or external processes.",
+      "distro": [
+        "any"
+      ],
+      "id": "desktopScrim",
+      "name": "Dux Widget Dimmer",
+      "repo": "https://github.com/Octobersbest/dux-widget-dimmer",
+      "requires_dms": ">=2.1.0",
+      "screenshot": "https://raw.githubusercontent.com/Octobersbest/dux-widget-dimmer/main/screenshot.png",
+      "version": "1.2.1"
+    },
+    "path": "/nix/store/5kjwsf4d0nxl26iwddj6mzscplfn6w1k-dux-widget-dimmer",
+    "rev": "8229d5d4fd743fb477c7a9c80c7f66717a8ee9e6",
+    "rootDir": "",
+    "sha256": "17qy0ds8b0ia49j2l6n67yr1sggkz09wbnyl3ybbkjnsrky4lnns",
+    "url": "https://github.com/Octobersbest/dux-widget-dimmer"
+  },
   "desktopWidgetToggle": {
     "date": "2026-11-04T08:08:29+07:00",
     "deepClone": false,
@@ -5854,12 +5895,12 @@
     "url": "https://github.com/leonardofranco01/dms-sessionizer"
   },
   "dmsThemeSync": {
-    "date": "2026-11-04T19:51:39-06:00",
+    "date": "2026-11-05T00:48:24-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-AmJIbwBFhvSkVEN72Dwq/KPbw9p7Yj8pQ4NKtgPxK1I=",
+    "hash": "sha256-65uHU4AjWhQL/2sTsFgFiYCcvnFve0eNSNBmGR9s95g=",
     "leaveDotGit": false,
     "meta": {
       "author": "arqueon",
@@ -5885,12 +5926,12 @@
       "repo": "https://github.com/arqueon/dms-theme-sync",
       "requires_dms": ">=1.5.0",
       "screenshot": "https://raw.githubusercontent.com/arqueon/dms-theme-sync/main/assets/screenshot.png",
-      "version": "0.14.0"
+      "version": "0.15.0"
     },
-    "path": "/nix/store/a93f401kwcmais0r3gq1raawbck08rxg-dms-theme-sync",
-    "rev": "0844295f5e5cbde74c54a262a43c36bfb96b81da",
+    "path": "/nix/store/sbhd92fa4axya7hh2kra4dwdbqcxbdnf-dms-theme-sync",
+    "rev": "c78a9969a26d36f3ca8ec4317036a8c68b7ce3b9",
     "rootDir": "",
-    "sha256": "0liby41vcjl38clkyqkvvb1xp8zw58ydhys3ajjg91j501plhqh2",
+    "sha256": "167pdhgijrnh926lfyvgf6z9r0490mcb04vbzw5i8ni3h19qg6zb",
     "url": "https://github.com/arqueon/dms-theme-sync"
   },
   "dmsVikunja": {
@@ -8348,6 +8389,41 @@
     "rootDir": "",
     "sha256": "174cqqy4cpzipmr5jq801zqgswp62dnjsfkyqpcbyzj3pak7abbp",
     "url": "https://github.com/philipplinux/dms-lact-profiles-widget"
+  },
+  "lainWidget": {
+    "date": "2026-11-05T00:05:45+03:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-IS6IIMp2XcWYapjW3Ry2Av38lquPuqBRbot05piE2/I=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Protectore",
+      "capabilities": [
+        "desktop-widget"
+      ],
+      "category": "appearance",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [],
+      "description": "CRT panel that types out Serial Experiments Lain quotes over scanlines, with an optional Japanese line, glitches and a clock.",
+      "distro": [
+        "any"
+      ],
+      "id": "lainWidget",
+      "name": "Wired (Lain)",
+      "path": "dms-plugin",
+      "repo": "https://github.com/Protectore/WiredDMS",
+      "screenshot": "https://raw.githubusercontent.com/Protectore/WiredDMS/main/wired.png",
+      "version": "1.0.0"
+    },
+    "path": "/nix/store/v21p42gv05cvmxmxk2z1hb2i75sczf0f-WiredDMS",
+    "rev": "1233c44a4d49282100a1dae263165dc6a78460f7",
+    "rootDir": "",
+    "sha256": "1wnvhjcfcx4bdr8s1flgmfbgrz82nqfdvmlqdaccapbnr8h8hbi1",
+    "url": "https://github.com/Protectore/WiredDMS"
   },
   "lastfmScrobbler": {
     "date": "2026-09-29T18:29:01-06:00",
