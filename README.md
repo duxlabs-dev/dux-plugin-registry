@@ -267,6 +267,36 @@ AI depth-aware wallpapers: the near part of your wallpaper is redrawn above desk
 
 
 
+#### [Dux Widget Dimmer](https://github.com/Octobersbest/dux-widget-dimmer)
+
+Event-driven Rofi-style dimming behind Dux widget panels, without polling or external processes.
+
+<strong>requires DMS version</strong>: <em>>=2.1.0</em>
+
+- id: desktopScrim
+- name: Dux Widget Dimmer
+- author: Desktop Scrim contributors
+- compositors: niri, hyprland, sway, mangowc, labwc, miracle-wm, scroll
+- capabilities: daemon
+- dependencies: 
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/Octobersbest/dux-widget-dimmer/main/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [EnderPulse](https://github.com/iquantecho/enderpulse)
 
 A responsive Cava visualizer for the Dux bar, dock, and desktop
