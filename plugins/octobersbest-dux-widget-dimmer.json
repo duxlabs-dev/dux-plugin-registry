@@ -1,0 +1,26 @@
+{
+  "id": "desktopScrim",
+  "name": "Dux Widget Dimmer",
+  "capabilities": [
+    "daemon"
+  ],
+  "category": "appearance",
+  "repo": "https://github.com/Octobersbest/dux-widget-dimmer",
+  "author": "Desktop Scrim contributors",
+  "description": "Event-driven Rofi-style dimming behind Dux widget panels, without polling or external processes.",
+  "dependencies": [],
+  "compositors": [
+    "niri",
+    "hyprland",
+    "sway",
+    "mangowc",
+    "labwc",
+    "miracle-wm",
+    "scroll"
+  ],
+  "distro": [
+    "any"
+  ],
+  "screenshot": "https://raw.githubusercontent.com/Octobersbest/dux-widget-dimmer/main/screenshot.png",
+  "requires_dms": ">=2.1.0"
+}
