@@ -12,7 +12,8 @@
     "author": "Marlon Kranz",
     "description": "Mirror your screen to Chromecast, Google TV and AirPlay devices, and play files, music, playlists, slideshows and links on Chromecast",
     "dependencies": [
-        "cast-helper"
+        "cast-helper",
+        "AUR package or release download, guided in the plugin settings (details: https://github.com/Conava/dux-cast#install)"
     ],
     "compositors": [
         "any"
