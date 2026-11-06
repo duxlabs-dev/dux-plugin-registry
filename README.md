@@ -2284,6 +2284,36 @@ Monitor disk, ZFS pool, and Nix store usage with smart mount classification and 
 
 
 
+#### [Dux Herdr Fleet](https://github.com/arqueon/dux-herdr-fleet)
+
+Multi-machine and workspace agent monitor for herdr and optional Herdr Desktop App (hc/herdr-app) with live status filters, search, context tokens, machine filter, clickable notifications, and cross-machine pane focus. Switching the herdr window to another machine drives herdr's Go to picker through kitty remote control (needs listen_on); an opt-in setting can use a Wayland virtual keyboard instead. Compositor window focus is Niri-only. Fork of Mor-dev/herdr-agent-monitor.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: duxHerdrFleet
+- name: Dux Herdr Fleet
+- author: arqueon
+- compositors: any
+- capabilities: dankbar-widget, monitoring, ipc
+- dependencies: herdr, python3, jq
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/arqueon/dux-herdr-fleet/main/assets/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [GPU Monitor (NVIDIA)](https://github.com/rollecode/dms-gpu-monitor)
 
 NVIDIA GPU load as an animated progress bar in your DankBar, with a popout listing per-process GPU use and a button that sends SIGTERM to a user process. Needs nvidia-smi
