@@ -1,0 +1,36 @@
+{
+    "id": "duxHerdrFleet",
+    "name": "Dux Herdr Fleet",
+    "capabilities": [
+        "dankbar-widget",
+        "monitoring",
+        "ipc"
+    ],
+    "category": "monitoring",
+    "repo": "https://github.com/arqueon/dux-herdr-fleet",
+    "description": "Multi-machine and workspace agent monitor for herdr and optional Herdr Desktop App (hc/herdr-app) with live status filters, search, context tokens, machine filter, clickable notifications, and cross-machine pane focus. Switching the herdr window to another machine drives herdr's Go to picker through kitty remote control (needs listen_on); an opt-in setting can use a Wayland virtual keyboard instead. Compositor window focus is Niri-only. Fork of Mor-dev/herdr-agent-monitor.",
+    "version": "1.3.2",
+    "author": "arqueon",
+    "icon": "smart_toy",
+    "type": "widget",
+    "component": "./HerdrFleetWidget.qml",
+    "settings": "./HerdrFleetSettings.qml",
+    "permissions": [
+        "process",
+        "settings_read",
+        "settings_write"
+    ],
+    "requires_dms": ">=2.0.0",
+    "dependencies": [
+        "herdr",
+        "python3",
+        "jq"
+    ],
+    "compositors": [
+        "any"
+    ],
+    "distro": [
+        "any"
+    ],
+    "screenshot": "https://raw.githubusercontent.com/arqueon/dux-herdr-fleet/main/assets/screenshot.png"
+}
