@@ -6281,6 +6281,56 @@
     "sha256": "1zqza6r41rvsi9n823gs2zin3j1kwxyld5xkf39iv07hfm3s60a9",
     "url": "https://github.com/rdannenbring/dropdown-menu"
   },
+  "duxHerdrFleet": {
+    "date": "2026-11-06T02:11:08-06:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-Y8vretuajTvpvHwwqPMhOCmua9E9K50U9TH7li905ys=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "arqueon",
+      "capabilities": [
+        "dankbar-widget",
+        "monitoring",
+        "ipc"
+      ],
+      "category": "monitoring",
+      "component": "./HerdrFleetWidget.qml",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "herdr",
+        "python3",
+        "jq"
+      ],
+      "description": "Multi-machine and workspace agent monitor for herdr and optional Herdr Desktop App (hc/herdr-app) with live status filters, search, context tokens, machine filter, clickable notifications, and cross-machine pane focus. Switching the herdr window to another machine drives herdr's Go to picker through kitty remote control (needs listen_on); an opt-in setting can use a Wayland virtual keyboard instead. Compositor window focus is Niri-only. Fork of Mor-dev/herdr-agent-monitor.",
+      "distro": [
+        "any"
+      ],
+      "icon": "smart_toy",
+      "id": "duxHerdrFleet",
+      "name": "Dux Herdr Fleet",
+      "permissions": [
+        "process",
+        "settings_read",
+        "settings_write"
+      ],
+      "repo": "https://github.com/arqueon/dux-herdr-fleet",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/arqueon/dux-herdr-fleet/main/assets/screenshot.png",
+      "settings": "./HerdrFleetSettings.qml",
+      "type": "widget",
+      "version": "1.3.2"
+    },
+    "path": "/nix/store/qz5347p2rsql3l2rskkhan6y060cw4qp-dux-herdr-fleet",
+    "rev": "feb67bf983875cc7ff29672213607feb6da0aae7",
+    "rootDir": "",
+    "sha256": "0az7fhprdyriyla9sarxs5mswa9q47rshc3wpklkp3csvdxfpjv3",
+    "url": "https://github.com/arqueon/dux-herdr-fleet"
+  },
   "easyEffects": {
     "date": "2026-10-30T09:33:29+01:00",
     "deepClone": false,
