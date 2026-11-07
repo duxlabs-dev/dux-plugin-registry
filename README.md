@@ -4689,6 +4689,36 @@ Software & updates center: rich update cards with release notes, app store for s
 
 
 
+#### [EasyTier](https://github.com/DotRedstone/dms-plugin-easytier)
+
+Mesh VPN status monitor, profile config assistant, and service controller for EasyTier (starts TUN profiles via pkexec)
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: easytier
+- name: EasyTier
+- author: DotRedstone
+- compositors: any
+- capabilities: dankbar-widget, control-center, vpn, network, monitoring
+- dependencies: easytier-core, easytier-cli, jq, systemd, polkit
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/DotRedstone/dms-plugin-easytier/main/assets/preview.png)
+
+</details>
+
+
+
+
+
 #### [EnderBackup](https://github.com/iquantecho/enderbackup)
 
 Verified desktop configuration backups for DMS, with configurable contents and bar styles.
