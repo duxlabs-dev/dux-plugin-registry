@@ -6368,6 +6368,51 @@
     "sha256": "14ngirdf66g4475z8mqrww4sy6afyar4bx7lchahm3n314v15gp6",
     "url": "https://github.com/jonkristian/dms-easyeffects"
   },
+  "easytier": {
+    "date": "2026-11-07T22:43:57+08:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-A7cr9dMidNCPE31J0t/l35+B/uzQWZuhHapJn/EianM=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "DotRedstone",
+      "capabilities": [
+        "dankbar-widget",
+        "control-center",
+        "vpn",
+        "network",
+        "monitoring"
+      ],
+      "category": "system",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "easytier-core",
+        "easytier-cli",
+        "jq",
+        "systemd",
+        "polkit"
+      ],
+      "description": "Mesh VPN status monitor, profile config assistant, and service controller for EasyTier (starts TUN profiles via pkexec)",
+      "distro": [
+        "any"
+      ],
+      "id": "easytier",
+      "name": "EasyTier",
+      "repo": "https://github.com/DotRedstone/dms-plugin-easytier",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/DotRedstone/dms-plugin-easytier/main/assets/preview.png",
+      "version": "0.1.0"
+    },
+    "path": "/nix/store/f7iivvdhj2g6pv5f5bxq2adgxy93bl5s-dms-plugin-easytier",
+    "rev": "b87608cbdbceeec284be9e30a88cbdbc2eb72031",
+    "rootDir": "",
+    "sha256": "0wva4bqryjda3nhrnnfhxkz837yzwpgx4jbx2f7x0x12sgsjpdq3",
+    "url": "https://github.com/DotRedstone/dms-plugin-easytier"
+  },
   "emojiLauncher": {
     "date": "2026-10-25T01:09:19-04:00",
     "deepClone": false,
