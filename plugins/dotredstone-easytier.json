@@ -1,0 +1,29 @@
+{
+    "id": "easytier",
+    "name": "EasyTier",
+    "capabilities": [
+        "dankbar-widget",
+        "control-center",
+        "vpn",
+        "network",
+        "monitoring"
+    ],
+    "category": "system",
+    "repo": "https://github.com/DotRedstone/dms-plugin-easytier",
+    "author": "DotRedstone",
+    "description": "Mesh VPN status monitor, profile config assistant, and service controller for EasyTier",
+    "dependencies": [
+        "easytier-core",
+        "easytier-cli",
+        "jq",
+        "systemd"
+    ],
+    "compositors": [
+        "any"
+    ],
+    "distro": [
+        "any"
+    ],
+    "screenshot": "https://raw.githubusercontent.com/DotRedstone/dms-plugin-easytier/main/assets/preview.png",
+    "requires_dms": ">=2.0.0"
+}
