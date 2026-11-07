@@ -10,7 +10,8 @@
     "author": "ghost",
     "description": "Pavucontrol-style per-app volume mixer with live spectrum eye candy for DankBar and the Control Center.",
     "dependencies": [
-        "pipewire"
+        "pipewire",
+        "cava"
     ],
     "compositors": [
         "any"
