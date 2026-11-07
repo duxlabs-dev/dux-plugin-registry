@@ -11,6 +11,7 @@
     "description": "Pavucontrol-style per-app and per-device mixer with Control Center integration, input/capture controls, and an optional live Cava spectrum.",
     "dependencies": [
         "pipewire",
+        "pipewire-utils",
         "cava"
     ],
     "compositors": [
