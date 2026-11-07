@@ -6,9 +6,9 @@
     "repo": "https://github.com/beobcode/goodwe-solar-dms",
     "path": "plugins/goodweSolar2",
     "author": "Dominik",
-    "description": "Real-time local GoodWe inverter telemetry, battery status, 4-series power curve, and fault monitor via Modbus TCP",
+    "description": "Real-time local GoodWe inverter telemetry, battery status, and power curves. Requires local background poller daemon (included) running with python3-goodwe.",
     "dependencies": ["python3"],
     "compositors": ["any"],
     "distro": ["any"],
-    "screenshot": "https://raw.githubusercontent.com/beobcode/goodwe-solar-dms/main/README.md"
+    "screenshot": "https://raw.githubusercontent.com/beobcode/goodwe-solar-dms/main/screenshot.png"
 }
