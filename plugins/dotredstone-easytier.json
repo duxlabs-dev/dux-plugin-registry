@@ -11,12 +11,13 @@
     "category": "system",
     "repo": "https://github.com/DotRedstone/dms-plugin-easytier",
     "author": "DotRedstone",
-    "description": "Mesh VPN status monitor, profile config assistant, and service controller for EasyTier",
+    "description": "Mesh VPN status monitor, profile config assistant, and service controller for EasyTier (starts TUN profiles via pkexec)",
     "dependencies": [
         "easytier-core",
         "easytier-cli",
         "jq",
-        "systemd"
+        "systemd",
+        "polkit"
     ],
     "compositors": [
         "any"
