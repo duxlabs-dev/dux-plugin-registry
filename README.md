@@ -6309,9 +6309,9 @@ Courses, grades, upcoming assignments, missing work, and announcements from Canv
 
 #### [Cast](https://github.com/Conava/dux-plugins)
 
-Mirror your screen to Chromecast, Google TV and AirPlay devices, and play files, music, playlists, slideshows and links on Chromecast
+Mirror your screen to Chromecast, Google TV and AirPlay devices, and play files, music, playlists, slideshows and links on Chromecast. Needs cast-helper (AUR package or release download, guided in the plugin settings): https://github.com/Conava/dux-cast#install
 
-
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: cast
 - name: Cast
