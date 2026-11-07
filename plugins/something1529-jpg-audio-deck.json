@@ -9,7 +9,9 @@
     "repo": "https://github.com/something1529-jpg/dms-audio-deck",
     "author": "ghost",
     "description": "Pavucontrol-style per-app volume mixer with live spectrum eye candy for DankBar and the Control Center.",
-    "dependencies": [],
+    "dependencies": [
+        "pipewire"
+    ],
     "compositors": [
         "any"
     ],
@@ -17,6 +19,6 @@
         "any"
     ],
     "screenshot": "https://raw.githubusercontent.com/something1529-jpg/dms-audio-deck/main/screenshots/audio-deck.png",
-    "requires_dms": ">=1.7.0",
+    "requires_dms": ">=2.0.0",
     "version": "1.0.0"
 }
