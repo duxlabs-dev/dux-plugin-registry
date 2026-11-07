@@ -2353,42 +2353,6 @@
     "sha256": "0gr2xm3ky7fycbi3j91bqnbwqh9l3aqih6lnqq8s7vjqbfwzxzni",
     "url": "https://github.com/bernardopg/color-picker-dms"
   },
-  "combinedStatus": {
-    "date": "2026-10-27T04:20:54+08:00",
-    "deepClone": false,
-    "fetchLFS": false,
-    "fetchSubmodules": false,
-    "fetchTags": false,
-    "hash": "sha256-tdWi438ucL8kv005zsahbSuvA0CtAUeveEmVPRW6DRE=",
-    "leaveDotGit": false,
-    "meta": {
-      "author": "Wang-Yang-source",
-      "capabilities": [
-        "dankbar-widget",
-        "ipc"
-      ],
-      "category": "monitoring",
-      "compositors": [
-        "niri"
-      ],
-      "dependencies": [],
-      "description": "Battery arc, Wi-Fi signal and volume dots with unread notifications in one circular, theme-aware DankBar button.",
-      "distro": [
-        "any"
-      ],
-      "id": "combinedStatus",
-      "name": "niri-duo",
-      "repo": "https://github.com/Wang-Yang-source/niri-Duo",
-      "requires_dms": ">=1.6.3",
-      "screenshot": "https://raw.githubusercontent.com/Wang-Yang-source/niri-Duo/release/screenshots/dankbar.png",
-      "version": "1.2.0"
-    },
-    "path": "/nix/store/w4g0hs7wignibbh76l3drq6hxmh9lan3-niri-Duo",
-    "rev": "98e05f6e15613a40fd7191c06614f37bd86de0e0",
-    "rootDir": "",
-    "sha256": "048dp8akv5a9g2plf0dd801syavdl73cwfadpwjbyw1fgzis5mdm",
-    "url": "https://github.com/Wang-Yang-source/niri-Duo"
-  },
   "commandRunner": {
     "date": "2026-10-03T03:38:18-04:00",
     "deepClone": false,

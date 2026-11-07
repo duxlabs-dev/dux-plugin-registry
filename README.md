@@ -3289,36 +3289,6 @@ Shows live agent status (working/idle/blocked/done) across herdr panes in the ba
 
 
 
-#### [niri-duo](https://github.com/Wang-Yang-source/niri-Duo)
-
-Battery arc, Wi-Fi signal and volume dots with unread notifications in one circular, theme-aware DankBar button.
-
-<strong>requires DMS version</strong>: <em>>=1.6.3</em>
-
-- id: combinedStatus
-- name: niri-duo
-- author: Wang-Yang-source
-- compositors: niri
-- capabilities: dankbar-widget, ipc
-- dependencies: 
-- distro: any
-
-
-
-
-
-
-<details>
-<summary>Screenshot</summary>
-
-![screenshot](https://raw.githubusercontent.com/Wang-Yang-source/niri-Duo/release/screenshots/dankbar.png)
-
-</details>
-
-
-
-
-
 ---
 
 
