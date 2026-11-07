@@ -13340,6 +13340,20 @@ Resident Evil inspired: Umbrella scarlet accent on graphite black, with T-virus 
 
 
 
+### Valua
+
+A dark teal and green base16 theme by Nonetrix, with a matching light variant
+
+- **Author:** Nonetrix (https://github.com/nonetrix)
+- **ID:** `valua` **Version:** `1.0.0`
+
+![WCAG AA](https://img.shields.io/badge/WCAG_contrast-AA-green)
+
+
+![Valua](themes/valua/preview.svg)
+
+
+
 ### caelus
 
 A dark and light port of dacctal's caelus colorscheme: warm amber accents over near-black neutrals, with cream text and muted blue/green status colors. Light mode uses cream surfaces with burnt-orange accents. Original palette: https://git.symlinx.net/daccfiles/tree/.config/nvim-lazy/lua/caelus/init.lua
