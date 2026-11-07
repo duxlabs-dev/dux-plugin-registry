@@ -1,0 +1,14 @@
+{
+    "id": "goodweSolar2",
+    "name": "GoodWe Solar & Battery",
+    "capabilities": ["dankbar-widget", "control-center"],
+    "category": "monitoring",
+    "repo": "https://github.com/beobcode/goodwe-solar-dms",
+    "path": "plugins/goodweSolar2",
+    "author": "Dominik",
+    "description": "Real-time local GoodWe inverter telemetry, battery status, 4-series power curve, and fault monitor via Modbus TCP",
+    "dependencies": ["python3"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/beobcode/goodwe-solar-dms/main/README.md"
+}
