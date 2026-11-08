@@ -2,7 +2,6 @@
   "id": "formatColorPicker",
   "name": "Format Color Picker",
   "description": "Choose color format before picking",
-  "version": "1.0.2",
   "author": "Incognitux",
   "icon": "colorize",
   "type": "widget",
