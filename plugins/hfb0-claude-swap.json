@@ -6,8 +6,9 @@
     "repo": "https://github.com/hfb0/dms-claude-swap",
     "author": "Henrique Barbosa",
     "description": "Switch between Claude Code accounts via claude-swap: per-account 5-hour and weekly usage, one-click switching, and optional auto switch when quota runs out.",
-    "dependencies": ["claude-swap", "flock"],
+    "dependencies": ["claude-swap", "claude", "flock"],
     "compositors": ["any"],
     "distro": ["any"],
-    "screenshot": "https://raw.githubusercontent.com/hfb0/dms-claude-swap/main/docs/screenshot.png"
+    "screenshot": "https://raw.githubusercontent.com/hfb0/dms-claude-swap/main/docs/screenshot.png",
+    "requires_dms": ">=2.1.0"
 }
