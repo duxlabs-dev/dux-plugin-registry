@@ -8371,7 +8371,7 @@ Check for and install Flatpak Updates
 
 Choose color format before picking
 
-
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: formatColorPicker
 - name: Format Color Picker
