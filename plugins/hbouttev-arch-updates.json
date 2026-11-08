@@ -1,0 +1,29 @@
+{
+    "id": "archUpdates",
+    "name": "Arch Updates",
+    "capabilities": [
+        "daemon",
+        "dankbar-widget",
+        "dash-tab"
+    ],
+    "category": "system",
+    "repo": "https://github.com/hbouttev/dms-arch-updates",
+    "author": "Hadrien Boutteville",
+    "description": "Repository, AUR, Flatpak and mise update status for Arch Linux and Arch-based systems such as CachyOS. Checks contact your package mirrors, the AUR, Flatpak remotes and mise's sources. Updates run in your terminal with Arch-Update / Cachy-Update, or directly with your AUR helper or sudo pacman.",
+    "dependencies": [
+        "checkupdates",
+        "systemd",
+        "arch-update or cachy-update (optional)",
+        "paru, yay or pikaur (optional, AUR)",
+        "flatpak (optional)",
+        "mise (optional)"
+    ],
+    "compositors": [
+        "any"
+    ],
+    "distro": [
+        "arch"
+    ],
+    "screenshot": "https://raw.githubusercontent.com/hbouttev/dms-arch-updates/main/assets/popout.png",
+    "requires_dms": ">=2.0.0"
+}
