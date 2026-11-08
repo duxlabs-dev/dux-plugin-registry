@@ -2,10 +2,10 @@
   "plugins": {
     "combinedStatus": {
       "first_failed": "2026-10-30T12:14:30+00:00",
-      "last_failed": "2026-11-07T12:33:13+00:00",
+      "last_failed": "2026-11-08T12:51:36+00:00",
       "repo": "https://github.com/Wang-Yang-source/niri-Duo",
       "status": "HTTP 404",
-      "strikes": 9
+      "strikes": 10
     }
   }
 }
