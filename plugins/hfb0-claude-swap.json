@@ -1,0 +1,13 @@
+{
+    "id": "claudeSwap",
+    "name": "Claude Swap",
+    "capabilities": ["dankbar-widget"],
+    "category": "utilities",
+    "repo": "https://github.com/hfb0/dms-claude-swap",
+    "author": "Henrique Barbosa",
+    "description": "Switch between Claude Code accounts via claude-swap: per-account 5-hour and weekly usage, one-click switching, and optional auto switch when quota runs out.",
+    "dependencies": ["claude-swap", "flock"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/hfb0/dms-claude-swap/main/docs/screenshot.png"
+}
