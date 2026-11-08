@@ -388,12 +388,12 @@
     "url": "https://github.com/szabolcsf/dms-air-quality"
   },
   "alarmClock": {
-    "date": "2026-05-18T15:09:12+03:00",
+    "date": "2026-11-07T20:11:37+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-FLC/0rktMTYaVJ/gvuTw6UryyzgR/OEiNIZk+5O1XuI=",
+    "hash": "sha256-sNNFozy/phUlmjmzKx/9RLZ+pHfbTInCIJhLtZcA7e4=",
     "leaveDotGit": false,
     "meta": {
       "author": "lucyfire",
@@ -417,12 +417,12 @@
       "repo": "https://github.com/lucyfire/dms-plugins",
       "requires_dms": ">=0.2.4",
       "screenshot": "https://github.com/Lucyfire/dms-plugins/blob/master/alarmClock/alarms.png?raw=true",
-      "version": "0.4.0"
+      "version": "0.4.1"
     },
-    "path": "/nix/store/r7hmgws0nsy4s3a6i37ygnhbczni47w6-dms-plugins",
-    "rev": "c99ba77c848721fbb8b8c3307638ea10d5dccdd9",
+    "path": "/nix/store/jnjm96rci7vmsf0h8m7mp6ksz6iq37ch-dms-plugins",
+    "rev": "bd6303a215db88360294e792533b3cba99a29270",
     "rootDir": "",
-    "sha256": "1qjynn9znr466hif3z0i735z4jp9y3jbxq4zahd3cc9dp79bzc0l",
+    "sha256": "1vpd02bvajwq4318jk6vfyj7xdj4zlgjpcrrk8jib9mz7jilblxh",
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "ambientSound": {
@@ -5481,12 +5481,12 @@
     "url": "https://github.com/jankelemen/dank-display-profile-manager"
   },
   "displaySettings": {
-    "date": "2026-05-18T15:09:12+03:00",
+    "date": "2026-11-07T20:11:37+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-FLC/0rktMTYaVJ/gvuTw6UryyzgR/OEiNIZk+5O1XuI=",
+    "hash": "sha256-sNNFozy/phUlmjmzKx/9RLZ+pHfbTInCIJhLtZcA7e4=",
     "leaveDotGit": false,
     "meta": {
       "author": "lucyfire",
@@ -5510,10 +5510,10 @@
       "screenshot": "https://github.com/Lucyfire/dms-plugins/blob/master/displaySettings/screenshot.png?raw=true",
       "version": "0.2.0"
     },
-    "path": "/nix/store/r7hmgws0nsy4s3a6i37ygnhbczni47w6-dms-plugins",
-    "rev": "c99ba77c848721fbb8b8c3307638ea10d5dccdd9",
+    "path": "/nix/store/jnjm96rci7vmsf0h8m7mp6ksz6iq37ch-dms-plugins",
+    "rev": "bd6303a215db88360294e792533b3cba99a29270",
     "rootDir": "",
-    "sha256": "1qjynn9znr466hif3z0i735z4jp9y3jbxq4zahd3cc9dp79bzc0l",
+    "sha256": "1vpd02bvajwq4318jk6vfyj7xdj4zlgjpcrrk8jib9mz7jilblxh",
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "dmsAgent": {
@@ -7334,12 +7334,12 @@
     "url": "https://github.com/psyreactor/dms-gitlabNotifier"
   },
   "gitmojiLauncher": {
-    "date": "2026-05-18T15:09:12+03:00",
+    "date": "2026-11-07T20:11:37+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-FLC/0rktMTYaVJ/gvuTw6UryyzgR/OEiNIZk+5O1XuI=",
+    "hash": "sha256-sNNFozy/phUlmjmzKx/9RLZ+pHfbTInCIJhLtZcA7e4=",
     "leaveDotGit": false,
     "meta": {
       "author": "lucyfire",
@@ -7365,10 +7365,10 @@
       "screenshot": "https://github.com/Lucyfire/dms-plugins/blob/master/gitmojiLauncher/screenshot.png?raw=true",
       "version": "1.2.0"
     },
-    "path": "/nix/store/r7hmgws0nsy4s3a6i37ygnhbczni47w6-dms-plugins",
-    "rev": "c99ba77c848721fbb8b8c3307638ea10d5dccdd9",
+    "path": "/nix/store/jnjm96rci7vmsf0h8m7mp6ksz6iq37ch-dms-plugins",
+    "rev": "bd6303a215db88360294e792533b3cba99a29270",
     "rootDir": "",
-    "sha256": "1qjynn9znr466hif3z0i735z4jp9y3jbxq4zahd3cc9dp79bzc0l",
+    "sha256": "1vpd02bvajwq4318jk6vfyj7xdj4zlgjpcrrk8jib9mz7jilblxh",
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "glance": {
@@ -8039,12 +8039,12 @@
     "url": "https://github.com/murilo-gotardo/dms-image-converter"
   },
   "inlineKeyboard": {
-    "date": "2026-11-05T17:41:33+08:00",
+    "date": "2026-11-08T01:36:44+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Luimzjt3PPirAZELVHQ1EINlhiH9LhbG5JdbMEDmxeQ=",
+    "hash": "sha256-qLkIrxIxznIdYLkbJdY+fAalspHBLOBK9iVWwl2fmsk=",
     "leaveDotGit": false,
     "meta": {
       "author": "LilFishyChan",
@@ -8069,12 +8069,12 @@
       "repo": "https://github.com/LilFishyChan/dms-inline-keyboard",
       "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/LilFishyChan/dms-inline-keyboard/main/docs/images/keyboard.png",
-      "version": "0.3.0"
+      "version": "0.3.1"
     },
-    "path": "/nix/store/4ab1bapwfzsxa070375ipainilnj23ka-dms-inline-keyboard",
-    "rev": "9079db22366506839a4f9759bc646a4963e3ada5",
+    "path": "/nix/store/5c7rl8pmhld5r1zal6g6ri60a11wapd7-dms-inline-keyboard",
+    "rev": "4be6224260a0e045c81393508aa9c73bb4abf62d",
     "rootDir": "",
-    "sha256": "1r65wr030nwpwk31cbpx4636b0qh6ms582wi06mzhg3p7g7ads1f",
+    "sha256": "1jcskxfw4mi5yr5f0b61j6raa1kw7vb2a6xrc0fp5kii2aphifd8",
     "url": "https://github.com/LilFishyChan/dms-inline-keyboard"
   },
   "intelGpuMonitor": {
@@ -14715,12 +14715,12 @@
     "url": "https://github.com/motor-dev/wallpaperCarousel"
   },
   "wallpaperDiscovery": {
-    "date": "2026-05-18T15:09:12+03:00",
+    "date": "2026-11-07T20:11:37+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-FLC/0rktMTYaVJ/gvuTw6UryyzgR/OEiNIZk+5O1XuI=",
+    "hash": "sha256-sNNFozy/phUlmjmzKx/9RLZ+pHfbTInCIJhLtZcA7e4=",
     "leaveDotGit": false,
     "meta": {
       "author": "lucyfire",
@@ -14746,10 +14746,10 @@
       "screenshot": "https://github.com/Lucyfire/dms-plugins/blob/master/wallpaperDiscovery/screenshot.png?raw=true",
       "version": "2.0.4"
     },
-    "path": "/nix/store/r7hmgws0nsy4s3a6i37ygnhbczni47w6-dms-plugins",
-    "rev": "c99ba77c848721fbb8b8c3307638ea10d5dccdd9",
+    "path": "/nix/store/jnjm96rci7vmsf0h8m7mp6ksz6iq37ch-dms-plugins",
+    "rev": "bd6303a215db88360294e792533b3cba99a29270",
     "rootDir": "",
-    "sha256": "1qjynn9znr466hif3z0i735z4jp9y3jbxq4zahd3cc9dp79bzc0l",
+    "sha256": "1vpd02bvajwq4318jk6vfyj7xdj4zlgjpcrrk8jib9mz7jilblxh",
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "wallpaperEngineControl": {
