@@ -230,12 +230,12 @@
     "url": "https://github.com/devnullvoid/dms-ai-assistant"
   },
   "aiOverviewControl": {
-    "date": "2026-11-08T20:42:37-03:00",
+    "date": "2026-11-08T21:56:45-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-kIjISJXb4S9tOJszhMNjJaOLFwIMWOdcdpRCVreDjlQ=",
+    "hash": "sha256-MexAysXFox8gXCSZ0wGm5ERR8Mbeqtf59E9SeyUBmWw=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -264,12 +264,12 @@
       "repo": "https://github.com/bernardopg/AiOverviewControl",
       "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/bernardopg/AiOverviewControl/main/screenshot.png",
-      "version": "2.2.4"
+      "version": "2.3.0"
     },
-    "path": "/nix/store/5sfvwn6y7b3fc5qh44wpngnwyw3zwjz6-AiOverviewControl",
-    "rev": "77c68859bf486faabf006e43e83c2dee654fd98f",
+    "path": "/nix/store/zn364a6lqav1rzv06f21kn2pfzy57ffz-AiOverviewControl",
+    "rev": "076194c73bff238c855dc74e54cb1783f3bac594",
     "rootDir": "",
-    "sha256": "0m4fhfvmchllfrfffn0c08bqp8r5cg1q8cwv71njzqfvjm4ci24h",
+    "sha256": "0v4r04jpnljgykwxganyqvq52i74lq0x7694bhh1z8y5qp541v1i",
     "url": "https://github.com/bernardopg/AiOverviewControl"
   },
   "aiQuotas": {
@@ -699,6 +699,50 @@
     "rootDir": "",
     "sha256": "1b85mx2crpyw4phwacj5s8hiq3yqx8jf6c0sknmjyw42qflwdcac",
     "url": "https://github.com/Fansirsqi/dms-app-menu-editor"
+  },
+  "archUpdates": {
+    "date": "2026-11-09T01:55:06+01:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-qK++d0T2opZ0HJA4GaDPQM5IKgWmt0sr0WzqGIcykP0=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Hadrien Boutteville",
+      "capabilities": [
+        "daemon",
+        "dankbar-widget",
+        "dash-tab"
+      ],
+      "category": "system",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "checkupdates",
+        "systemd",
+        "arch-update or cachy-update (optional)",
+        "paru, yay or pikaur (optional, AUR)",
+        "flatpak (optional)",
+        "mise (optional)"
+      ],
+      "description": "Repository, AUR, Flatpak and mise update status for Arch Linux and Arch-based systems such as CachyOS. Checks contact your package mirrors, the AUR, Flatpak remotes and mise's sources. Updates run in your terminal with Arch-Update / Cachy-Update, or directly with your AUR helper or sudo pacman.",
+      "distro": [
+        "arch"
+      ],
+      "id": "archUpdates",
+      "name": "Arch Updates",
+      "repo": "https://github.com/hbouttev/dms-arch-updates",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/hbouttev/dms-arch-updates/main/assets/popout.png",
+      "version": "0.4.3"
+    },
+    "path": "/nix/store/fr606scg1pgcqc770zlpdrry285zxwnp-dms-arch-updates",
+    "rev": "2fd0668752790611ba52a3bf081d046e3734a0a2",
+    "rootDir": "",
+    "sha256": "1zch6a3iiskcs4mlpdx60lm4ikj0ryh1jf4h3is9d8pn8ivvxbx8",
+    "url": "https://github.com/hbouttev/dms-arch-updates"
   },
   "attentionBadges": {
     "date": "2026-08-18T20:56:13+02:00",
@@ -7675,12 +7719,12 @@
     "url": "https://github.com/ghosty2004/dms-home-assistant"
   },
   "homeAssistantMonitor": {
-    "date": "2026-11-02T13:10:36+08:00",
+    "date": "2026-11-09T09:16:00+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-yyg1IkumcjyMxJ1aBR3/rnnxIrBpWDOR/pNKfeQ9wYg=",
+    "hash": "sha256-Lju4Jzq13uO+cpqGxBKLFVLf/hZi7TkFm1N9zz18DLY=",
     "leaveDotGit": false,
     "meta": {
       "author": "xxyangyoulin",
@@ -7705,12 +7749,12 @@
       "repo": "https://github.com/xxyangyoulin/dms-plugin-hass",
       "requires_dms": ">=1.4.0",
       "screenshot": "https://raw.githubusercontent.com/xxyangyoulin/dms-plugin-hass/master/assets/screenshot.png",
-      "version": "3.1.3"
+      "version": "3.1.4"
     },
-    "path": "/nix/store/5bib67v9xr6h9ykd3ylpqsc3malnr112-dms-plugin-hass",
-    "rev": "f76224ead8de03b94fff5f4f1821fdd1279acb85",
+    "path": "/nix/store/zanpbmsgzdczqawq6r3w6nxzny6gp0sc-dms-plugin-hass",
+    "rev": "97cfc9dfac4bbe5faad477d1542678ad03bb9aaa",
     "rootDir": "",
-    "sha256": "12617pj7sjlkzs8k6n39n0ig2ydfzwfhanlxqj63qwm69ci3aa6b",
+    "sha256": "1dhcghywyzakkc2kkvb22vzdylhmic9c91lsfazf7pmm78kvhfrf",
     "url": "https://github.com/xxyangyoulin/dms-plugin-hass"
   },
   "hoshiCalendar": {
@@ -7970,12 +8014,12 @@
     "url": "https://github.com/WilliamAWSOFTWARE/dms-hypr-workspace-manager"
   },
   "hyprlandSubmapIndicator": {
-    "date": "2026-09-06T16:40:41-04:00",
+    "date": "2026-11-08T20:18:06-05:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-kRCa4feK4c+6VjvUHsOYetM+WBM38ZVU4s2IBYEoat4=",
+    "hash": "sha256-xu+eEprF1q+dvyeIIVwo5Vf1y6v3MNvOsL3KGHup0XY=",
     "leaveDotGit": false,
     "meta": {
       "author": "_nderscore",
@@ -7996,12 +8040,12 @@
       "path": "HyprlandSubmapIndicator",
       "repo": "https://github.com/nderscore/dms-plugins",
       "screenshot": "https://raw.githubusercontent.com/nderscore/dms-plugins/main/assets/HyprlandSubmapIndicator-screenshot.png",
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
-    "path": "/nix/store/sn15cmsk4b0b1aa7i9za8xxh98rfajd6-dms-plugins",
-    "rev": "568fd7682a53ef07482799b91f81dc3383a91967",
+    "path": "/nix/store/5xkq3pk2rf187j7qrjyylgcclchz29f0-dms-plugins",
+    "rev": "c8d0bd89a7fb54060fcb4ed6f791130d73763dcf",
     "rootDir": "",
-    "sha256": "1pka520hb26dw9a9bw9p2dc3xlvsk31ixm1vasxczqcayzhrl44i",
+    "sha256": "0xnim5xiijmxn37dnc7pmg5zamz551f23217pyfszmn5k899xvy6",
     "url": "https://github.com/nderscore/dms-plugins"
   },
   "hyprwhsprVoiceOverlay": {
