@@ -6472,6 +6472,36 @@ Display Chinese lunar calendar with holiday information in the status bar
 
 
 
+#### [Claude Swap](https://github.com/hfb0/dms-claude-swap)
+
+Switch between Claude Code accounts via claude-swap: per-account 5-hour and weekly usage, one-click switching, and optional auto switch when quota runs out.
+
+<strong>requires DMS version</strong>: <em>>=2.1.0</em>
+
+- id: claudeSwap
+- name: Claude Swap
+- author: Henrique Barbosa
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: claude-swap, claude, flock
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/hfb0/dms-claude-swap/main/docs/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Clight](https://github.com/duxlabs-dev/dux-plugins)
 
 Ambient light sensor control - automatic brightness and screen dimming
