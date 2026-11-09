@@ -4234,6 +4234,36 @@ Control, configure, and monitor adguardvpn-cli directly from DankBar
 
 
 
+#### [Arch Updates](https://github.com/hbouttev/dms-arch-updates)
+
+Repository, AUR, Flatpak and mise update status for Arch Linux and Arch-based systems such as CachyOS. Checks contact your package mirrors, the AUR, Flatpak remotes and mise's sources. Updates run in your terminal with Arch-Update / Cachy-Update, or directly with your AUR helper or sudo pacman.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: archUpdates
+- name: Arch Updates
+- author: Hadrien Boutteville
+- compositors: any
+- capabilities: daemon, dankbar-widget, dash-tab
+- dependencies: checkupdates, systemd, arch-update or cachy-update (optional), paru, yay or pikaur (optional, AUR), flatpak (optional), mise (optional)
+- distro: arch
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/hbouttev/dms-arch-updates/main/assets/popout.png)
+
+</details>
+
+
+
+
+
 #### [Backlight Idle Actions](https://github.com/nfrastack/dms-backlightIdleActions)
 
 Battery/AC-aware pre-blank dim with restore on resume for screen and keyboard. Layers on top of DMS's existing idle pipeline.
