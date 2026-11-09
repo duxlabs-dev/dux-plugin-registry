@@ -1,7 +1,7 @@
 {
     "id": "goodweSolar2",
     "name": "GoodWe Solar & Battery",
-    "capabilities": ["dankbar-widget", "control-center"],
+    "capabilities": ["dankbar-widget", "control-center", "dash-card", "dash-tab"],
     "category": "monitoring",
     "repo": "https://github.com/beobcode/goodwe-solar-dms",
     "path": "plugins/goodweSolar2",
