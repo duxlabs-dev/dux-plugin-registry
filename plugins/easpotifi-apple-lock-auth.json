@@ -1,0 +1,21 @@
+{
+  "id": "appleLockAuth",
+  "name": "Apple Lock Auth",
+  "capabilities": [
+    "desktop-widget",
+    "lock"
+  ],
+  "category": "appearance",
+  "repo": "https://github.com/EAspotifi/Apple-Lock-Screen",
+  "author": "Ernest",
+  "description": "Estilo de desbloqueo tipo macOS con soporte para estilos nativos, tamaño configurable de avatar, barra y escala general",
+  "dependencies": [],
+  "compositors": [
+    "hyprland"
+  ],
+  "distro": [
+    "any"
+  ],
+  "requires_dms": ">=1.2.0",
+  "screenshot": "https://github.com/EAspotifi/Apple-Lock-Screen/raw/main/screenshot.jpg"
+}
