@@ -1975,12 +1975,12 @@
     "url": "https://github.com/titeya/dms-claudecode"
   },
   "claudeSwap": {
-    "date": "2026-11-08T20:08:55-03:00",
+    "date": "2026-11-09T02:08:36-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-zgAeCZTTvSSvBECbggPsVIS9DDQltJDPE3+zpCZwDmY=",
+    "hash": "sha256-OKQOkGiqfDk/2S9x7NVvrQZQNYWfr6r3Q4cpDf6E1rQ=",
     "leaveDotGit": false,
     "meta": {
       "author": "Henrique Barbosa",
@@ -2005,12 +2005,12 @@
       "repo": "https://github.com/hfb0/dms-claude-swap",
       "requires_dms": ">=2.1.0",
       "screenshot": "https://raw.githubusercontent.com/hfb0/dms-claude-swap/main/docs/screenshot.png",
-      "version": "0.3.1"
+      "version": "0.4.1"
     },
-    "path": "/nix/store/xynq4sh5vjn84hkllv993byiiwqhmlbm-dms-claude-swap",
-    "rev": "f84b4ea5ec3d697b93d1acf44dd859d42a42e48f",
+    "path": "/nix/store/sw7f9gb42ymsx9qrlgs4jh6gqd0cjck4-dms-claude-swap",
+    "rev": "45094892a5e332927b693f4356f63b9296132359",
     "rootDir": "",
-    "sha256": "0rhff0ka9cvz2g7r1d156h6bv12lxh1q56s00jpj9gfkjh4iw06f",
+    "sha256": "1d6nhkz0sac78gvsmbwzhlsm01mddzayqw9gv4zkjz5ad280x91q",
     "url": "https://github.com/hfb0/dms-claude-swap"
   },
   "claudeUsage": {
@@ -4944,27 +4944,22 @@
     "meta": {
       "author": "Tz-slayer",
       "capabilities": [
-        "daemon",
-        "desktop-widget",
-        "ai"
+        "daemon"
       ],
       "category": "appearance",
       "compositors": [
         "niri"
       ],
       "dependencies": [
-        "curl",
-        "qt6-5compat",
-        "cargo"
+        "curl"
       ],
-      "description": "AI depth-aware wallpapers: the near part of your wallpaper is redrawn above desktop widgets, so scenery and characters occlude your clock and cards like an iOS depth-effect lock screen.",
+      "description": "Depth-aware wallpaper occlusion and interactive 3D spatial parallax for Dux Shell.",
       "distro": [
         "any"
       ],
       "id": "depthscape",
       "name": "Depthscape",
       "repo": "https://github.com/Tz-slayer/depthscape",
-      "requires_dms": ">=1.5.0",
       "screenshot": "https://raw.githubusercontent.com/Tz-slayer/depthscape/main/assets/screenshot.png",
       "version": "0.5.0"
     },
@@ -12019,12 +12014,12 @@
     "url": "https://github.com/NoaHimesaka1873/dms-plugin-roon"
   },
   "sathiAi": {
-    "date": "2026-11-08T20:13:00-07:00",
+    "date": "2026-11-08T21:05:41-07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-3BP35U3guNbZCq/GHeQocdq70qCG6r08QdtnU3mUsV4=",
+    "hash": "sha256-/o4VHialjocxZqkWyY35B/5loQ2NX01YYcYu4kkG29E=",
     "leaveDotGit": false,
     "meta": {
       "author": "SSingh44",
@@ -12047,10 +12042,10 @@
       "screenshot": "https://raw.githubusercontent.com/ss44/sathi.ai/refs/heads/master/assets/screenshot-01.png",
       "version": "1.26.45"
     },
-    "path": "/nix/store/5bl077f155n5ndng395xbm8z50s54wil-sathi.ai",
-    "rev": "d8ff3bc765c3b24c4a1fc452b1cce061491e5e3a",
+    "path": "/nix/store/rijwnamcmm8xwq1wv89j299h65pbbpg0-sathi.ai",
+    "rev": "7e16f6987e7eeffc81ea21cbe1fe8d42c3dedec7",
     "rootDir": "",
-    "sha256": "0pmijiwm6ryv84ybvsl6l39bpnki53j1vimg1bcxdf709pjzf4yw",
+    "sha256": "1lfv0r4y4bn6c5c4spwd1nhnbzh7z66wj5m9cqqqg3m54qg1b3py",
     "url": "https://github.com/ss44/sathi.ai"
   },
   "scratchpadHelper": {
