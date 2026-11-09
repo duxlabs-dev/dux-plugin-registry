@@ -12019,12 +12019,12 @@
     "url": "https://github.com/NoaHimesaka1873/dms-plugin-roon"
   },
   "sathiAi": {
-    "date": "2026-11-03T04:23:12Z",
+    "date": "2026-11-08T20:13:00-07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-UN4/KuSD0z/Z0Ypt985JO5G/EVzmZV/51ZQoUa74LVc=",
+    "hash": "sha256-3BP35U3guNbZCq/GHeQocdq70qCG6r08QdtnU3mUsV4=",
     "leaveDotGit": false,
     "meta": {
       "author": "SSingh44",
@@ -12047,10 +12047,10 @@
       "screenshot": "https://raw.githubusercontent.com/ss44/sathi.ai/refs/heads/master/assets/screenshot-01.png",
       "version": "1.26.45"
     },
-    "path": "/nix/store/9afnnxb99xsji2gxjxbjhlpjpgs6dfsg-sathi.ai",
-    "rev": "e676faa1a6097a66d5c7050735810bd5a47494ae",
+    "path": "/nix/store/5bl077f155n5ndng395xbm8z50s54wil-sathi.ai",
+    "rev": "d8ff3bc765c3b24c4a1fc452b1cce061491e5e3a",
     "rootDir": "",
-    "sha256": "0mrdz2p52a4lspwmyrg6bh8vz49v977gfvcas7ckzlw3whm3zpjh",
+    "sha256": "0pmijiwm6ryv84ybvsl6l39bpnki53j1vimg1bcxdf709pjzf4yw",
     "url": "https://github.com/ss44/sathi.ai"
   },
   "scratchpadHelper": {
