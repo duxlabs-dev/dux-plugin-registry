@@ -239,16 +239,16 @@ Real-time Ghostty theme management from the navbar
 
 #### [Depthscape](https://github.com/Tz-slayer/depthscape)
 
-AI depth-aware wallpapers: the near part of your wallpaper is redrawn above desktop widgets, so scenery and characters occlude your clock and cards like an iOS depth-effect lock screen.
+Depth-aware wallpaper occlusion and interactive 3D spatial parallax for Dux Shell.
 
-<strong>requires DMS version</strong>: <em>>=1.5.0</em>
+
 
 - id: depthscape
 - name: Depthscape
 - author: Tz-slayer
 - compositors: niri
-- capabilities: daemon, desktop-widget, ai
-- dependencies: curl, qt6-5compat, cargo
+- capabilities: daemon
+- dependencies: curl
 - distro: any
 
 
