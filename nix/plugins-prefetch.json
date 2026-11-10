@@ -10890,6 +10890,44 @@
     "sha256": "0rs6bdlmr38c86y6hvp52v7hl6bbnis5sxrzx5ryqcd9hiiaipwn",
     "url": "https://gitlab.com/lobstermane/dms-ollama-usage"
   },
+  "openOrpheusLyrics": {
+    "date": "2026-11-10T11:12:45+08:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-cJXXKHh5AArlx/SwdL/PRzrjgL47ImjKEOMDo0ihhiI=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "FengYing1314",
+      "capabilities": [
+        "lyrics-provider"
+      ],
+      "category": "media",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "python3",
+        "busctl"
+      ],
+      "description": "Shows Open Orpheus 0.20.0+ lyrics in Dux Shell, preserving local word timing when available. If local lyrics are unavailable, it may send the current track's numeric ID to music.163.com to look up synced lyrics.",
+      "distro": [
+        "any"
+      ],
+      "id": "openOrpheusLyrics",
+      "name": "Open Orpheus Lyrics",
+      "repo": "https://github.com/FengYing1314/dms-open-orpheus-lyrics",
+      "requires_dms": ">=2.1.2",
+      "screenshot": "https://raw.githubusercontent.com/FengYing1314/dms-open-orpheus-lyrics/main/docs/lyrics-provider.png",
+      "version": "0.1.0"
+    },
+    "path": "/nix/store/bdfisk10k46ydk27x73vmzig8gz0x0w8-dms-open-orpheus-lyrics",
+    "rev": "2a218acfe6d200e0eb8b70da85bdda3ecbc3c0a3",
+    "rootDir": "",
+    "sha256": "08l6l54a60z32356h8ivps0f6fj7ryzp9c7lqzjhl03rg0ldg5bh",
+    "url": "https://github.com/FengYing1314/dms-open-orpheus-lyrics"
+  },
   "openTrackerBar": {
     "date": "2026-10-29T19:42:16+01:00",
     "deepClone": false,
