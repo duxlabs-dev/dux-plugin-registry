@@ -1,0 +1,14 @@
+{
+    "id": "openOrpheusLyrics",
+    "name": "Open Orpheus Lyrics",
+    "capabilities": ["lyrics-provider"],
+    "category": "media",
+    "repo": "https://github.com/FengYing1314/dms-open-orpheus-lyrics",
+    "author": "FengYing1314",
+    "description": "Shows Open Orpheus 0.20.0+ lyrics in Dux Shell, preserving local word timing when available. If local lyrics are unavailable, it may send the current track's numeric ID to music.163.com to look up synced lyrics.",
+    "dependencies": ["python3", "busctl"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "requires_dms": ">=2.1.2",
+    "screenshot": "https://raw.githubusercontent.com/FengYing1314/dms-open-orpheus-lyrics/main/docs/lyrics-provider.png"
+}
