@@ -9,5 +9,6 @@
     "dependencies": ["python3"],
     "compositors": ["any"],
     "distro": ["any"],
-    "screenshot": "https://raw.githubusercontent.com/ericklv/zmk-dongle-battery-dux-shell/main/assets/screenshot.png"
+    "screenshot": "https://raw.githubusercontent.com/ericklv/zmk-dongle-battery-dux-shell/main/assets/screenshot.png",
+    "requires_dms": ">=2.0.0"
 }
