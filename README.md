@@ -1341,6 +1341,36 @@ Adds line-synced lyrics from NetEase Cloud Music to the built-in DMS media playe
 
 
 
+#### [Open Orpheus Lyrics](https://github.com/FengYing1314/dms-open-orpheus-lyrics)
+
+Shows Open Orpheus 0.20.0+ lyrics in Dux Shell, preserving local word timing when available. If local lyrics are unavailable, it may send the current track's numeric ID to music.163.com to look up synced lyrics.
+
+<strong>requires DMS version</strong>: <em>>=2.1.2</em>
+
+- id: openOrpheusLyrics
+- name: Open Orpheus Lyrics
+- author: FengYing1314
+- compositors: any
+- capabilities: lyrics-provider
+- dependencies: python3, busctl
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/FengYing1314/dms-open-orpheus-lyrics/main/docs/lyrics-provider.png)
+
+</details>
+
+
+
+
+
 #### [Pure Lyrics](https://github.com/lildengzi/pureLyrics)
 
 A minimal floating desktop widget that displays real-time synced lyrics from multiple sources.
