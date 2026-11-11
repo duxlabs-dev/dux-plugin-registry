@@ -11502,6 +11502,36 @@ A simple widget for controlling audio output and input. Inspired by the audio wi
 
 
 
+#### [Sisyphus](https://github.com/SssiiiSssii1/dms-sisyphus)
+
+An endless animated companion that pushes a boulder uphill as you type; automatic keyboard detection requires input-group access.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: sisyphus
+- name: Sisyphus
+- author: SssiiiSssii1
+- compositors: any
+- capabilities: dankbar-widget, desktop-widget
+- dependencies: libinput, evtest, python3
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/SssiiiSssii1/dms-sisyphus/main/assets/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Spotify](https://github.com/alcxyz/DankSpotify)
 
 Control Spotify playback and search tracks via ncspot
