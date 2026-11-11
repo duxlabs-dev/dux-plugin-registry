@@ -2,17 +2,17 @@
   "plugins": {
     "canvasGrades": {
       "first_failed": "2026-11-10T14:28:20+00:00",
-      "last_failed": "2026-11-10T14:28:20+00:00",
+      "last_failed": "2026-11-11T13:41:26+00:00",
       "repo": "https://github.com/mcwiseman97/dms-canvas-plugin",
       "status": "HTTP 404",
-      "strikes": 1
+      "strikes": 2
     },
     "combinedStatus": {
       "first_failed": "2026-10-30T12:14:30+00:00",
-      "last_failed": "2026-11-10T14:28:20+00:00",
+      "last_failed": "2026-11-11T13:41:26+00:00",
       "repo": "https://github.com/Wang-Yang-source/niri-Duo",
       "status": "HTTP 404",
-      "strikes": 12
+      "strikes": 13
     }
   }
 }
