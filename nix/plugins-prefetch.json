@@ -1291,12 +1291,12 @@
     "url": "https://github.com/arcatva/dms-battery-plus"
   },
   "bitwarden": {
-    "date": "2026-11-02T20:13:54+01:00",
+    "date": "2026-11-11T10:11:53+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-/cL2DivIE9KPr/P+vnricT/fcb5pngszG5mkaXRYJJ0=",
+    "hash": "sha256-ia9d2XXIGLvThN89f4X3fAitWmdwXEezpwNLwKppB1k=",
     "leaveDotGit": false,
     "meta": {
       "author": "coldi1337",
@@ -1322,12 +1322,12 @@
       "repo": "https://github.com/coldi1337/dms-bitwarden-cli",
       "requires_dms": ">=1.6.0",
       "screenshot": "https://raw.githubusercontent.com/coldi1337/dms-bitwarden-cli/main/docs/screenshots/dms-vault-preview.png",
-      "version": "1.11.6-dms.6"
+      "version": "1.11.6-dms.7"
     },
-    "path": "/nix/store/13p6adv73y51kj8m769pg3nkx5j67291-dms-bitwarden-cli",
-    "rev": "528175fc46ec50a5b8670fdb40553c9fc18da201",
+    "path": "/nix/store/9fv5iriz9icqy0fjn4wfhbn6ar1x8a5v-dms-bitwarden-cli",
+    "rev": "d449d6575e7f396361b2439cda65f2a70928923c",
     "rootDir": "",
-    "sha256": "1794b1s6k94r3crhp7k9prqxygviw9xbxzpkmy7x44y85c7gdhpx",
+    "sha256": "0n87d6mc0jq3lyrlfp3hcxdas23wyy2pygfzhk9vn668fpcmvbw9",
     "url": "https://github.com/coldi1337/dms-bitwarden-cli"
   },
   "bongoCat": {
@@ -1751,12 +1751,12 @@
     "url": "https://github.com/ernestowgg/cava-visualizer"
   },
   "chatManager": {
-    "date": "2026-11-05T01:56:27+03:00",
+    "date": "2026-11-11T15:40:18+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-YVI/MxMEQjW8I40zp9SYIlxQdwhMxhl3cF0zH8HdIGw=",
+    "hash": "sha256-9Ocf/voz/6EBG8Hqxf58wwWgTj97RJbBFMO5pjtV1K8=",
     "leaveDotGit": false,
     "meta": {
       "author": "by-architect",
@@ -1781,19 +1781,19 @@
       "screenshot": "https://raw.githubusercontent.com/by-architect/DMS-Plugins/main/chatManager/docs/screenshot.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/58b4gk6v15y88zqpnd7hz670pqpw71lv-DMS-Plugins",
-    "rev": "bc572728c2d69c159bb63324a8395ed74b816c26",
+    "path": "/nix/store/z4lbfmyvkg0wsrap1qqdyaxnf2c9xgrw-DMS-Plugins",
+    "rev": "8dd69d7688f7f108f1c2e216671400ce80de96aa",
     "rootDir": "",
-    "sha256": "0v10vp0iycsxf1vikijc11vm0p12k3aafcwd4fy3ahh42crkylk1",
+    "sha256": "1bylalxsdff32k0rci3v7x7a01f3gkzcbsn13c0s3zrkzbz1zrzl",
     "url": "https://github.com/by-architect/DMS-Plugins"
   },
   "chatRunner": {
-    "date": "2026-11-05T01:56:27+03:00",
+    "date": "2026-11-11T15:40:18+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-YVI/MxMEQjW8I40zp9SYIlxQdwhMxhl3cF0zH8HdIGw=",
+    "hash": "sha256-9Ocf/voz/6EBG8Hqxf58wwWgTj97RJbBFMO5pjtV1K8=",
     "leaveDotGit": false,
     "meta": {
       "author": "by-architect",
@@ -1816,10 +1816,10 @@
       "screenshot": "https://raw.githubusercontent.com/by-architect/DMS-Plugins/main/chatRunner/docs/screenshot.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/58b4gk6v15y88zqpnd7hz670pqpw71lv-DMS-Plugins",
-    "rev": "bc572728c2d69c159bb63324a8395ed74b816c26",
+    "path": "/nix/store/z4lbfmyvkg0wsrap1qqdyaxnf2c9xgrw-DMS-Plugins",
+    "rev": "8dd69d7688f7f108f1c2e216671400ce80de96aa",
     "rootDir": "",
-    "sha256": "0v10vp0iycsxf1vikijc11vm0p12k3aafcwd4fy3ahh42crkylk1",
+    "sha256": "1bylalxsdff32k0rci3v7x7a01f3gkzcbsn13c0s3zrkzbz1zrzl",
     "url": "https://github.com/by-architect/DMS-Plugins"
   },
   "chineseCalendar": {
@@ -2167,12 +2167,12 @@
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "clipboardRunner": {
-    "date": "2026-11-05T01:56:27+03:00",
+    "date": "2026-11-11T15:40:18+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-YVI/MxMEQjW8I40zp9SYIlxQdwhMxhl3cF0zH8HdIGw=",
+    "hash": "sha256-9Ocf/voz/6EBG8Hqxf58wwWgTj97RJbBFMO5pjtV1K8=",
     "leaveDotGit": false,
     "meta": {
       "author": "by-architect",
@@ -2201,10 +2201,10 @@
       "screenshot": "https://raw.githubusercontent.com/by-architect/DMS-Plugins/main/clipboardRunner/docs/screenshot.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/58b4gk6v15y88zqpnd7hz670pqpw71lv-DMS-Plugins",
-    "rev": "bc572728c2d69c159bb63324a8395ed74b816c26",
+    "path": "/nix/store/z4lbfmyvkg0wsrap1qqdyaxnf2c9xgrw-DMS-Plugins",
+    "rev": "8dd69d7688f7f108f1c2e216671400ce80de96aa",
     "rootDir": "",
-    "sha256": "0v10vp0iycsxf1vikijc11vm0p12k3aafcwd4fy3ahh42crkylk1",
+    "sha256": "1bylalxsdff32k0rci3v7x7a01f3gkzcbsn13c0s3zrkzbz1zrzl",
     "url": "https://github.com/by-architect/DMS-Plugins"
   },
   "cliproxyQuota": {
@@ -3152,12 +3152,12 @@
     "url": "https://github.com/luckjokerwang/dms-dankcalendar"
   },
   "dankChat": {
-    "date": "2026-10-29T10:47:36+01:00",
+    "date": "2026-11-11T10:19:21+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-o6IeLNPVK98rGUBl33UveNojJ/sMhuOTq0iBslBYwms=",
+    "hash": "sha256-AOETwbfx2mU4YdKhr49iFinPrdlTQTgurKI/xoMjm5g=",
     "leaveDotGit": false,
     "meta": {
       "author": "coldi1337",
@@ -3191,12 +3191,12 @@
       "repo": "https://github.com/coldi1337/DankChat",
       "requires_dms": ">=1.6.1",
       "screenshot": "https://raw.githubusercontent.com/coldi1337/DankChat/v0.6.0/docs/preview.png",
-      "version": "0.6.1"
+      "version": "0.6.2"
     },
-    "path": "/nix/store/0c6ibx7rj2lcskzhf624dmziqxbxk9nc-DankChat",
-    "rev": "59f39c334ce61357ef1f96736aa730bf20b6e205",
+    "path": "/nix/store/sag1nmqhjhbwf0hmdhz7dhfnxjrnnxi9-DankChat",
+    "rev": "fe3196528087de0641f019ef88777bf76281b00f",
     "rootDir": "",
-    "sha256": "0sy2b18b50a8mf9y71hczckj7nkq5xsxyra034mxyaymscn1x8m3",
+    "sha256": "164v4f1wcgx2mhp3hhakv6nwya8nca7sz8fjc4w6bnpinz0i7q80",
     "url": "https://github.com/coldi1337/DankChat"
   },
   "dankCleaner": {
@@ -4934,12 +4934,12 @@
     "url": "https://github.com/gylove1994/deepseek-dms-widget"
   },
   "depthscape": {
-    "date": "2026-11-11T11:15:28+08:00",
+    "date": "2026-11-11T14:18:00+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-RLyHNzggHBykqlUsw+FuznG42LJWTXPpaVFaigHRApg=",
+    "hash": "sha256-yHvnNdSYnAIOYiqicJ0G7eQv8ERmZYzDil+UM2rwPLs=",
     "leaveDotGit": false,
     "meta": {
       "author": "Tz-slayer",
@@ -4963,10 +4963,10 @@
       "screenshot": "https://raw.githubusercontent.com/Tz-slayer/depthscape/main/assets/screenshot.png",
       "version": "0.5.2"
     },
-    "path": "/nix/store/fg02fhmm3yyblxa8cc15nsscj0brync2-depthscape",
-    "rev": "ddb0b74eb24a71e18156878754633bf3cc9cf540",
+    "path": "/nix/store/crifziran5g5qv81w95k1n8ppxpiw2wz-depthscape",
+    "rev": "ebd0de76ecde4d4f20163f0aae0e5fe4fe2efe4f",
     "rootDir": "",
-    "sha256": "1602s40qlnjid7lp6kannbcbhwffdvhw6b2mmaj1q71070vqgg24",
+    "sha256": "1frwy1m3752zib1qqrb68kq2zr7d0sfp18iac870574qshsyfyy8",
     "url": "https://github.com/Tz-slayer/depthscape"
   },
   "desktopBackup": {
@@ -9259,12 +9259,12 @@
     "url": "https://github.com/notsopreety/materialWeather"
   },
   "matrixChat": {
-    "date": "2026-11-05T01:56:27+03:00",
+    "date": "2026-11-11T15:40:18+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-YVI/MxMEQjW8I40zp9SYIlxQdwhMxhl3cF0zH8HdIGw=",
+    "hash": "sha256-9Ocf/voz/6EBG8Hqxf58wwWgTj97RJbBFMO5pjtV1K8=",
     "leaveDotGit": false,
     "meta": {
       "author": "by-architect",
@@ -9289,10 +9289,10 @@
       "screenshot": "https://raw.githubusercontent.com/by-architect/DMS-Plugins/main/matrixChat/docs/screenshot.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/58b4gk6v15y88zqpnd7hz670pqpw71lv-DMS-Plugins",
-    "rev": "bc572728c2d69c159bb63324a8395ed74b816c26",
+    "path": "/nix/store/z4lbfmyvkg0wsrap1qqdyaxnf2c9xgrw-DMS-Plugins",
+    "rev": "8dd69d7688f7f108f1c2e216671400ce80de96aa",
     "rootDir": "",
-    "sha256": "0v10vp0iycsxf1vikijc11vm0p12k3aafcwd4fy3ahh42crkylk1",
+    "sha256": "1bylalxsdff32k0rci3v7x7a01f3gkzcbsn13c0s3zrkzbz1zrzl",
     "url": "https://github.com/by-architect/DMS-Plugins"
   },
   "mediaControlPlus": {
@@ -12621,12 +12621,12 @@
     "url": "https://github.com/lpv11/dms-hypr-show-desktop"
   },
   "signalChat": {
-    "date": "2026-11-05T01:56:27+03:00",
+    "date": "2026-11-11T15:40:18+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-YVI/MxMEQjW8I40zp9SYIlxQdwhMxhl3cF0zH8HdIGw=",
+    "hash": "sha256-9Ocf/voz/6EBG8Hqxf58wwWgTj97RJbBFMO5pjtV1K8=",
     "leaveDotGit": false,
     "meta": {
       "author": "by-architect",
@@ -12651,10 +12651,10 @@
       "screenshot": "https://raw.githubusercontent.com/by-architect/DMS-Plugins/main/signalChat/docs/screenshot.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/58b4gk6v15y88zqpnd7hz670pqpw71lv-DMS-Plugins",
-    "rev": "bc572728c2d69c159bb63324a8395ed74b816c26",
+    "path": "/nix/store/z4lbfmyvkg0wsrap1qqdyaxnf2c9xgrw-DMS-Plugins",
+    "rev": "8dd69d7688f7f108f1c2e216671400ce80de96aa",
     "rootDir": "",
-    "sha256": "0v10vp0iycsxf1vikijc11vm0p12k3aafcwd4fy3ahh42crkylk1",
+    "sha256": "1bylalxsdff32k0rci3v7x7a01f3gkzcbsn13c0s3zrkzbz1zrzl",
     "url": "https://github.com/by-architect/DMS-Plugins"
   },
   "simNetwork": {
@@ -12771,6 +12771,46 @@
     "rootDir": "",
     "sha256": "02k64kvzwqwsm8r17j9xfwp69gi2cz70yp6jsv65cz5klz1lq0qm",
     "url": "https://github.com/etidona/dms-simple-battery-charge-protection"
+  },
+  "sisyphus": {
+    "date": "2026-11-10T11:11:25+02:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-vZx4VcruHqrpwe9cVSkVRoWInyhNCwgF3onYEwIUAfY=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "SssiiiSssii1",
+      "capabilities": [
+        "dankbar-widget",
+        "desktop-widget"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "libinput",
+        "evtest",
+        "python3"
+      ],
+      "description": "An endless animated companion that pushes a boulder uphill as you type; automatic keyboard detection requires input-group access.",
+      "distro": [
+        "any"
+      ],
+      "id": "sisyphus",
+      "name": "Sisyphus",
+      "repo": "https://github.com/SssiiiSssii1/dms-sisyphus",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/SssiiiSssii1/dms-sisyphus/main/assets/screenshot.png",
+      "version": "0.4.0"
+    },
+    "path": "/nix/store/indxd3wdvzjkmwmysgkfsb8va3n7zz0w-dms-sisyphus",
+    "rev": "b4abfffd78f31887154ae949beab183c7a00361f",
+    "rootDir": "",
+    "sha256": "1xh12h117n49vq2hh2sd52gqi1a62llmap7gq7lsl7pfr9api75x",
+    "url": "https://github.com/SssiiiSssii1/dms-sisyphus"
   },
   "sitStandReminder": {
     "date": "2026-11-04T16:47:15+01:00",
@@ -15126,12 +15166,12 @@
     "url": "https://github.com/antikytheraton/DankWebcamViewer"
   },
   "whatsappChat": {
-    "date": "2026-11-05T01:56:27+03:00",
+    "date": "2026-11-11T15:40:18+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-YVI/MxMEQjW8I40zp9SYIlxQdwhMxhl3cF0zH8HdIGw=",
+    "hash": "sha256-9Ocf/voz/6EBG8Hqxf58wwWgTj97RJbBFMO5pjtV1K8=",
     "leaveDotGit": false,
     "meta": {
       "author": "by-architect",
@@ -15156,10 +15196,10 @@
       "screenshot": "https://raw.githubusercontent.com/by-architect/DMS-Plugins/main/whatsappChat/docs/screenshot.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/58b4gk6v15y88zqpnd7hz670pqpw71lv-DMS-Plugins",
-    "rev": "bc572728c2d69c159bb63324a8395ed74b816c26",
+    "path": "/nix/store/z4lbfmyvkg0wsrap1qqdyaxnf2c9xgrw-DMS-Plugins",
+    "rev": "8dd69d7688f7f108f1c2e216671400ce80de96aa",
     "rootDir": "",
-    "sha256": "0v10vp0iycsxf1vikijc11vm0p12k3aafcwd4fy3ahh42crkylk1",
+    "sha256": "1bylalxsdff32k0rci3v7x7a01f3gkzcbsn13c0s3zrkzbz1zrzl",
     "url": "https://github.com/by-architect/DMS-Plugins"
   },
   "whisperer": {
