@@ -1,0 +1,14 @@
+{
+    "id": "duxTouch",
+    "name": "Touch",
+    "capabilities": ["daemon", "dankbar-widget", "control-center", "touch"],
+    "category": "utilities",
+    "repo": "https://github.com/Blakeinstein/dms-plugin-touch",
+    "author": "Blakeinstein",
+    "description": "On-screen keyboard (wvkbd), tablet mode, auto-rotation and Hyprland touch gestures (hyprgrass)",
+    "dependencies": ["wvkbd"],
+    "compositors": ["hyprland"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/Blakeinstein/dms-plugin-touch/main/preview.jpg",
+    "requires_dms": ">=2.2.0"
+}
