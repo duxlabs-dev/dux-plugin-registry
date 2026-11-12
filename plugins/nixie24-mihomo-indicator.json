@@ -9,6 +9,7 @@
     "author": "Nixie24",
     "description": "Shows mihomo status, live traffic and the active proxy in DankBar, with a popout to browse proxy groups and pick nodes.",
     "dependencies": [
+        "mihomo",
         "curl"
     ],
     "compositors": [
