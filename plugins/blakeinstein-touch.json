@@ -6,8 +6,8 @@
     "repo": "https://github.com/Blakeinstein/dms-plugin-touch",
     "author": "Blakeinstein",
     "description": "On-screen keyboard (wvkbd or the Virtual Keyboard plugin), tablet mode and auto-rotation on any compositor with layer-shell and wlr-output-management, plus Hyprland-only touch gestures (hyprgrass). Writes ~/.config/hypr/dms/touch.lua, reloaded via hyprpm reload -n on every Hyprland start; the Enable button appends to binds-user.lua, and Install runs hyprpm to fetch and build hyprgrass from GitHub",
-    "dependencies": ["wvkbd", "libinput-tools", "iio-sensor-proxy", "hyprgrass"],
-    "compositors": ["hyprland", "niri"],
+    "dependencies": ["wvkbd", "libinput-tools", "iio-sensor-proxy", "hyprgrass", "systemd"],
+    "compositors": ["any"],
     "distro": ["any"],
     "screenshot": "https://raw.githubusercontent.com/Blakeinstein/dms-plugin-touch/main/preview.jpg",
     "requires_dms": ">=2.2.0"
