@@ -1,0 +1,22 @@
+{
+    "id": "mihomoIndicator",
+    "name": "Mihomo Indicator",
+    "capabilities": [
+        "dankbar-widget"
+    ],
+    "category": "monitoring",
+    "repo": "https://github.com/Nixie24/dux-plugin-mihomo-indicator",
+    "author": "Nixie24",
+    "description": "Shows mihomo status, live traffic and the active proxy in DankBar, with a popout to browse proxy groups and pick nodes.",
+    "dependencies": [
+        "curl"
+    ],
+    "compositors": [
+        "any"
+    ],
+    "distro": [
+        "any"
+    ],
+    "screenshot": "https://raw.githubusercontent.com/Nixie24/dux-plugin-mihomo-indicator/main/screenshot.png",
+    "requires_dms": ">=2.1.0"
+}
