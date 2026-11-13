@@ -21,6 +21,6 @@
         "any"
     ],
     "screenshot": "https://raw.githubusercontent.com/arqueon/dms-screen-recorder/main/assets/screenshot.png",
-    "version": "1.5.3",
-    "requires_dms": ">=1.2.0"
+    "version": "1.5.4",
+    "requires_dms": ">=2.0.0"
 }
