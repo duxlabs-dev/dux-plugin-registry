@@ -5,8 +5,15 @@
   "category": "system",
   "repo": "https://github.com/Dhruv1249/dms-acer-sense",
   "author": "Dhruv1249",
-  "description": "Expanded control center for Acer Nitro/Predator laptops (based on raphamzn/dms-acer-sense): power profiles, custom fans, 4-zone RGB, battery limiter, calibration, LCD overdrive, and GPU mode.",
-  "dependencies": ["linuwu-sense"],
+  "description": "Expanded control center for Acer Nitro/Predator laptops (based on raphamzn/dms-acer-sense): power profiles, custom fans, 4-zone RGB, battery limiter, calibration, LCD overdrive, and GPU mode switching. Installs an optional root helper with a sudoers rule for hardware control.",
+  "dependencies": [
+    "linuwu-sense",
+    "envycontrol",
+    "nvidia-utils",
+    "pciutils",
+    "power-profiles-daemon"
+  ],
+  "requires_dms": ">=2.0.0",
   "compositors": ["any"],
   "distro": ["any"],
   "screenshot": "https://raw.githubusercontent.com/Dhruv1249/dms-acer-sense/main/screenshot.png"
