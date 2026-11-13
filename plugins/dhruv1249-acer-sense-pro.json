@@ -11,7 +11,9 @@
     "envycontrol",
     "nvidia-utils",
     "pciutils",
-    "power-profiles-daemon"
+    "power-profiles-daemon",
+    "sudo",
+    "polkit"
   ],
   "requires_dms": ">=2.0.0",
   "compositors": ["any"],
