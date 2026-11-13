@@ -4635,12 +4635,12 @@
     "url": "https://github.com/augustocdias/dank-pinentry"
   },
   "dankmailUnread": {
-    "date": "2026-11-11T14:37:00-06:00",
+    "date": "2026-11-12T13:34:58-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-zeDX4telF5V7RDvNlpm5K/Jz/vgb76dqGQzdTlqNNtQ=",
+    "hash": "sha256-r0FU1JPlEdzZDChQnVj+St4X2F2EW5+Y9VTEB1Ik/TU=",
     "leaveDotGit": false,
     "meta": {
       "author": "arqueon",
@@ -4666,10 +4666,10 @@
       "screenshot": "https://raw.githubusercontent.com/arqueon/dankmail/main/assets/screenshot.png",
       "version": "0.4.0"
     },
-    "path": "/nix/store/ygx80jg939h3v74dpqr8pwqs8q78iskg-dankmail",
-    "rev": "90cd461dc29d651de1f0e318e2876aac9a500ca8",
+    "path": "/nix/store/afx05aw7yxcnxnxml86xyz9pvc88xkms-dankmail",
+    "rev": "333323edd7bad067317ef8a619d3e83865a3a378",
     "rootDir": "",
-    "sha256": "1m1nimd4xp8c35magvqvz3z77wibp6crdk9v8ixra5x5szidgq6d",
+    "sha256": "0dgx4i90gi2lync9ynw4bpc1gpjazrc9sl181kcxq4g5jga58hdg",
     "url": "https://github.com/arqueon/dankmail"
   },
   "dankscale": {
@@ -7823,12 +7823,12 @@
     "url": "https://github.com/irunatbullets/hostname-widget"
   },
   "hueDirector": {
-    "date": "2026-11-06T18:24:01+01:00",
+    "date": "2026-11-12T20:47:19+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-mQyn/gl9zj0Bf4fU/DNa+613J6JFqSKT7AEoUSbfgNk=",
+    "hash": "sha256-1miM4CBbdzLX9U/Oa6AVp4YevmM4JOBPH/O2v7Pf99E=",
     "leaveDotGit": false,
     "meta": {
       "author": "maxb",
@@ -7854,12 +7854,12 @@
       "repo": "https://github.com/max72bra/huedirector",
       "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/max72bra/huedirector/main/screenshot.png",
-      "version": "1.6.3"
+      "version": "1.6.4"
     },
-    "path": "/nix/store/lj4h3makfnmv8lz4fpb821hgp4yi7ahp-huedirector",
-    "rev": "f38b0efd04e3bca2d77a2b1fcc23b6c0dd954f42",
+    "path": "/nix/store/6klnqzqpms6pxrqsy4my2vnrj1nxhibj-huedirector",
+    "rev": "9e96fadc1fde58203a230f4e949b82edcee52c22",
     "rootDir": "",
-    "sha256": "1nc0vwk52a01xj9j5aa5l8kpgbgvb8rzrm47gw0kvkkx17zaf34r",
+    "sha256": "1lgpvyrvzdpk3x7y091qcfz1x1m72nh6pkjgypbk4xsv43h8qs6n",
     "url": "https://github.com/max72bra/huedirector"
   },
   "hueManager": {
@@ -10115,12 +10115,12 @@
     "url": "https://github.com/arcatva/dms-next-boot-selector"
   },
   "nexusAi": {
-    "date": "2026-10-23T10:33:10+02:00",
+    "date": "2026-11-12T19:57:28+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-adZ7/Qz/fp9n49Jmw/LtfXxdfhoBRplvkFE3CGgAQn8=",
+    "hash": "sha256-Q5OSKqwiDLgHwUX6lSoAMMCZxexWNKhLqerqoTJSxSs=",
     "leaveDotGit": false,
     "meta": {
       "author": "myNicole98",
@@ -10142,12 +10142,12 @@
       "name": "Nexus AI",
       "repo": "https://github.com/myNicole98/NexusAI-DMS",
       "screenshot": "https://github.com/myNicole98/NexusAI-DMS/blob/main/resources/attachments/preview.png",
-      "version": "3.0.8"
+      "version": "3.0.9"
     },
-    "path": "/nix/store/nlg71a1s36skv15k39lkzpa2n6jq7gwy-NexusAI-DMS",
-    "rev": "8f001d223b1fc5a608d16006d211b313205dbb96",
+    "path": "/nix/store/g91hijfdzmji96kg7f4fg36bn76b37dm-NexusAI-DMS",
+    "rev": "0322b8fa403a30a426fd9cdd64aafd7fdc31f445",
     "rootDir": "",
-    "sha256": "0zs201l0hdsij1prjih139z5sz3xxprc6rnjwdkryzpz1kyppmk9",
+    "sha256": "0ay5a8ra3spam55shd2nxk2rkh1h00m9byj5q43vh312mhm954s3",
     "url": "https://github.com/myNicole98/NexusAI-DMS"
   },
   "nightModeControl": {
@@ -10700,12 +10700,12 @@
     "url": "https://github.com/TEJASJONDHALE/dms-nvidia-gpu-monitor"
   },
   "obsbot4linuxDux": {
-    "date": "2026-10-31T21:19:30+01:00",
+    "date": "2026-11-12T23:54:45+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-tNHp81Ey3ZxBQ/2GhTk6xPFM7WMDTHPwTJTOylliT2o=",
+    "hash": "sha256-Kzsbtj0sIbqRLxScldX3Ac7GjQr+waJkrL7vAaBYb/I=",
     "leaveDotGit": false,
     "meta": {
       "author": "nofuturekid",
@@ -10731,12 +10731,12 @@
       "repo": "https://github.com/nofuturekid/obsbot4linux-dux",
       "requires_dms": ">=1.5.0",
       "screenshot": "https://raw.githubusercontent.com/nofuturekid/obsbot4linux-dux/main/assets/screenshot.png",
-      "version": "0.27.0"
+      "version": "0.29.1"
     },
-    "path": "/nix/store/r4wasghfhvhy7g7n54rgsp3vwf9vaka4-obsbot4linux-dux",
-    "rev": "2dc4e6c3e382850f35992de61bdb271a528c8a18",
+    "path": "/nix/store/srylrr9pjrnkjwwbghgl321dq04dwmr7-obsbot4linux-dux",
+    "rev": "bc3e53a67894d8916cb7a4b0f5bf3c29b7e6fab5",
     "rootDir": "",
-    "sha256": "0sjgc9cwmkll9kq76k03cgnlrwf478wqb1px8d0rrp9ja7rykldl",
+    "sha256": "1wkgb2h03vxymija5hgy1a6wdkh1yzarb70l5y8vl89c7nv1nfrb",
     "url": "https://github.com/nofuturekid/obsbot4linux-dux"
   },
   "obsidianCapture": {
@@ -11041,12 +11041,12 @@
     "url": "https://github.com/orangedeck-dev/dms-plugin"
   },
   "orbitBluetooth": {
-    "date": "2026-11-12T12:00:01+01:00",
+    "date": "2026-11-12T22:17:36+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-G0QjUAoqPUjk0TwksADUEjVPdWCH0b0RdRIYe6ng8/0=",
+    "hash": "sha256-YaY8VRQyJ867gB0HOELk1CJJKXqDogFOOVdMqQTuYos=",
     "leaveDotGit": false,
     "meta": {
       "author": "lung595",
@@ -11078,12 +11078,12 @@
       "repo": "https://github.com/lung595/orbitBluetooth",
       "requires_dms": ">=1.6.0",
       "screenshot": "https://github.com/lung595/orbitBluetooth/raw/main/screenshots/registry.png",
-      "version": "2.0.0"
+      "version": "2.1.0"
     },
-    "path": "/nix/store/p6zvpjxivnivhxdd2rrdycnqh1pqzsx8-orbitBluetooth",
-    "rev": "079e1733d3455ee879c60f1bd1ba55233590fe90",
+    "path": "/nix/store/swavdsqqp2f9q4l67cb9afq97gav5w5d-orbitBluetooth",
+    "rev": "ddca6ce9ab62273569b870c55659d9f2dfb97ae7",
     "rootDir": "",
-    "sha256": "1zgkw2lpn60jfl8vvlc7c1slyd8jsh0b091ws7j4hg9a19826i0v",
+    "sha256": "12v2xq2ajk2p757038l3g8llj8nlwi13h1qxh2xww9rj2iakr9k1",
     "url": "https://github.com/lung595/orbitBluetooth"
   },
   "pangolinWidget": {
