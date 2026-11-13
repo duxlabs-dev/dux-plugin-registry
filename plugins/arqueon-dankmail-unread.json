@@ -1,7 +1,7 @@
 {
     "id": "dankmailUnread",
     "name": "Dankmail Unread",
-    "version": "0.4.0",
+    "version": "0.4.1",
     "capabilities": [
         "dankbar-widget"
     ],
@@ -10,7 +10,7 @@
     "path": "dms-plugin",
     "author": "arqueon",
     "description": "The DankMaterialShell companion shipped with Dankmail: live unread status and quick triage powered by the same dmail daemon.",
-    "requires_dms": ">=1.6.0",
+    "requires_dms": ">=2.0.0",
     "dependencies": [
         "dmail"
     ],
