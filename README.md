@@ -3647,7 +3647,7 @@ Manage tasks from multiple CalDAV and Evolution system accounts in grouped, coll
 
 dcal countdown and scrollable agenda with keyboard navigation, event copying, meeting links and IPC shortcuts; opens events in DankCalendar and keeps the countdown width stable.
 
-
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: dankCalendarAgenda
 - name: Dank Calendar Agenda
@@ -11221,7 +11221,7 @@ Premium pill-shaped toolbar for quick screenshots and screen recording
 
 Start, stop, and configure screen captures with gpu-screen-recorder on any Wayland compositor. Audio modes: system audio, microphone, both mixed, or both as separate tracks. IPC keybinds and Control Center toggle.
 
-<strong>requires DMS version</strong>: <em>>=1.2.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: screenRecorder
 - name: Screen Recorder
