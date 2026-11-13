@@ -11942,6 +11942,36 @@ A countdown timer with notification support and audio alerts.
 
 
 
+#### [Touch](https://github.com/Blakeinstein/dms-plugin-touch)
+
+On-screen keyboard (wvkbd or the Virtual Keyboard plugin), tablet mode and auto-rotation, tested on Hyprland and niri, plus Hyprland-only touch gestures (hyprgrass). Writes ~/.config/hypr/dms/touch.lua, reloaded via hyprpm reload -n on every Hyprland start; the Enable button appends to binds-user.lua, and Install runs hyprpm to fetch and build hyprgrass from GitHub
+
+<strong>requires DMS version</strong>: <em>>=2.2.0</em>
+
+- id: duxTouch
+- name: Touch
+- author: Blakeinstein
+- compositors: hyprland, niri
+- capabilities: daemon, dankbar-widget, control-center, touch
+- dependencies: wvkbd, libinput-tools, iio-sensor-proxy, hyprgrass, systemd
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/Blakeinstein/dms-plugin-touch/main/preview.jpg)
+
+</details>
+
+
+
+
+
 #### [Translate](https://github.com/alcxyz/DankTranslate)
 
 Translate text between languages using translate-shell
