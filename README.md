@@ -7836,7 +7836,7 @@ GPG/SSH passphrase entry with native DMS modal.
 
 The DankMaterialShell companion shipped with Dankmail: live unread status and quick triage powered by the same dmail daemon.
 
-<strong>requires DMS version</strong>: <em>>=1.6.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: dankmailUnread
 - name: Dankmail Unread
