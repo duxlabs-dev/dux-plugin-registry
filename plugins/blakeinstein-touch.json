@@ -1,0 +1,14 @@
+{
+    "id": "duxTouch",
+    "name": "Touch",
+    "capabilities": ["daemon", "dankbar-widget", "control-center", "touch"],
+    "category": "utilities",
+    "repo": "https://github.com/Blakeinstein/dms-plugin-touch",
+    "author": "Blakeinstein",
+    "description": "On-screen keyboard (wvkbd or the Virtual Keyboard plugin), tablet mode and auto-rotation, tested on Hyprland and niri, plus Hyprland-only touch gestures (hyprgrass). Writes ~/.config/hypr/dms/touch.lua, reloaded via hyprpm reload -n on every Hyprland start; the Enable button appends to binds-user.lua, and Install runs hyprpm to fetch and build hyprgrass from GitHub",
+    "dependencies": ["wvkbd", "libinput-tools", "iio-sensor-proxy", "hyprgrass", "systemd"],
+    "compositors": ["hyprland", "niri"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/Blakeinstein/dms-plugin-touch/main/preview.jpg",
+    "requires_dms": ">=2.2.0"
+}
