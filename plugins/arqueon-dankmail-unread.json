@@ -1,15 +1,15 @@
 {
     "id": "dankmailUnread",
-    "name": "Dankmail Unread",
-    "version": "0.4.1",
+    "name": "Dux Mail Unread",
+    "version": "0.5.0",
     "capabilities": [
         "dankbar-widget"
     ],
     "category": "utilities",
-    "repo": "https://github.com/arqueon/dankmail",
+    "repo": "https://github.com/arqueon/dux-mail",
     "path": "dms-plugin",
     "author": "arqueon",
-    "description": "The DankMaterialShell companion shipped with Dankmail: live unread status and quick triage powered by the same dmail daemon.",
+    "description": "Composed of the DMS bar plugin and additionally the Dux Mail desktop app, powered by the dmail daemon.",
     "requires_dms": ">=2.0.0",
     "dependencies": [
         "dmail"
@@ -20,5 +20,5 @@
     "distro": [
         "any"
     ],
-    "screenshot": "https://raw.githubusercontent.com/arqueon/dankmail/main/assets/screenshot.png"
+    "screenshot": "https://raw.githubusercontent.com/arqueon/dux-mail/main/assets/screenshot.png"
 }
