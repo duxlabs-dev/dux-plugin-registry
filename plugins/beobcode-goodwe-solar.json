@@ -1,0 +1,15 @@
+{
+    "id": "goodweSolar2",
+    "name": "GoodWe Solar & Battery",
+    "capabilities": ["dankbar-widget", "control-center", "dash-card", "dash-tab"],
+    "category": "monitoring",
+    "repo": "https://github.com/beobcode/goodwe-solar-dms",
+    "path": "plugins/goodweSolar2",
+    "author": "Dominik",
+    "description": "Real-time local GoodWe inverter telemetry, battery status, and power curves. Requires the user to install python-goodwe and run the included poller.py collector daemon as a user service.",
+    "requires_dms": ">=2.0.0",
+    "dependencies": ["python3", "python-goodwe"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/beobcode/goodwe-solar-dms/main/screenshot.png"
+}
