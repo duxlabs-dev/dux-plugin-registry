@@ -1,0 +1,22 @@
+{
+    "id": "agentUsage",
+    "name": "Dux Agent Usage",
+    "capabilities": [
+        "dankbar-widget",
+        "daemon"
+    ],
+    "category": "monitoring",
+    "repo": "https://github.com/Wasiq2006/dux-agent-usage",
+    "author": "Wasiq Mansoor",
+    "description": "Claude Code, Codex and OpenCode limits, tokens and API-equivalent cost in the bar, read from local files. Live Claude limits, pace warnings and limit notifications.",
+    "dependencies": [
+        "python3"
+    ],
+    "compositors": [
+        "any"
+    ],
+    "distro": [
+        "any"
+    ],
+    "screenshot": "https://raw.githubusercontent.com/Wasiq2006/dux-agent-usage/main/Image1.png"
+}
