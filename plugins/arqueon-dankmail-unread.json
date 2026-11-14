@@ -1,7 +1,7 @@
 {
     "id": "dankmailUnread",
     "name": "Dux Mail Unread",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "capabilities": [
         "dankbar-widget"
     ],
@@ -9,7 +9,7 @@
     "repo": "https://github.com/arqueon/dux-mail",
     "path": "dms-plugin",
     "author": "arqueon",
-    "description": "Composed of the DMS bar plugin and additionally the Dux Mail desktop app, powered by the dmail daemon.",
+    "description": "Bar unread badge, per-account filter, and Inbox/Starred/Drafts triage popout for Dux Mail. Companion to the separate Dux Mail desktop app; requires its dmail daemon.",
     "requires_dms": ">=2.0.0",
     "dependencies": [
         "dmail"
