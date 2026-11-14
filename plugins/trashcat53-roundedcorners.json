@@ -1,0 +1,13 @@
+{
+  "id": "roundedCorners",
+  "name": "Rounded Corners",
+  "capabilities": ["daemon"],
+  "category": "appearance",
+  "repo": "https://github.com/trashcat53/DesktopCorners-DuxLabs-QMS-Plugin.git",
+  "author": "TrashCat53",
+  "description": "Adds rounded corners to your desktop to mimic round bezels",
+  "dependencies": [],
+  "compositors": ["niri", "mango"],
+  "distro": ["any"],
+  "screenshot": "https://github.com/trashcat53/DesktopCorners-DuxLabs-QMS-Plugin/blob/master/rounded-corners-preview.png?raw=true"
+}
