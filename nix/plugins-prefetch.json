@@ -1563,46 +1563,6 @@
     "sha256": "0kjigky2ivwcgkai1vkkq6dmnyas566grrzv7qx18885dq8nf4sf",
     "url": "https://github.com/brunofin/dms-caldav-tasks"
   },
-  "canvasGrades": {
-    "date": "2026-03-18T09:18:36-05:00",
-    "deepClone": false,
-    "fetchLFS": false,
-    "fetchSubmodules": false,
-    "fetchTags": false,
-    "hash": "sha256-BmTjHPqxjz4KXqccaO+8QfHkyJUNs/kXJ1IF8fdJI2Y=",
-    "leaveDotGit": false,
-    "meta": {
-      "author": "mcwiseman97",
-      "capabilities": [
-        "dankbar-widget"
-      ],
-      "category": "utilities",
-      "compositors": [
-        "niri",
-        "hyprland"
-      ],
-      "dependencies": [
-        "curl",
-        "jq",
-        "bash"
-      ],
-      "description": "Courses, grades, upcoming assignments, missing work, and announcements from Canvas LMS",
-      "distro": [
-        "any"
-      ],
-      "id": "canvasGrades",
-      "name": "Canvas Grades",
-      "path": "canvasGrades",
-      "repo": "https://github.com/mcwiseman97/dms-canvas-plugin",
-      "screenshot": "https://raw.githubusercontent.com/mcwiseman97/dms-canvas-plugin/main/screenshots/canvas-popout.png",
-      "version": "1.1.0"
-    },
-    "path": "/nix/store/pn06f9ym57682h3bh56b6j2mp95sn3as-dms-canvas-plugin",
-    "rev": "b4576a16c4a10766c0bfb16ecb21343a3893fc2d",
-    "rootDir": "",
-    "sha256": "0ri397vz21aj4wbzkcqdjp4f9wa1pkpnh757bq53x3xiz8ff6r06",
-    "url": "https://github.com/mcwiseman97/dms-canvas-plugin"
-  },
   "cardwireManager": {
     "date": "2026-09-30T10:37:38+02:00",
     "deepClone": false,

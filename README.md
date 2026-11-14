@@ -6362,41 +6362,6 @@ Próximos jogos de Libertadores, Sudamericana e Brasileirão
 
 
 
-#### [Canvas Grades](https://github.com/mcwiseman97/dms-canvas-plugin)
-
-Courses, grades, upcoming assignments, missing work, and announcements from Canvas LMS
-
-
-
-- id: canvasGrades
-- name: Canvas Grades
-- author: mcwiseman97
-- compositors: niri, hyprland
-- capabilities: dankbar-widget
-- dependencies: curl, jq, bash
-- distro: any
-
-
-
-
-> [!NOTE]
-> This plugin is part of a monorepo, please copy the contents of the [canvasGrades](https://github.com/mcwiseman97/dms-canvas-plugin/tree/main/canvasGrades) folder to your `~/.config/dms/plugins/` folder.
-
-
-
-
-
-<details>
-<summary>Screenshot</summary>
-
-![screenshot](https://raw.githubusercontent.com/mcwiseman97/dms-canvas-plugin/main/screenshots/canvas-popout.png)
-
-</details>
-
-
-
-
-
 #### [Cast](https://github.com/Conava/dux-plugins)
 
 Mirror your screen to Chromecast, Google TV and AirPlay devices, and play files, music, playlists, slideshows and links on Chromecast. Needs cast-helper (AUR package or release download, guided in the plugin settings): https://github.com/Conava/dux-cast#install
