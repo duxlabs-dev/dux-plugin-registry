@@ -4655,23 +4655,23 @@
       "dependencies": [
         "dmail"
       ],
-      "description": "The DankMaterialShell companion shipped with Dankmail: live unread status and quick triage powered by the same dmail daemon.",
+      "description": "Bar unread badge, per-account filter, and Inbox/Starred/Drafts triage popout for Dux Mail. Companion to the separate Dux Mail desktop app; requires its dmail daemon.",
       "distro": [
         "any"
       ],
       "id": "dankmailUnread",
-      "name": "Dankmail Unread",
+      "name": "Dux Mail Unread",
       "path": "dms-plugin",
-      "repo": "https://github.com/arqueon/dankmail",
+      "repo": "https://github.com/arqueon/dux-mail",
       "requires_dms": ">=2.0.0",
-      "screenshot": "https://raw.githubusercontent.com/arqueon/dankmail/main/assets/screenshot.png",
+      "screenshot": "https://raw.githubusercontent.com/arqueon/dux-mail/main/assets/screenshot.png",
       "version": "0.5.1"
     },
-    "path": "/nix/store/hkj6blc4npy1xiwahs7jii5h48v2mxaz-dankmail",
+    "path": "/nix/store/k7vgg6vyf7rh3jqg901y577syrwzjwkb-dux-mail",
     "rev": "82f249cd9dcad640a67f1d66e153a700e7bf0a32",
     "rootDir": "",
     "sha256": "0i2aaankxp2znxdzklib1mg0r99h3v6zsb6j2snbgnvq6qlpjy34",
-    "url": "https://github.com/arqueon/dankmail"
+    "url": "https://github.com/arqueon/dux-mail"
   },
   "dankscale": {
     "date": "2026-11-04T10:38:11-06:00",
@@ -12490,12 +12490,12 @@
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "screenshotPlus": {
-    "date": "2026-11-12T21:52:36+08:00",
+    "date": "2026-11-14T14:32:26+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-TVu1fWHYX6b6BxE9g7V5NtQZC6f+K0F82ZjQiU0eFIw=",
+    "hash": "sha256-5WVBItuWv6M5rSZvakYENnNZbyiheq/4d1IojrPSkvY=",
     "leaveDotGit": false,
     "meta": {
       "author": "pcmid",
@@ -12517,12 +12517,12 @@
       "repo": "https://github.com/pcmid/dms-screenshot-plus",
       "requires_dms": ">=1.6.0",
       "screenshot": "https://raw.githubusercontent.com/pcmid/dms-screenshot-plus/main/screenshots/screenshot.png",
-      "version": "0.5.1"
+      "version": "0.5.3"
     },
-    "path": "/nix/store/ip5pzz1dfbci72gskblnb8pxpvvmsvjn-dms-screenshot-plus",
-    "rev": "9a8dceb33f6dc222bd146f0ee8bc5d2554a78f48",
+    "path": "/nix/store/y53q5wbyzzsdnjv3j3diqyrxdl38705q-dms-screenshot-plus",
+    "rev": "4b170c828507616cff46183c81dd4cde394444ab",
     "rootDir": "",
-    "sha256": "130l3r6qkl4qv5y42azylw5ikm1ng6sq6g8i0zxacpyqc5yvansd",
+    "sha256": "1xljsarqwa2jfzwayym151pmjwrn0i36lvr6mlws7gwnvci42rg5",
     "url": "https://github.com/pcmid/dms-screenshot-plus"
   },
   "sessionEdge": {
