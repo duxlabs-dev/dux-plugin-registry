@@ -7832,41 +7832,6 @@ GPG/SSH passphrase entry with native DMS modal.
 
 
 
-#### [Dankmail Unread](https://github.com/arqueon/dankmail)
-
-The DankMaterialShell companion shipped with Dankmail: live unread status and quick triage powered by the same dmail daemon.
-
-<strong>requires DMS version</strong>: <em>>=2.0.0</em>
-
-- id: dankmailUnread
-- name: Dankmail Unread
-- author: arqueon
-- compositors: any
-- capabilities: dankbar-widget
-- dependencies: dmail
-- distro: any
-
-
-
-
-> [!NOTE]
-> This plugin is part of a monorepo, please copy the contents of the [dms-plugin](https://github.com/arqueon/dankmail/tree/main/dms-plugin) folder to your `~/.config/dms/plugins/` folder.
-
-
-
-
-
-<details>
-<summary>Screenshot</summary>
-
-![screenshot](https://raw.githubusercontent.com/arqueon/dankmail/main/assets/screenshot.png)
-
-</details>
-
-
-
-
-
 #### [Dankscale](https://github.com/dwright134/dms-dankscale)
 
 Manage your Tailscale network: connect/disconnect, switch accounts, copy device IPs, pick exit nodes, manage routes, control DNS, and send/receive files with Taildrop
@@ -8260,6 +8225,41 @@ Configurable bar button that opens a dropdown menu of actions, plugin toggles, p
 <summary>Screenshot</summary>
 
 ![screenshot](https://raw.githubusercontent.com/rdannenbring/dropdown-menu/main/assets/dropdown-menu.png)
+
+</details>
+
+
+
+
+
+#### [Dux Mail Unread](https://github.com/arqueon/dux-mail)
+
+Bar unread badge, per-account filter, and Inbox/Starred/Drafts triage popout for Dux Mail. Companion to the separate Dux Mail desktop app; requires its dmail daemon.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: dankmailUnread
+- name: Dux Mail Unread
+- author: arqueon
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: dmail
+- distro: any
+
+
+
+
+> [!NOTE]
+> This plugin is part of a monorepo, please copy the contents of the [dms-plugin](https://github.com/arqueon/dux-mail/tree/main/dms-plugin) folder to your `~/.config/dms/plugins/` folder.
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/arqueon/dux-mail/main/assets/screenshot.png)
 
 </details>
 
