@@ -12901,6 +12901,44 @@
     "sha256": "1mw2pzc930gmwjnsgw9h0dlrnqfn5grhg7gp3h5i7805kkw3br3c",
     "url": "https://github.com/knappancash/SitStandReminder"
   },
+  "skykeepReminders": {
+    "date": "2026-11-13T18:18:48-06:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-RuOJLT6/0W+QHZD5dW/Ou4CRTzK2rOf/KNF2MTn4Q2k=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Dukko",
+      "capabilities": [
+        "dankbar-widget"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "skykeep",
+        "sqlite3"
+      ],
+      "description": "Your iCloud Reminders in the bar, read from Skykeep's local library: overdue and due-today count, with a popout list",
+      "distro": [
+        "any"
+      ],
+      "id": "skykeepReminders",
+      "name": "Skykeep Reminders",
+      "repo": "https://github.com/Dukko/dms-skykeep-reminders",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/Dukko/dms-skykeep-reminders/main/docs/screenshot.png",
+      "version": "0.1.0"
+    },
+    "path": "/nix/store/zbgw93v7q1sym4aavwnaq0ickigqiwwj-dms-skykeep-reminders",
+    "rev": "028950ad66ac61166702bfae17e7dbc1078353ee",
+    "rootDir": "",
+    "sha256": "0sa3z0wk2xni53zygb5n697r305vrrppbych3n86zldz7qnqkqs6",
+    "url": "https://github.com/Dukko/dms-skykeep-reminders"
+  },
   "smartTimer": {
     "date": "2026-10-12T18:09:30+02:00",
     "deepClone": false,
