@@ -8,7 +8,7 @@
     "category": "monitoring",
     "repo": "https://github.com/Wasiq2006/dux-agent-usage",
     "author": "Wasiq Mansoor",
-    "description": "Claude Code, Codex and OpenCode limits, tokens and API-equivalent cost in the bar, read from local files. Live Claude limits, pace warnings and limit notifications.",
+    "description": "Claude Code, Codex and OpenCode limits, tokens and API-equivalent cost in the bar, with pace warnings and limit notifications. Reads local files. Two opt-in settings go further: live Claude limits adds a statusLine entry to ~/.claude/settings.json, and model prices downloads the public LiteLLM price list once a day.",
     "dependencies": [
         "python3"
     ],
@@ -18,5 +18,6 @@
     "distro": [
         "any"
     ],
-    "screenshot": "https://raw.githubusercontent.com/Wasiq2006/dux-agent-usage/main/Image1.png"
+    "screenshot": "https://raw.githubusercontent.com/Wasiq2006/dux-agent-usage/main/Image1.png",
+    "requires_dms": ">=2.1.0"
 }
