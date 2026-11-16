@@ -77,6 +77,49 @@
     "sha256": "0bwg2ymgg2znxb0yvadf8ads00hyh7kkg1cp0casfr5cfjnn4cbi",
     "url": "https://github.com/raphamzn/dms-acer-sense"
   },
+  "acerSensePro": {
+    "date": "2026-11-16T12:19:57+05:30",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-sPUWQ4W+IRsxgPdQLICPYZ/ieJyKcugiYyRRLcYmCJQ=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Dhruv1249",
+      "capabilities": [
+        "dankbar-widget"
+      ],
+      "category": "system",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "linuwu-sense",
+        "envycontrol",
+        "nvidia-utils",
+        "pciutils",
+        "power-profiles-daemon",
+        "sudo",
+        "polkit"
+      ],
+      "description": "Expanded control center for Acer Nitro/Predator laptops (based on raphamzn/dms-acer-sense): power profiles, custom fans, 4-zone RGB, battery limiter, calibration, LCD overdrive, and GPU mode switching. Installs an optional root helper with a sudoers rule for hardware control.",
+      "distro": [
+        "any"
+      ],
+      "id": "acerSensePro",
+      "name": "Acer Sense Pro",
+      "repo": "https://github.com/Dhruv1249/dms-acer-sense",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/Dhruv1249/dms-acer-sense/main/screenshot.png",
+      "version": "2.0.0"
+    },
+    "path": "/nix/store/2gxyj90fbvhz2jn7qk7d8206a6n1mqkw-dms-acer-sense",
+    "rev": "58d16adee8774361b3dc2bc671e3688fd4a5e4aa",
+    "rootDir": "",
+    "sha256": "15084v32sl94ccifhwlakiwf57v1iy02ql7ph0qin8dyhm1idxdh",
+    "url": "https://github.com/Dhruv1249/dms-acer-sense"
+  },
   "activateLinux": {
     "date": "2026-11-15T22:35:56+07:00",
     "deepClone": false,
@@ -974,12 +1017,12 @@
     "url": "https://github.com/lpv11/dms-audio-slots"
   },
   "audioSwitcher": {
-    "date": "2026-03-05T17:29:38+01:00",
+    "date": "2026-11-16T11:00:52+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-jGsB+oT9Jpm2lycuFFLp0etqUUoG3GJRJOqZqZUSk6w=",
+    "hash": "sha256-H07QR9g8I/s/tPnZb4wPbI9u0GSSLGDffThu9FKlayY=",
     "leaveDotGit": false,
     "meta": {
       "author": "CD-Z",
@@ -1001,10 +1044,10 @@
       "screenshot": "https://raw.githubusercontent.com/CD-Z/dms-plugins/master/settings.png",
       "version": "1.0"
     },
-    "path": "/nix/store/qdkzzmam6zp8h7s59bdmv402bplipwn4-dms-plugins",
-    "rev": "c510ed4f29c5128512130051100e5c86464c95a6",
+    "path": "/nix/store/z0szcyd6yl5kbrwr63rx9k0kp5kppj32-dms-plugins",
+    "rev": "368ad257fe20dfcb852fe77e1a82328ab215e49d",
     "rootDir": "",
-    "sha256": "1b4k2aask6ga4i8n5p06998nmsyix5918bi7jyv9j9pxhkx02swc",
+    "sha256": "09kblm9g8viqgpgn0b4jck86x3vc1y66zngrnhzzn8rwv13x0khz",
     "url": "https://github.com/CD-Z/dms-plugins"
   },
   "auroraClock": {
@@ -2737,12 +2780,12 @@
     "url": "https://github.com/zhtlancer/dms-cpu-thermal-indicator.git"
   },
   "cursorHighlight": {
-    "date": "2026-11-15T21:47:24Z",
+    "date": "2026-11-16T02:41:29Z",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-UHRYQhsOu+QU9DqfGr6rX+TlCMC+LnjJQ4dwtPAFSnY=",
+    "hash": "sha256-ZcpDn9GdNu6BdiSpSI7Ir6sy6OkvC9xWMV0RZQ9WEDk=",
     "leaveDotGit": false,
     "meta": {
       "author": "ReyArlena",
@@ -2768,10 +2811,10 @@
       "screenshot": "https://raw.githubusercontent.com/ReyArlena/dms-cursor-highlight/main/assets/screenshot.png",
       "version": "2.0.0"
     },
-    "path": "/nix/store/c4254y8cmi4jqbqfnirvp8ir8iqiz6lz-dms-cursor-highlight",
-    "rev": "fb3deabf150f06e4d309235b8e2d6c056ba244ba",
+    "path": "/nix/store/2i4rw2yvnmqaj3ma18n83xcy9j6yalqp-dms-cursor-highlight",
+    "rev": "f0dfd707dcee79b938ceb7d259c4e9aae512d102",
     "rootDir": "",
-    "sha256": "0xja0pqb8w478g4phbmyq04fbr2zmfz1m7rsyhaf9fqf3d15hx2h",
+    "sha256": "0f8haq7na4ax65bdq2rgx7l35axgr274ia94fs0ywdlxs6gl7jk5",
     "url": "https://github.com/ReyArlena/dms-cursor-highlight"
   },
   "customRunningApps": {
