@@ -1,0 +1,14 @@
+{
+    "id": "skykeepReminders",
+    "name": "Skykeep Reminders",
+    "capabilities": ["dankbar-widget"],
+    "category": "utilities",
+    "repo": "https://github.com/Dukko/dms-skykeep-reminders",
+    "author": "Dukko",
+    "description": "Your iCloud Reminders in the bar, read from Skykeep's local library: overdue and due-today count, with a popout list",
+    "dependencies": ["skykeep", "sqlite3"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/Dukko/dms-skykeep-reminders/main/docs/screenshot.png",
+    "requires_dms": ">=2.0.0"
+}
