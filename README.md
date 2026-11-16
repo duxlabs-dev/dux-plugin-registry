@@ -4234,6 +4234,36 @@ Control panel for Acer Nitro/Predator laptops: power profile, fan presets, batte
 
 
 
+#### [Acer Sense Pro](https://github.com/Dhruv1249/dms-acer-sense)
+
+Expanded control center for Acer Nitro/Predator laptops (based on raphamzn/dms-acer-sense): power profiles, custom fans, 4-zone RGB, battery limiter, calibration, LCD overdrive, and GPU mode switching. Installs an optional root helper with a sudoers rule for hardware control.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: acerSensePro
+- name: Acer Sense Pro
+- author: Dhruv1249
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: linuwu-sense, envycontrol, nvidia-utils, pciutils, power-profiles-daemon, sudo, polkit
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/Dhruv1249/dms-acer-sense/main/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [AdGuard VPN](https://github.com/bernardopg/dms-adguard-vpn-plugin)
 
 Control, configure, and monitor adguardvpn-cli directly from DankBar
