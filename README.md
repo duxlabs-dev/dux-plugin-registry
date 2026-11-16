@@ -11532,6 +11532,36 @@ An endless animated companion that pushes a boulder uphill as you type; automati
 
 
 
+#### [Skykeep Reminders](https://github.com/Dukko/dms-skykeep-reminders)
+
+Your iCloud Reminders in the bar, read from Skykeep's local library: overdue and due-today count, with a popout list
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: skykeepReminders
+- name: Skykeep Reminders
+- author: Dukko
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: skykeep, sqlite3
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/Dukko/dms-skykeep-reminders/main/docs/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Spotify](https://github.com/alcxyz/DankSpotify)
 
 Control Spotify playback and search tracks via ncspot
