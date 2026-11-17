@@ -10,7 +10,7 @@
     "category": "appearance",
     "repo": "https://github.com/lung595/browserGlass",
     "author": "lung595",
-    "description": "Translucent glass for Firefox-family browsers (LibreWolf, Firefox, Zen, Floorp, Waterfox): your wallpaper shows blurred through the browser bars and page backgrounds, while text, pictures and video stay sharp. Opacity, blur and colours follow DMS, light or dark. Needs DMS background blur on.",
+    "description": "Translucent glass for Firefox-family browsers on niri (LibreWolf, Firefox, Zen, Floorp, Waterfox): the wallpaper shows blurred through the browser bars and page backgrounds, text, pictures and video stay sharp. Opacity, blur and colours follow DMS, light or dark. Needs DMS background blur on. Writes userChrome.css, userContent.css and user.js in each browser profile and adds an include line to the niri config.kdl. Optional Live control (off by default) installs a companion add-on and a native messaging host, and turns off add-on signature checks in those profiles. On Firefox release builds the page glass stays partial until the add-on is signed.",
     "dependencies": [
         "python3"
     ],
@@ -20,5 +20,6 @@
     "distro": [
         "any"
     ],
-    "screenshot": "https://raw.githubusercontent.com/lung595/browserGlass/main/screenshots/hero.png"
+    "screenshot": "https://raw.githubusercontent.com/lung595/browserGlass/main/screenshots/hero.png",
+    "requires_dms": ">=2.0.0"
 }
