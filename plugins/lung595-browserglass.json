@@ -1,0 +1,24 @@
+{
+    "id": "browserGlass",
+    "name": "Browser Glass",
+    "capabilities": [
+        "daemon",
+        "dankbar-widget",
+        "theming",
+        "launcher"
+    ],
+    "category": "appearance",
+    "repo": "https://github.com/lung595/browserGlass",
+    "author": "lung595",
+    "description": "Translucent glass for Firefox-family browsers (LibreWolf, Firefox, Zen, Floorp, Waterfox): your wallpaper shows blurred through the browser bars and page backgrounds, while text, pictures and video stay sharp. Opacity, blur and colours follow DMS, light or dark. Needs DMS background blur on.",
+    "dependencies": [
+        "python3"
+    ],
+    "compositors": [
+        "niri"
+    ],
+    "distro": [
+        "any"
+    ],
+    "screenshot": "https://raw.githubusercontent.com/lung595/browserGlass/main/screenshots/hero.png"
+}
