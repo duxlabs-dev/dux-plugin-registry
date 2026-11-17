@@ -2,31 +2,31 @@
   "plugins": {
     "canvasGrades": {
       "first_failed": "2026-11-10T14:28:20+00:00",
-      "last_failed": "2026-11-16T14:56:47+00:00",
+      "last_failed": "2026-11-17T15:36:47+00:00",
       "repo": "https://github.com/mcwiseman97/dms-canvas-plugin",
       "status": "HTTP 404",
-      "strikes": 7
+      "strikes": 8
     },
     "combinedStatus": {
       "first_failed": "2026-10-30T12:14:30+00:00",
-      "last_failed": "2026-11-16T14:56:52+00:00",
+      "last_failed": "2026-11-17T15:36:51+00:00",
       "repo": "https://github.com/Wang-Yang-source/niri-Duo",
       "status": "HTTP 404",
-      "strikes": 18
+      "strikes": 19
     },
     "desktopBackup": {
       "first_failed": "2026-11-14T13:03:27+00:00",
-      "last_failed": "2026-11-16T14:56:37+00:00",
+      "last_failed": "2026-11-17T15:36:39+00:00",
       "repo": "https://github.com/iquantecho/enderbackup",
       "status": "HTTP 404",
-      "strikes": 3
+      "strikes": 4
     },
     "enderPulse": {
       "first_failed": "2026-11-14T13:03:27+00:00",
-      "last_failed": "2026-11-16T14:56:43+00:00",
+      "last_failed": "2026-11-17T15:36:43+00:00",
       "repo": "https://github.com/iquantecho/enderpulse",
       "status": "HTTP 404",
-      "strikes": 3
+      "strikes": 4
     }
   }
 }
