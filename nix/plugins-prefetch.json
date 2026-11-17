@@ -273,12 +273,12 @@
     "url": "https://github.com/devnullvoid/dms-ai-assistant"
   },
   "aiOverviewControl": {
-    "date": "2026-11-11T15:42:57-03:00",
+    "date": "2026-11-16T16:44:06-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-HE1Gn2MzgP8b3gfFSKh9ZGGP2aXpCF4juOji2/SQs5g=",
+    "hash": "sha256-jJS6+Amyi3MU3Fb8TkDUvAN5pN/D2KBKoIeAJOOjP24=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -307,21 +307,21 @@
       "repo": "https://github.com/bernardopg/AiOverviewControl",
       "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/bernardopg/AiOverviewControl/main/screenshot.png",
-      "version": "2.4.1"
+      "version": "2.5.0"
     },
-    "path": "/nix/store/knywkmzan5l099nvrsxapra4ccmxffzn-AiOverviewControl",
-    "rev": "c431a5f54eaf8a9714fcd11c6d689173329c135b",
+    "path": "/nix/store/rjciy1iyzdfxgx81bhdb6a8avp9azm3m-AiOverviewControl",
+    "rev": "15b29f6f5239c4caa1ae8c0eabb528c33898387c",
     "rootDir": "",
-    "sha256": "165kj3sdpqp8p0imw279lpcqyqb4gnl4ii87vqdzz01kcfglck8w",
+    "sha256": "0vizlgij9047l15a1n63vyj7j0xwsi04xz2nvha772xj17wbm54c",
     "url": "https://github.com/bernardopg/AiOverviewControl"
   },
   "aiQuotas": {
-    "date": "2026-11-15T17:49:10+01:00",
+    "date": "2026-11-16T19:05:45+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-fTayq5WA4urGaZbZiE+DtntyzUl5Go3JvzxWDcOhI+Q=",
+    "hash": "sha256-AR1UtdiuPWp4o9LOp+WtAGKGgU1h+rpZy2mTDk/AVn8=",
     "leaveDotGit": false,
     "meta": {
       "author": "agneswd",
@@ -346,12 +346,12 @@
       "repo": "https://github.com/agneswd/dms-ai-quotas",
       "requires_dms": ">=1.5.0",
       "screenshot": "https://raw.githubusercontent.com/agneswd/dms-ai-quotas/main/assets/screenshot.png",
-      "version": "1.11.1"
+      "version": "2.0.0"
     },
-    "path": "/nix/store/ywia69970klppk43w0bc9nzqysasi3n0-dms-ai-quotas",
-    "rev": "bae9d7d065330b7315bd74248856c0d8fc6dee3c",
+    "path": "/nix/store/yj0762dxr37hkhq12wxni3q0z011qh11-dms-ai-quotas",
+    "rev": "dd5231b4f38c16f735d2610a97529835f6b97335",
     "rootDir": "",
-    "sha256": "1r13l71hsmiwpz4qs6kr976p4yxnhd7qincnd73fmql0jnmv4dkx",
+    "sha256": "0zsnq17hx4v9rdcvmyk19n0qcqh0mpjsgknjldw6lgdfv2sm8781",
     "url": "https://github.com/agneswd/dms-ai-quotas"
   },
   "aibou": {
@@ -12145,12 +12145,12 @@
     "url": "https://github.com/NoaHimesaka1873/dms-plugin-roon"
   },
   "sathiAi": {
-    "date": "2026-11-11T19:24:17-07:00",
+    "date": "2026-11-16T15:21:20Z",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-AA+H8VBgaF+HOQr1n48+Cq8xmE2Mb7Ge8gP1XB0s7BE=",
+    "hash": "sha256-Ahfu4Up0nj35eCAXqGSxMIvfj9sIcq29pqGvn/QnjU4=",
     "leaveDotGit": false,
     "meta": {
       "author": "SSingh44",
@@ -12171,12 +12171,12 @@
       "name": "Sathi.AI",
       "repo": "https://github.com/ss44/sathi.ai",
       "screenshot": "https://raw.githubusercontent.com/ss44/sathi.ai/refs/heads/master/assets/screenshot-01.png",
-      "version": "1.26.46"
+      "version": "1.26.47"
     },
-    "path": "/nix/store/v3q027mi6g8zsb19sgjznkr2rk4rrc2x-sathi.ai",
-    "rev": "e6dfc2491628b3f6497895a89ca4f08edefd4717",
+    "path": "/nix/store/y8jm7mcw3266by3a4zs5x012yz2i2shb-sathi.ai",
+    "rev": "d20d005e5fb1e7ad6bf6c6d07d0a09399b9ae4e4",
     "rootDir": "",
-    "sha256": "04gc5hfmrx83yagb2vwc9nc33bqa7s7rzx8a763mys30a3qqf3q0",
+    "sha256": "0kld4zs9zbx1lsysswh8vf7xz2rhn5jah5r0g3wkv7kl9bhyw5q2",
     "url": "https://github.com/ss44/sathi.ai"
   },
   "scratchpadHelper": {
