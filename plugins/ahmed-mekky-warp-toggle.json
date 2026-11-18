@@ -3,14 +3,18 @@
   "name": "WARP Toggle",
   "capabilities": [
     "warp-toggle",
-    "dankbar-widget"
+    "dankbar-widget",
+    "control-center"
   ],
   "category": "utilities",
   "repo": "https://github.com/ahmed-mekky/dms-warp-toggle",
   "author": "ahmed-mekky",
-  "description": "Toggle Cloudflare WARP via warp-cli with real-time status updates",
-  "dependencies": [],
-  "screenshot": "https://raw.githubusercontent.com/ahmed-mekky/dms-warp-toggle/main/assets/preview.gif",
+  "requires_dms": ">=1.4.0",
+  "description": "Toggle Cloudflare WARP via warp-cli with live status, mode switching, and tunnel stats",
+  "dependencies": [
+    "warp-cli"
+  ],
+  "screenshot": "https://raw.githubusercontent.com/ahmed-mekky/dms-warp-toggle/main/assets/screenshot.png",
   "compositors": [
     "any"
   ],
