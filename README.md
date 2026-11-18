@@ -10787,6 +10787,36 @@ Proton VPN client using pVPN backend CLI.
 
 
 
+#### [Pull Window](https://github.com/ReyArlena/dux-pull-window)
+
+Launcher plugin to pull windows onto the workspace you are on. Works on Hyprland (0.55+ with a Lua config), Sway, Scroll, MangoWC and niri.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: pullWindow
+- name: Pull Window
+- author: ReyArlena
+- compositors: hyprland, sway, scroll, mangowc, niri
+- capabilities: launcher, daemon, ipc
+- dependencies: 
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/ReyArlena/dux-pull-window/main/assets/screenshot.webp)
+
+</details>
+
+
+
+
+
 #### [Pulsar X3 Mouse](https://github.com/jonkristian/dms-pulsar-x3)
 
 Monitor and control your Pulsar X3 gaming mouse
