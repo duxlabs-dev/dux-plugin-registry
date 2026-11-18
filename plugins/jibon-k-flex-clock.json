@@ -9,6 +9,6 @@
     "dependencies": [],
     "compositors": ["any"],
     "distro": ["any"],
-    "screenshot": "https://github.com/jibon-k/dms-flex-clock/raw/main/assets/vertical-bar.png",
+    "screenshot": "https://github.com/jibon-k/dms-flex-clock/raw/main/assets/date-card.png",
     "requires_dms": ">=2.0.0"
 }
