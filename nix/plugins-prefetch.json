@@ -11693,6 +11693,47 @@
     "sha256": "09hhcg1cqsdpg4gzp9jcz9h8lpdd3s31xzgghsmfrxsj8mn85y04",
     "url": "https://github.com/Lemon-mon-254/dms-proxy-traffic"
   },
+  "pullWindow": {
+    "date": "2026-11-17T19:17:05Z",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-WYJBSzSyTi7AjLlrOpMlT4TrtipybkRYKsuxtMlomSU=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "ReyArlena",
+      "capabilities": [
+        "launcher",
+        "daemon",
+        "ipc"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "hyprland",
+        "sway",
+        "scroll",
+        "mangowc",
+        "niri"
+      ],
+      "dependencies": [],
+      "description": "Launcher plugin to pull windows onto the workspace you are on. Works on Hyprland (0.55+ with a Lua config), Sway, Scroll, MangoWC and niri.",
+      "distro": [
+        "any"
+      ],
+      "id": "pullWindow",
+      "name": "Pull Window",
+      "repo": "https://github.com/ReyArlena/dux-pull-window",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/ReyArlena/dux-pull-window/main/assets/screenshot.webp",
+      "version": "1.1.1"
+    },
+    "path": "/nix/store/0zaa9516qfg5b77ih2ppincjshmsp6fn-dux-pull-window",
+    "rev": "8b97adde8d8673aa61c2aea34b28a0e5377904d8",
+    "rootDir": "",
+    "sha256": "09crd34v9cfb59c48vkj5avfp12g4n9klsxrik02wkmj6i5l30jr",
+    "url": "https://github.com/ReyArlena/dux-pull-window"
+  },
   "pulsarX3": {
     "date": "2026-10-30T09:45:14+01:00",
     "deepClone": false,
