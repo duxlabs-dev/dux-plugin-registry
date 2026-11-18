@@ -1,0 +1,14 @@
+{
+  "id": "prayerTimesEnhanced",
+  "name": "Prayer Times Enhanced",
+  "capabilities": ["dankbar-widget", "dash-tab", "dash-card"],
+  "category": "utilities",
+  "repo": "https://github.com/Amr-Khaled-Ahmed/dms-prayer-times",
+  "author": "Amr Khaled Ahmed",
+  "description": "Offline Islamic prayer times with a Dankbar countdown, Dashboard tab and card, Athan alerts, and an integrated Quran recitation browser/player.",
+  "dependencies": ["python3", "salat", "mpv or ffplay or cvlc", "notify-send"],
+  "compositors": ["any"],
+  "distro": ["any"],
+  "screenshot": "https://raw.githubusercontent.com/Amr-Khaled-Ahmed/dms-prayer-times/main/assets/prayer-times-dashboard.png",
+  "requires_dms": ">=1.2.0"
+}
