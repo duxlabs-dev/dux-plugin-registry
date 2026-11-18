@@ -5,10 +5,10 @@
   "category": "utilities",
   "repo": "https://github.com/Amr-Khaled-Ahmed/dms-prayer-times",
   "author": "Amr Khaled Ahmed",
-  "description": "Offline Islamic prayer times with a Dankbar countdown, Dashboard tab and card, Athan alerts, and a Quran recitation browser/player. Auto-location requests ip-api.com; Quran audio streams from mp3quran.net.",
+  "description": "Offline Islamic prayer times with a Dankbar countdown, Dashboard tab and card, Athan alerts, and a Quran recitation browser/player. Auto-location requests ip-api.com; Quran audio streams from mp3quran.net. Uses the Egyptian General Authority method.",
   "dependencies": ["python3", "salat", "mpv or ffplay or cvlc"],
   "compositors": ["any"],
   "distro": ["any"],
   "screenshot": "https://raw.githubusercontent.com/Amr-Khaled-Ahmed/dms-prayer-times/main/assets/prayer-times-dashboard.png",
-  "requires_dms": ">=1.7.0"
+  "requires_dms": ">=2.0.0"
 }
