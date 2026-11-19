@@ -3916,7 +3916,7 @@
       "version": "2.0.0"
     },
     "path": "/nix/store/xw2fyw1gnz087czf3p6lzh8h0bvzxzvr-dankObsidian",
-    "rev": "8f94ae7bfd8942ab6d9785ef0c9f4d8cf92e15e4",
+    "rev": "24b69965283660bf0f7363afddb9d16951fcf24a",
     "rootDir": "",
     "sha256": "18jda4v0ghiljac6gb1imc1w5v6y4na1ajpwn2q6rnvjnnvw9x7s",
     "url": "https://github.com/Samoggino/dankObsidian"
@@ -4453,12 +4453,12 @@
     "url": "https://github.com/deepu105/dms-dank-todo"
   },
   "dankTodoman": {
-    "date": "2026-10-05T21:53:26+02:00",
+    "date": "2026-11-18T22:55:13+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-WHTnQitUUb9N4KLjtMtjMI7ol/pSIP7uHrZzyzP0EsU=",
+    "hash": "sha256-e+ONkSMpxlZD7VLcqDgjEk87sizZOpFYES+bx8XK0po=",
     "leaveDotGit": false,
     "meta": {
       "author": "shochraos",
@@ -4482,12 +4482,12 @@
       "repo": "https://github.com/Shochraos/dms-todoman-plugin",
       "requires_dms": ">=1.5",
       "screenshot": "https://raw.githubusercontent.com/Shochraos/dms-todoman-plugin/main/screenshot.png",
-      "version": "0.3.0"
+      "version": "0.4.0"
     },
-    "path": "/nix/store/x3ysw8gnh2p9ac9x5hddvrz7cmwm7mxx-dms-todoman-plugin",
-    "rev": "1d8193b67da27d3e7a06d14af3ebb5174ad79f85",
+    "path": "/nix/store/vy3ar541gyk1d0kgmzfc79zyz9g0p0pp-dms-todoman-plugin",
+    "rev": "9e34c7e1d456adc4925d0def50c46ab544c1d1ed",
     "rootDir": "",
-    "sha256": "1i8jyhrwnwxn3vpgw82jzabyi3ihcg5v9qx2w16vylal5d1ffx2q",
+    "sha256": "16njrb2wg6rg25c92fnr5jr3nkqj4cwaip2jxm1mdii94f8qvqvv",
     "url": "https://github.com/Shochraos/dms-todoman-plugin"
   },
   "dankTranslate": {
@@ -5316,12 +5316,12 @@
     "url": "https://github.com/Kavotax/LCD-Digital-Clock.git"
   },
   "discordVoice": {
-    "date": "2026-10-24T15:26:57-07:00",
+    "date": "2026-11-18T14:05:06-08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-R4dEMdEdWUFXfCdrzJKWJ+R8N9zU6aYO8EArW/5AJqc=",
+    "hash": "sha256-RNgMU8TGTm0MZ4ZDX1mgwU3TMkz9uRlELhlC3fcdWME=",
     "leaveDotGit": false,
     "meta": {
       "author": "PandorasFox",
@@ -5343,12 +5343,12 @@
       "name": "Discord Voice Widget",
       "repo": "https://github.com/PandorasFox/dms-discord-widget",
       "screenshot": "https://raw.githubusercontent.com/PandorasFox/dms-discord-widget/master/screenshot.png",
-      "version": "1.3.2"
+      "version": "1.4.0"
     },
-    "path": "/nix/store/qs8mzdscpxgvy90qfip9gzx7haxwp4bi-dms-discord-widget",
-    "rev": "7771a41ed2b8810150afadfdd9241e1e8d97b7b9",
+    "path": "/nix/store/wavyn0qr8d8wrb86fks606815d5x96md-dms-discord-widget",
+    "rev": "2fe282e3d7a8c37c7581391f90eea8906e426ec8",
     "rootDir": "",
-    "sha256": "19r683z5nas0y07adsflvhvprr17js9cqsr7gibl2n8xs4ql91s7",
+    "sha256": "1haq3pvxshhr5r21kfgx9hrd6kf1l1cmyhw6cw66skn6qi9hrn24",
     "url": "https://github.com/PandorasFox/dms-discord-widget"
   },
   "diskMonitor": {
@@ -5639,12 +5639,12 @@
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "dmsAgent": {
-    "date": "2026-11-17T22:06:42+03:00",
+    "date": "2026-11-18T12:11:42+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-fk9BPBMNQ80tHgY5DGIQ7Gi5iJUpyevq17jPQzSG0qU=",
+    "hash": "sha256-b3JDgNOcEG95D/NwreXVR4rTclf7keXStGa31PIeIZM=",
     "leaveDotGit": false,
     "meta": {
       "author": "Cha1000000 (fork of Francisdelca/dms-agent)",
@@ -5671,10 +5671,10 @@
       "screenshot": "https://raw.githubusercontent.com/Cha1000000/dms-ai-agent/main/assets/screenshot-answer.png",
       "version": "0.7.0"
     },
-    "path": "/nix/store/dx7j4b261nd7sk77c49254ixkxa0dww1-dms-ai-agent",
-    "rev": "795f8f17071dc345a6149b925e7d5359a764d704",
+    "path": "/nix/store/fb2ns0ga4zr80i39p4y279dgrjv2nyn3-dms-ai-agent",
+    "rev": "9ee53b03734f701b75c6e1637f27c6274ac1a9b4",
     "rootDir": "",
-    "sha256": "19fjhqs47kxqszmfpj99jn4bjs7c21i0qf863qnwshqd2cy42kvy",
+    "sha256": "14r13vrd9dv6nk9fb4gvaxrd72j7spjssw7k1xwny44wsf046wkg",
     "url": "https://github.com/Cha1000000/dms-ai-agent"
   },
   "dmsAirDrop": {
@@ -7154,12 +7154,12 @@
     "url": "https://github.com/Hujair/gameControllerBattery"
   },
   "gamechatMix": {
-    "date": "2026-10-05T21:53:42+02:00",
+    "date": "2026-11-18T23:02:56+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-ANtuwYMpycViufCgpckjwy1NjfxzFMdPBCIi5n3P0hA=",
+    "hash": "sha256-Be8ImcZ0Pv/Sv6fHMpJmzTGkal8LfTv/QSfAkqrC83U=",
     "leaveDotGit": false,
     "meta": {
       "author": "Shochraos",
@@ -7188,10 +7188,10 @@
       "screenshot": "https://raw.githubusercontent.com/Shochraos/game-chat-mix/main/assets/screenshot.png",
       "version": "1.2.0"
     },
-    "path": "/nix/store/rjd9kq6aabvjymkcr85zhq668gm84z57-game-chat-mix",
-    "rev": "775b4b8524166a88106ab48bfc3a74e315599543",
+    "path": "/nix/store/4gbc3rbrx40y4ddm27pmd8lp67m73cpy-game-chat-mix",
+    "rev": "4b30bf0a3ee95e48104f7006efa62b801805637a",
     "rootDir": "",
-    "sha256": "046jrxyyc8i20i7wf53kzj6lsbf34g4sb87hp5icbj99hg0nxnq0",
+    "sha256": "0xgkqam95h1787zknz8bbxma8cfdcs935ix7pz9gygklqschivq5",
     "url": "https://github.com/Shochraos/game-chat-mix"
   },
   "gazeAuth": {
@@ -12986,12 +12986,12 @@
     "url": "https://github.com/knappancash/SitStandReminder"
   },
   "skykeepReminders": {
-    "date": "2026-11-13T18:18:48-06:00",
+    "date": "2026-11-18T21:28:31-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-RuOJLT6/0W+QHZD5dW/Ou4CRTzK2rOf/KNF2MTn4Q2k=",
+    "hash": "sha256-ZGibX0oMFIgNn8zlXjVscj7hxB6gQpv05u8pqqIMoLk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dukko",
@@ -13015,12 +13015,12 @@
       "repo": "https://github.com/Dukko/dms-skykeep-reminders",
       "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/Dukko/dms-skykeep-reminders/main/docs/screenshot.png",
-      "version": "0.1.0"
+      "version": "0.3.0"
     },
-    "path": "/nix/store/zbgw93v7q1sym4aavwnaq0ickigqiwwj-dms-skykeep-reminders",
-    "rev": "028950ad66ac61166702bfae17e7dbc1078353ee",
+    "path": "/nix/store/ks1my2x5zplfa4mvqng0imhh5w225awb-dms-skykeep-reminders",
+    "rev": "a5b2f7db43d907d4bf2d44a7087d45d8bd4349e8",
     "rootDir": "",
-    "sha256": "0sa3z0wk2xni53zygb5n697r305vrrppbych3n86zldz7qnqkqs6",
+    "sha256": "1fd01jialaggwvs9nhm03v2f2gkjdhsmxrfckw6qh50c99grns34",
     "url": "https://github.com/Dukko/dms-skykeep-reminders"
   },
   "smartTimer": {
