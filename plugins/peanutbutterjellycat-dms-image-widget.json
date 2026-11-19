@@ -9,7 +9,7 @@
   "author": "peanutbutterjellycat",
   "description": "Display images and animated GIFs directly on your desktop.",
   "dependencies": [],
-  "compositors": ["hyprland"],
-  "distro": ["arch"],
+"compositors": ["any"],
+"distro": ["any"],
   "screenshot": "https://github.com/peanutbutterjellycat/dms-image-widget/raw/refs/heads/main/screenshot.png"
 }
