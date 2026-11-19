@@ -5,7 +5,7 @@
     "category": "monitoring",
     "repo": "https://github.com/opigod/dux-deepseek",
     "author": "opigod",
-    "description": "Peak/off-peak pricing countdown and drift checks, official API balance, and platform token usage/cost via a pasted browser session token or Cookie on undocumented endpoints",
+    "description": "Peak/off-peak countdown for DeepSeek and Ollama Cloud with pricing-page drift checks, official API balance, and platform token usage/cost via a pasted browser session token or Cookie on undocumented endpoints",
     "dependencies": [],
     "compositors": ["any"],
     "distro": ["any"],
