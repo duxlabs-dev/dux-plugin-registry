@@ -1,0 +1,13 @@
+{
+	"id": "frameworkChargeLimit",
+	"name": "Framework Charge Limit",
+	"capabilities": ["dankbar-widget", "control-center"],
+	"category": "system",
+	"repo": "https://github.com/tealk/framework-chargelimiter",
+	"author": "tealk",
+	"description": "Set the Framework laptop battery charge limit from the bar and the Control Center",
+	"dependencies": ["framework_tool"],
+	"compositors": ["niri", "hyprland"],
+	"distro": ["any"],
+	"screenshot": "https://raw.githubusercontent.com/tealk/framework-chargelimiter/main/Screenshot2.png"
+}
