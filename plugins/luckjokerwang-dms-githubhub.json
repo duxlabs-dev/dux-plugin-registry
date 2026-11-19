@@ -1,0 +1,25 @@
+{
+    "id": "githubHub",
+    "name": "GitHub Hub",
+    "capabilities": [
+        "dankbar-widget"
+    ],
+    "category": "utilities",
+    "repo": "https://github.com/luckjokerwang/dms-githubhub",
+    "author": "luckjokerwang",
+    "description": "Comprehensive personal GitHub center: classic 7-day bar pill, square 8-week heatmap with hover tooltips, user profile & real-time PR/Issue tracker with 1-click dcal task integration.",
+    "dependencies": [
+        "bash",
+        "curl",
+        "jq",
+        "gh",
+        "xdg-utils"
+    ],
+    "compositors": [
+        "any"
+    ],
+    "distro": [
+        "any"
+    ],
+    "screenshot": "https://raw.githubusercontent.com/luckjokerwang/dms-githubhub/main/assets/screenshot.png"
+}
