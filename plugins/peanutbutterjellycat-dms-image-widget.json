@@ -12,4 +12,5 @@
 "compositors": ["any"],
 "distro": ["any"],
   "screenshot": "https://github.com/peanutbutterjellycat/dms-image-widget/raw/refs/heads/main/screenshot.png"
+  "requires_dms": ">=2.0.0",
 }
