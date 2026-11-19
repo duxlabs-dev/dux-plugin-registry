@@ -1,0 +1,15 @@
+
+{
+  "id": "dankImageWidget",
+  "name": "Image Widget",
+  "capabilities": ["desktop-widget"],
+  "category": "appearance",
+  "repo": "https://github.com/peanutbutterjellycat/dms-image-widget",
+  "path": "DankImageWidget",
+  "author": "peanutbutterjellycat",
+  "description": "Display images and animated GIFs directly on your desktop.",
+  "dependencies": [],
+  "compositors": ["hyprland"],
+  "distro": ["arch"],
+  "screenshot": "https://github.com/peanutbutterjellycat/dms-image-widget/raw/refs/heads/main/screenshot.png"
+}
