@@ -1,20 +1,14 @@
 {
     "id": "deepseek",
     "name": "DeepSeek",
-    "capabilities": [
-        "dankbar-widget"
-    ],
+    "capabilities": ["dankbar-widget"],
     "category": "monitoring",
     "repo": "https://github.com/opigod/dux-deepseek",
     "author": "opigod",
     "description": "Peak/off-peak pricing countdown and drift checks, official API balance, and platform token usage/cost via a pasted browser credential against undocumented endpoints",
     "dependencies": [],
-    "compositors": [
-        "any"
-    ],
-    "distro": [
-        "any"
-    ],
+    "compositors": ["any"],
+    "distro": ["any"],
     "screenshot": "https://raw.githubusercontent.com/opigod/dux-deepseek/main/assets/screenshot.png",
     "requires_dms": ">=2.1.0"
 }
