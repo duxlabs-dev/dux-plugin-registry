@@ -1,7 +1,7 @@
 {
     "id": "deepseek",
     "name": "DeepSeek",
-    "capabilities": ["dankbar-widget"],
+    "capabilities": ["dankbar-widget", "daemon"],
     "category": "monitoring",
     "repo": "https://github.com/opigod/dux-deepseek",
     "author": "opigod",
