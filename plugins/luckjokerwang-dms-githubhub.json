@@ -7,14 +7,16 @@
     "category": "utilities",
     "repo": "https://github.com/luckjokerwang/dms-githubhub",
     "author": "luckjokerwang",
-    "description": "Comprehensive personal GitHub center: classic 7-day bar pill, square 8-week heatmap with hover tooltips, user profile & real-time PR/Issue tracker with 1-click dcal task integration.",
+    "description": "Comprehensive personal GitHub center: classic 7-day bar pill, square 8-week heatmap with hover tooltips, user profile & real-time PR/Issue tracker with 1-click dcal task integration. When unauthenticated, contribution data falls back to the third-party github-contributions-api.jogruber.de public API.",
     "dependencies": [
         "bash",
         "curl",
         "jq",
         "gh",
-        "xdg-utils"
+        "xdg-utils",
+        "dcal"
     ],
+    "requires_dms": ">=2.0.0",
     "compositors": [
         "any"
     ],
