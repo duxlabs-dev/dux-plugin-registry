@@ -5,7 +5,7 @@
     "category": "system",
     "repo": "https://github.com/etidona/dms-simple-battery-charge-protection",
     "author": "etidona",
-    "description": "One-click battery charge protection: ON stops charging at 80%, OFF charges to 100%. On first use it asks for your password (pkexec) and installs a udev rule in /etc/udev/rules.d that gives your user write access to the battery charge threshold. The rule stays after uninstalling; the README explains how to remove it.",
+    "description": "One-click battery charge protection: ON stops charging at 80%, OFF charges to 100%. No TLP and no setup: it finds your battery by itself, asks for your password only once and keeps your choice after a reboot. If the battery also has a start threshold, ON lowers it to 75% and OFF restores the original value. On first use it installs a udev rule in /etc/udev/rules.d (via pkexec) that gives your user write access to the battery charge threshold. The rule stays after uninstalling; the README explains how to remove it.",
     "dependencies": ["pkexec"],
     "compositors": ["any"],
     "distro": ["any"],
