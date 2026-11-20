@@ -316,12 +316,12 @@
     "url": "https://github.com/bernardopg/AiOverviewControl"
   },
   "aiQuotas": {
-    "date": "2026-11-16T19:05:45+01:00",
+    "date": "2026-11-19T20:53:55+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-AR1UtdiuPWp4o9LOp+WtAGKGgU1h+rpZy2mTDk/AVn8=",
+    "hash": "sha256-1VvV7ycqty5d71l+RirRIqRc4IJiHXZktkpoqcKigEA=",
     "leaveDotGit": false,
     "meta": {
       "author": "agneswd",
@@ -348,10 +348,10 @@
       "screenshot": "https://raw.githubusercontent.com/agneswd/dms-ai-quotas/main/assets/screenshot.png",
       "version": "2.0.0"
     },
-    "path": "/nix/store/yj0762dxr37hkhq12wxni3q0z011qh11-dms-ai-quotas",
-    "rev": "dd5231b4f38c16f735d2610a97529835f6b97335",
+    "path": "/nix/store/ldm71j87ac6gfrpn7r87302v1dslqlmp-dms-ai-quotas",
+    "rev": "6637c8606b11992f0030e7bfd67e4fadf5c3d129",
     "rootDir": "",
-    "sha256": "0zsnq17hx4v9rdcvmyk19n0qcqh0mpjsgknjldw6lgdfv2sm8781",
+    "sha256": "0h40lb1ajs2anrj7c7b2hbh5r912s4m4czjrxxfjxdra4zpxanym",
     "url": "https://github.com/agneswd/dms-ai-quotas"
   },
   "aibou": {
@@ -544,12 +544,12 @@
     "url": "https://github.com/navidagz/dms-amd-gpu-monitor"
   },
   "amdGpuMonitorRevive": {
-    "date": "2026-09-08T00:04:49+05:30",
+    "date": "2026-11-20T01:01:09+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-SPo/dmnOm4C+GLkAyAaZKfYR8n1w7h2gbGcCU3ovQnE=",
+    "hash": "sha256-tzwX3T7QcVHFF5ieZ0HxWruCu3cDRqUJXlCAyh1co6A=",
     "leaveDotGit": false,
     "meta": {
       "author": "JDKamalakar.",
@@ -581,12 +581,12 @@
       "screenshot": "https://raw.githubusercontent.com/JDKamalakar/DMS-AMD_GPU_Monitor_Revive/refs/heads/main/assets/DMS_Extended.png",
       "settings": "./AmdGpuMonitorSettings.qml",
       "type": "widget",
-      "version": "1.2.5"
+      "version": "2.0.0"
     },
-    "path": "/nix/store/a55db3mndmfaw1b575fadwh1s9rmgvsy-DMS-AMD_GPU_Monitor_Revive",
-    "rev": "ffc1f27c9278bccf282692bd75fa1a6c8e6d7d3c",
+    "path": "/nix/store/gfclhrlg42b0k5pdmcdj3zvxrm6a6sf4-DMS-AMD_GPU_Monitor_Revive",
+    "rev": "37caa00f567e1897c57dc89b721ef6f0de1887de",
     "rootDir": "",
-    "sha256": "0wa25xx560k7djh1vvkhgpr13xi9k43ch05r32z816yfd5v3zyj8",
+    "sha256": "1853bhfwm02hbq4saih3fyxq5fssy50ng7lq2z2m2wfh7vfifg5p",
     "url": "https://github.com/JDKamalakar/DMS-AMD_GPU_Monitor_Revive"
   },
   "animationRotate": {
@@ -1490,12 +1490,12 @@
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "caffeineRedesigned": {
-    "date": "2026-10-09T21:33:10+05:30",
+    "date": "2026-11-19T23:17:47+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-QVZuBzl5QkcjgQbvx+9QhjxyDVXEDS9lTShVHoWCg4Y=",
+    "hash": "sha256-I0OHDOth9sWP73lCdzjdB7HOCHYD+VxMJwbkDyor10Q=",
     "leaveDotGit": false,
     "meta": {
       "author": "JDKamalakar",
@@ -1524,12 +1524,12 @@
       "screenshot": "https://raw.githubusercontent.com/JDKamalakar/DMS-Caffeine/refs/heads/main/assets/POP-Up_UI.png",
       "settings": "./CaffeineSettings.qml",
       "type": "widget",
-      "version": "1.1.0"
+      "version": "2.0.0"
     },
-    "path": "/nix/store/2c757vdj1fvry3pksjwz08h4gb02ya66-DMS-Caffeine",
-    "rev": "9ee45ed44e90c3c8f5433141795bbe6596531865",
+    "path": "/nix/store/k7559s0n8dkxjwf7x3gdrcjp3xf5jgc3-DMS-Caffeine",
+    "rev": "676ccf44bb8439d6b75ff56fa811f269551ea9d3",
     "rootDir": "",
-    "sha256": "11l3ha2iwm989mjjy3f4al6p4g46a3pwgvq6h4ilfhkr743nwmj1",
+    "sha256": "0i6p5cm0zr064x65ry83fq4cxc87vlw7fhkrxy7wbxk1xc68fhr3",
     "url": "https://github.com/JDKamalakar/DMS-Caffeine"
   },
   "calculator": {
@@ -2251,12 +2251,12 @@
     "url": "https://github.com/by-architect/DMS-Plugins"
   },
   "cliproxyQuota": {
-    "date": "2026-10-11T22:10:57Z",
+    "date": "2026-11-19T20:54:18Z",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-BiRkSo/2XINs1R1i1Tl5VT8wD2dczutsNL++8sCZSME=",
+    "hash": "sha256-RzlhEYxpz6xPhIf440nmWJ5q2v8EzdRuQFVmzOT88v4=",
     "leaveDotGit": false,
     "meta": {
       "author": "Spyros Psarras",
@@ -2279,12 +2279,12 @@
       "name": "CLIProxyAPI Quota",
       "repo": "https://github.com/SpyrosPsarras/dms-cliproxy-quota",
       "screenshot": "https://raw.githubusercontent.com/SpyrosPsarras/dms-cliproxy-quota/main/screenshot.png",
-      "version": "0.1.16"
+      "version": "0.1.20"
     },
-    "path": "/nix/store/ga821vfvrnhj6xdv1wwf35r9bny2g53n-dms-cliproxy-quota",
-    "rev": "971c20fb06d442228b36c4cced48f4564b33bb91",
+    "path": "/nix/store/mqlpmy0vkfi5bmc72bh8r89nqqb5jkvm-dms-cliproxy-quota",
+    "rev": "d69055c89505ae8db9714fc6e8a24390a536b158",
     "rootDir": "",
-    "sha256": "1ha8k70g5gmz6infpkjwcw7k0gsmg4wxaqhxsmn86p7nix568906",
+    "sha256": "1zpjzkjcqrjm81pd9k84zzd6m7jqwr4y7y47hi7srkv9ih8n2fa7",
     "url": "https://github.com/SpyrosPsarras/dms-cliproxy-quota"
   },
   "codeIsland": {
@@ -6403,6 +6403,41 @@
     "rootDir": "",
     "sha256": "1zqza6r41rvsi9n823gs2zin3j1kwxyld5xkf39iv07hfm3s60a9",
     "url": "https://github.com/rdannenbring/dropdown-menu"
+  },
+  "duck": {
+    "date": "2026-10-09T16:21:54+02:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-HrGEm9bDFzGhgXJuQtX9yfoWRx5w504a20+KGmvZsio=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Gamen0ut",
+      "capabilities": [
+        "dankbar-widget"
+      ],
+      "category": "appearance",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [],
+      "description": "A duck in your bar that says quack. Counts your quacks, unlocks 25 achievements, chains combos, and opens a popout with a pond, a quack history and your achievements.",
+      "distro": [
+        "any"
+      ],
+      "id": "duck",
+      "name": "Duck",
+      "repo": "https://github.com/Gamen0ut/Duck",
+      "requires_dms": ">=1.6.0",
+      "screenshot": "https://raw.githubusercontent.com/Gamen0ut/Duck/main/screenshot.png",
+      "version": "0.6.2"
+    },
+    "path": "/nix/store/p3xirik12v7332i34ma1rs4nryaqfzrb-Duck",
+    "rev": "33f16d18cc93a4ba6a55467d9f7010026464742b",
+    "rootDir": "",
+    "sha256": "0amjv5mim2jgvcd4xrvh3r3idyn9zpal4vkjh6hk25y3ssdq9c8y",
+    "url": "https://github.com/Gamen0ut/Duck"
   },
   "duxHerdrFleet": {
     "date": "2026-11-06T02:11:08-06:00",
@@ -10587,12 +10622,12 @@
     "url": "https://github.com/antonjah/nix-monitor"
   },
   "nixPackageRunner": {
-    "date": "2026-05-21T14:37:50+08:00",
+    "date": "2026-11-19T17:26:34+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-ur+1oN+QmTu7p5ZMpL3rCd4JGYbkerko4twa+tH6uvg=",
+    "hash": "sha256-U6t2Nu5X/Bx9+gPBeDWSnae9OtsIIaK5BxjM7Dml0GU=",
     "leaveDotGit": false,
     "meta": {
       "author": "iahc",
@@ -10616,12 +10651,12 @@
       "name": "Nix Package Runner",
       "repo": "https://github.com/iahccc/NixPackageRunner",
       "screenshot": "https://github.com/iahccc/NixPackageRunner/raw/main/screenshot.png",
-      "version": "0.1.0"
+      "version": "0.2.0"
     },
-    "path": "/nix/store/2plyvxgjr458jjz9hlkp5ggnfj2s7gvl-NixPackageRunner",
-    "rev": "829ad93c15b7c0ec82a6d7483728029037442601",
+    "path": "/nix/store/rzqf9yr9krjz4ia3izqh8xxxd34bsvgg-NixPackageRunner",
+    "rev": "77deeb702e77c5eae61f1fcf011bf9e42f3d51b1",
     "rootDir": "",
-    "sha256": "1y5szb8zl6nww8lbjyp4hqchkph9xfys8k4nlyxkp6chvyhbbgxs",
+    "sha256": "0rfhllwyrk0q0yws4888vcxbv9wxj8spih83z9yirz2pxqv7dask",
     "url": "https://github.com/iahccc/NixPackageRunner"
   },
   "nothingClock": {
