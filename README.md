@@ -10752,6 +10752,36 @@ Display Islamic prayer times from Aladhan API
 
 
 
+#### [Prayer Times Enhanced](https://github.com/Amr-Khaled-Ahmed/dms-prayer-times)
+
+Offline Islamic prayer times with a Dankbar countdown, Dashboard tab and card, Athan alerts, and a Quran recitation browser/player. Auto-location requests ip-api.com; Quran audio streams from mp3quran.net. Uses the Egyptian General Authority method.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: prayerTimesEnhanced
+- name: Prayer Times Enhanced
+- author: Amr Khaled Ahmed
+- compositors: any
+- capabilities: dankbar-widget, dash-tab, dash-card
+- dependencies: python3, salat, mpv or ffplay or cvlc
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/Amr-Khaled-Ahmed/dms-prayer-times/main/assets/prayer-times-dashboard.png)
+
+</details>
+
+
+
+
+
 #### [Presentation Hub](https://github.com/Miho1254/duxshell-presentor-hub)
 
 Move presentation windows to an audience display, manage a session, and optionally mirror with wl-mirror.
