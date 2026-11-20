@@ -267,6 +267,36 @@ Depth-aware wallpaper occlusion and interactive 3D spatial parallax for Dux Shel
 
 
 
+#### [Duck](https://github.com/Gamen0ut/Duck)
+
+A duck in your bar that says quack. Counts your quacks, unlocks 25 achievements, chains combos, and opens a popout with a pond, a quack history and your achievements.
+
+<strong>requires DMS version</strong>: <em>>=1.6.0</em>
+
+- id: duck
+- name: Duck
+- author: Gamen0ut
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: 
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/Gamen0ut/Duck/main/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Dux Widget Dimmer](https://github.com/Octobersbest/dux-widget-dimmer)
 
 Event-driven Rofi-style dimming behind Dux widget panels, without polling or external processes.
