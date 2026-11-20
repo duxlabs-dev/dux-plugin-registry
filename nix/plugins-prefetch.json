@@ -11570,6 +11570,47 @@
     "sha256": "1zxz6j83vcasf5qg37limcmssg1hxgh49ldnjkvih2si80ivda0k",
     "url": "https://github.com/muadzmo/prayertimes"
   },
+  "prayerTimesEnhanced": {
+    "date": "2026-11-19T12:24:16+02:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-FjCBddnEc/Pyjhsg8Ujmh75AkUUdNIZ+2zuw24tGN88=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Amr Khaled Ahmed",
+      "capabilities": [
+        "dankbar-widget",
+        "dash-tab",
+        "dash-card"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "python3",
+        "salat",
+        "mpv or ffplay or cvlc"
+      ],
+      "description": "Offline Islamic prayer times with a Dankbar countdown, Dashboard tab and card, Athan alerts, and a Quran recitation browser/player. Auto-location requests ip-api.com; Quran audio streams from mp3quran.net. Uses the Egyptian General Authority method.",
+      "distro": [
+        "any"
+      ],
+      "id": "prayerTimesEnhanced",
+      "name": "Prayer Times Enhanced",
+      "repo": "https://github.com/Amr-Khaled-Ahmed/dms-prayer-times",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/Amr-Khaled-Ahmed/dms-prayer-times/main/assets/prayer-times-dashboard.png",
+      "version": "1.7.0"
+    },
+    "path": "/nix/store/cy49ihsv571sdg3bs6c98r20z2ray2mj-dms-prayer-times",
+    "rev": "fc19e78d391effcf04704c34e2ac52a3dcd388d4",
+    "rootDir": "",
+    "sha256": "1krp8s5xpc1vvdz8cd0x8n8l1gl7wr4g280vivrg6wy4v5sq2c0n",
+    "url": "https://github.com/Amr-Khaled-Ahmed/dms-prayer-times"
+  },
   "presentationHub": {
     "date": "2026-10-31T11:29:13+07:00",
     "deepClone": false,
