@@ -327,36 +327,6 @@ Event-driven Rofi-style dimming behind Dux widget panels, without polling or ext
 
 
 
-#### [EnderPulse](https://github.com/iquantecho/enderpulse)
-
-A responsive Cava visualizer for the Dux bar, dock, and desktop
-
-<strong>requires DMS version</strong>: <em>>=2.0.0</em>
-
-- id: enderPulse
-- name: EnderPulse
-- author: iquantecho
-- compositors: any
-- capabilities: daemon, dankbar-widget, desktop-widget, variants
-- dependencies: cava
-- distro: any
-
-
-
-
-
-
-<details>
-<summary>Screenshot</summary>
-
-![screenshot](https://raw.githubusercontent.com/iquantecho/enderpulse/main/docs/enderpulse-preview.png)
-
-</details>
-
-
-
-
-
 #### [Linux Wallpaper Engine](https://github.com/sgtaziz/dms-wallpaperengine)
 
 Animated wallpaper support using linux-wallpaperengine with Steam Workshop scenes

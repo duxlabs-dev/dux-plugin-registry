@@ -6686,46 +6686,6 @@
     "sha256": "1sv6ifx1zndx12idg3h4g3mi11bs2k0frz0ayw2d4ww8p59h6s32",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
-  "enderPulse": {
-    "date": "2026-10-30T16:46:55Z",
-    "deepClone": false,
-    "fetchLFS": false,
-    "fetchSubmodules": false,
-    "fetchTags": false,
-    "hash": "sha256-fsbRd4u3Qocf1Uf4xRbBQFQHtZsEJ+PRqexDCqYgLu0=",
-    "leaveDotGit": false,
-    "meta": {
-      "author": "iquantecho",
-      "capabilities": [
-        "daemon",
-        "dankbar-widget",
-        "desktop-widget",
-        "variants"
-      ],
-      "category": "appearance",
-      "compositors": [
-        "any"
-      ],
-      "dependencies": [
-        "cava"
-      ],
-      "description": "A responsive Cava visualizer for the Dux bar, dock, and desktop",
-      "distro": [
-        "any"
-      ],
-      "id": "enderPulse",
-      "name": "EnderPulse",
-      "repo": "https://github.com/iquantecho/enderpulse",
-      "requires_dms": ">=2.0.0",
-      "screenshot": "https://raw.githubusercontent.com/iquantecho/enderpulse/main/docs/enderpulse-preview.png",
-      "version": "1.2.0"
-    },
-    "path": "/nix/store/qw6j2xpwb0k8m1l1qx69b0n6gbsrhyyn-enderpulse",
-    "rev": "0fa18df25c3b73119bc39e845c7b982286461903",
-    "rootDir": "",
-    "sha256": "1v9f42k0lhzcm78y69q4kfshfm20q4bcby27slgqfhmpidvx3iky",
-    "url": "https://github.com/iquantecho/enderpulse"
-  },
   "enteAuth": {
     "date": "2026-10-10T16:08:42+02:00",
     "deepClone": false,
