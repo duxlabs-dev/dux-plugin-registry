@@ -3513,6 +3513,45 @@
     "sha256": "09gck0x6gqmzvqfmq4kk7av7fvn8wdq0qb3fssd8lw4ss1j2cg6s",
     "url": "https://github.com/duxlabs-dev/dux-plugins"
   },
+  "dankGithub": {
+    "date": "2026-11-21T01:34:02+01:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-PSFOtI9gi6NT6oCT/M0FjyAlb1PbkckvEldt428HFqA=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Samoggino",
+      "capabilities": [
+        "launcher"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "curl",
+        "xdg-utils",
+        "libsecret"
+      ],
+      "description": "Quick access to your GitHub repositories (public and private) from the launcher. Private repositories need a token, stored in the system keyring; $GH_TOKEN or the gh CLI (gh auth token) are optional fallbacks and may have broader scopes than the read-only token the plugin recommends.",
+      "distro": [
+        "any"
+      ],
+      "id": "dankGithub",
+      "name": "Dank GitHub",
+      "repo": "https://github.com/Samoggino/dankGithub",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/Samoggino/dankGithub/main/screenshot.png",
+      "version": "1.0.2"
+    },
+    "path": "/nix/store/34sa2vx6g5v11cg578fyvjasp733rbz7-dankGithub",
+    "rev": "7fb9da3b3c5445206f19a6af131b63fa480f48b9",
+    "rootDir": "",
+    "sha256": "180n0xpy6vap28pwk4fvadpja84g0p6zr4w0x99s72v0iys4w89x",
+    "url": "https://github.com/Samoggino/dankGithub"
+  },
   "dankHermes": {
     "date": "2026-06-07T02:03:51+08:00",
     "deepClone": false,
