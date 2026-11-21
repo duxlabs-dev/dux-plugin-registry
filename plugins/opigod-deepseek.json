@@ -1,0 +1,14 @@
+{
+    "id": "deepseek",
+    "name": "DeepSeek",
+    "capabilities": ["dankbar-widget", "daemon"],
+    "category": "monitoring",
+    "repo": "https://github.com/opigod/dux-deepseek",
+    "author": "opigod",
+    "description": "Peak/off-peak countdown for DeepSeek and Ollama Cloud with pricing-page drift checks, official API balance, and platform token usage/cost via a pasted browser session token on undocumented endpoints",
+    "dependencies": [],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/opigod/dux-deepseek/main/assets/screenshot.png",
+    "requires_dms": ">=2.1.0"
+}
