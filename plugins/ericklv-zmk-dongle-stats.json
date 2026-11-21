@@ -1,0 +1,14 @@
+{
+    "id": "zmkDongleStats",
+    "name": "ZMK Dongle Stats",
+    "capabilities": ["dankbar-widget"],
+    "category": "monitoring",
+    "repo": "https://github.com/ericklv/zmk-dongle-battery-dux-shell",
+    "author": "eleve",
+    "description": "Battery level of each half of a ZMK split keyboard that connects through a USB dongle. Reads the dongle's serial port over ZMK Studio RPC instead of BlueZ, and shows each half's outline in the popout. Needs the battery history module in the firmware.",
+    "dependencies": ["python3"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/ericklv/zmk-dongle-battery-dux-shell/main/assets/screenshot.png",
+    "requires_dms": ">=2.0.0"
+}
