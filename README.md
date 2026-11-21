@@ -4783,7 +4783,7 @@ DankBar widget for selecting DMS output profiles.
 
 Software & updates center: rich update cards with release notes, app store for system repos/Flathub/AppImage with ratings and reviews, installed-software management, firmware updates and an action log. Fedora first; Debian/Ubuntu and Arch experimental.
 
-<strong>requires DMS version</strong>: <em>>=1.6.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: dankSoftwareDepot
 - name: Dux Software Depot
