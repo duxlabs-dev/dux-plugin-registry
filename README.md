@@ -7372,6 +7372,36 @@ Safe one-click cleaner plugin for DankMaterialShell.
 
 
 
+#### [Dank GitHub](https://github.com/Samoggino/dankGithub)
+
+Quick access to your GitHub repositories (public and private) from the launcher. Private repositories need a token, stored in the system keyring; $GH_TOKEN or the gh CLI (gh auth token) are optional fallbacks and may have broader scopes than the read-only token the plugin recommends.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: dankGithub
+- name: Dank GitHub
+- author: Samoggino
+- compositors: any
+- capabilities: launcher
+- dependencies: curl, xdg-utils, libsecret
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/Samoggino/dankGithub/main/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Dank Hermes](https://github.com/huangkaile22-prog/dankhermes)
 
 AI chat sidebar powered by local Hermes agent.
