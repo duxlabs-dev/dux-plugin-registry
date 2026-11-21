@@ -1,0 +1,14 @@
+{
+    "id": "flexClock",
+    "name": "Flex Clock",
+    "capabilities": ["dankbar-widget"],
+    "category": "utilities",
+    "repo": "https://github.com/jibon-k/dms-flex-clock",
+    "author": "jibon-k",
+    "description": "Bar clock with custom time and date formats that also work on vertical bars, smaller AM/PM, styling and a date card",
+    "dependencies": [],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "screenshot": "https://github.com/jibon-k/dms-flex-clock/raw/main/assets/date-card.png",
+    "requires_dms": ">=2.0.0"
+}
