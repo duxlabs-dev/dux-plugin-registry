@@ -1,0 +1,14 @@
+{
+    "id": "dankGithub",
+    "name": "Dank GitHub",
+    "description": "Quick access to your GitHub repositories (public and private) from the launcher. Private repositories need a token, stored in the system keyring; $GH_TOKEN or the gh CLI (gh auth token) are optional fallbacks and may have broader scopes than the read-only token the plugin recommends.",
+    "capabilities": ["launcher"],
+    "category": "utilities",
+    "repo": "https://github.com/Samoggino/dankGithub",
+    "author": "Samoggino",
+    "dependencies": ["curl", "xdg-utils", "libsecret"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "requires_dms": ">=2.0.0",
+    "screenshot": "https://raw.githubusercontent.com/Samoggino/dankGithub/main/screenshot.png"
+}
