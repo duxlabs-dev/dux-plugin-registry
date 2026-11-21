@@ -1,0 +1,14 @@
+{
+    "id": "dankGithub",
+    "name": "Dank GitHub",
+    "description": "Quick access to your GitHub repositories (public and private) from the launcher",
+    "capabilities": ["launcher"],
+    "category": "utilities",
+    "repo": "https://github.com/Samoggino/dankGithub",
+    "author": "Samoggino",
+    "dependencies": ["curl"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "requires_dms": ">=1.4.0",
+    "screenshot": "https://raw.githubusercontent.com/Samoggino/dankGithub/main/screenshot.png"
+}
