@@ -10,7 +10,8 @@
     "author": "Wasiq Mansoor",
     "description": "Claude Code, Codex and OpenCode limits, tokens and API-equivalent cost in the bar, with pace warnings and limit notifications. Reads local files. Two opt-in settings go further: live Claude limits adds a statusLine entry to ~/.claude/settings.json, and model prices downloads the public LiteLLM price list once a day.",
     "dependencies": [
-        "python3"
+        "python3",
+        "procps"
     ],
     "compositors": [
         "any"
