@@ -1,0 +1,14 @@
+{
+    "id": "devLauncher",
+    "name": "Dev Launcher",
+    "capabilities": ["daemon", "launcher"],
+    "category": "productivity",
+    "repo": "https://github.com/TMS-Namespace/DuxPlugin-DevLauncher",
+    "author": "TMS-Namespace",
+    "description": "Swiftly find local Git repositories and recently opened projects and files in IDEs in the Dux launcher (currently supports VS Code, NeoVim, Zed, Rider).",
+    "dependencies": ["find", "timeout", "stat", "which", "test", "xdg-open", "LocalStorage"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "requires_dms": ">=2.0.0",
+    "screenshot": "https://github.com/TMS-Namespace/DuxPlugin-DevLauncher/raw/main/images/Launcher.png"
+}
