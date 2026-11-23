@@ -602,6 +602,36 @@ Save the look of the shell (theme, accent, light or dark, wallpaper, bars, frame
 
 
 
+#### [Rounded Corners](https://github.com/trashcat53/DesktopCorners-DuxLabs-QMS-Plugin.git)
+
+Adds rounded corners to your desktop to mimic round bezels
+
+
+
+- id: roundedCorners
+- name: Rounded Corners
+- author: TrashCat53
+- compositors: niri, mango
+- capabilities: daemon
+- dependencies: 
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://github.com/trashcat53/DesktopCorners-DuxLabs-QMS-Plugin/blob/master/rounded-corners-preview.png?raw=true)
+
+</details>
+
+
+
+
+
 #### [Spotify Matugen](https://github.com/Grant07/dms-spotify-matugen)
 
 Lock DMS dynamic colors to Spotify album art while music is playing
