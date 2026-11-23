@@ -1221,14 +1221,14 @@ Audiobookshelf client for DankBar: books and podcasts, resume and progress sync,
 
 
 
-#### [DMS Last.fm Scrobbler](https://github.com/arqueon/dms-scrobbler)
+#### [DMS Last.fm & ListenBrainz Scrobbler](https://github.com/arqueon/dms-scrobbler)
 
-Last.fm companion for DMS: scrobbling, love/unlove, profile links and an offline retry queue. Optional remote Now Playing polls Last.fm; optional artwork search sends track metadata to YouTube Music. An optional MPRIS bridge needs a C compiler, libsystemd and json-c headers.
+Last.fm and ListenBrainz companion for DMS: scrobbling, love/unlove feedback sync, Control Center tile, profile links, and a per-service offline retry queue. Optional remote Now Playing polls Last.fm or ListenBrainz; optional artwork search sends track metadata to YouTube Music. An optional MPRIS bridge needs a C compiler, libsystemd and json-c headers.
 
 <strong>requires DMS version</strong>: <em>>=1.5.0</em>
 
 - id: lastfmScrobbler
-- name: DMS Last.fm Scrobbler
+- name: DMS Last.fm & ListenBrainz Scrobbler
 - author: arqueon
 - compositors: any
 - capabilities: daemon, dankbar-widget, control-center, ipc
