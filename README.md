@@ -7002,6 +7002,36 @@ Flexible Custom Widget for Showing Running Apps on Dank Bar
 
 
 
+#### [CustomMenu](https://github.com/PhulcZ/dms-custom-menu)
+
+Highly customizable start menu and launcher: search, categories, app tiles and buttons, arranged freely on a grid
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: customMenu
+- name: CustomMenu
+- author: PhulcZ
+- compositors: hyprland
+- capabilities: dankbar-widget
+- dependencies: xdg-utils
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/PhulcZ/dms-custom-menu/main/docs/menu.png)
+
+</details>
+
+
+
+
+
 #### [DMS AI Agent](https://github.com/Cha1000000/dms-ai-agent)
 
 AI desktop assistant powered by Claude Code: chat panel that controls your desktop in natural language, with live tool progress, local voice input (Whisper; needs pw-record and the faster-whisper venv from install.sh, or a venv set in the plugin settings), model and effort selection from the CLI, conversation history, and a per-monitor chat you can drag between screens. Tool calls ask for confirmation by default; an optional autonomous mode runs them without asking.
