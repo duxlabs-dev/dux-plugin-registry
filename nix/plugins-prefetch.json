@@ -8786,12 +8786,12 @@
       "dependencies": [
         "python3"
       ],
-      "description": "Last.fm companion for DMS: scrobbling, love/unlove, profile links and an offline retry queue. Optional remote Now Playing polls Last.fm; optional artwork search sends track metadata to YouTube Music. An optional MPRIS bridge needs a C compiler, libsystemd and json-c headers.",
+      "description": "Last.fm and ListenBrainz companion for DMS: scrobbling, love/unlove feedback sync, Control Center tile, profile links, and a per-service offline retry queue. Optional remote Now Playing polls Last.fm or ListenBrainz; optional artwork search sends track metadata to YouTube Music. An optional MPRIS bridge needs a C compiler, libsystemd and json-c headers.",
       "distro": [
         "any"
       ],
       "id": "lastfmScrobbler",
-      "name": "DMS Last.fm Scrobbler",
+      "name": "DMS Last.fm & ListenBrainz Scrobbler",
       "repo": "https://github.com/arqueon/dms-scrobbler",
       "requires_dms": ">=1.5.0",
       "screenshot": "https://raw.githubusercontent.com/arqueon/dms-scrobbler/main/assets/screenshot.png",
