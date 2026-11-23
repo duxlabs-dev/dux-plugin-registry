@@ -12712,6 +12712,36 @@ Display Wayfire workspace switcher in the bar with active/occupied indicators an
 
 
 
+#### [Web Popups](https://github.com/etidona/dms-web-popups)
+
+Open any web app (WhatsApp, Telegram, Discord, Proton Mail or any other site) in a popup next to the bar, one button per app or one group button, with unread badges, notifications, per-app mute and a separate login for each app. Pages are rendered by Qt WebEngine in Python helper processes, one per loaded app, that keep running in the background while the plugin is enabled. Logins and site data are stored in ~/.local/share/webpopups.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: webPopups
+- name: Web Popups
+- author: etidona
+- compositors: any
+- capabilities: dankbar-widget, variants
+- dependencies: python3, python3-pyqt6-webengine, layer-shell-qt, xdg-utils
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/etidona/dms-web-popups/main/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Web Search](https://github.com/devnullvoid/dms-web-search)
 
 Search the web with 23+ built-in search engines plus custom search engine support with keyword-based selection
