@@ -1371,6 +1371,36 @@ Desktop media player widget with real-time synced lyrics and Material You 3 desi
 
 
 
+#### [Mic Control](https://github.com/MrAndyVF/dms-mic-control)
+
+Plasma-style microphone indicator: left click mutes the default input, right click opens per-input and per-app volume controls. Handles the EasyEffects virtual source.
+
+<strong>requires DMS version</strong>: <em>>=1.6.3</em>
+
+- id: micControl
+- name: Mic Control
+- author: MrAndyVF
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: 
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/MrAndyVF/dms-mic-control/main/assets/MainPanel.png)
+
+</details>
+
+
+
+
+
 #### [NetEase Cloud Music Lyrics](https://github.com/mijiaoqvq/dms-netease-lyrics)
 
 Adds line-synced lyrics from NetEase Cloud Music to the built-in DMS media player.
