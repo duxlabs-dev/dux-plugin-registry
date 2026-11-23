@@ -15382,6 +15382,47 @@
     "sha256": "1i3j1rv1bkfj4isjn0xja9qhs58pq87nmbicyqmra5jkkgxjr9vh",
     "url": "https://github.com/viewerofall-labs/weather-viewer"
   },
+  "webPopups": {
+    "date": "2026-11-22T15:17:33+01:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-hPaQRonyZVwDp0Icd3TeiX9Bzi46vOPqYbP0b/7X4I4=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "etidona",
+      "capabilities": [
+        "dankbar-widget",
+        "variants"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "python3",
+        "python3-pyqt6-webengine",
+        "layer-shell-qt",
+        "xdg-utils"
+      ],
+      "description": "Open any web app (WhatsApp, Telegram, Discord, Proton Mail or any other site) in a popup next to the bar, one button per app or one group button, with unread badges, notifications, per-app mute and a separate login for each app. Pages are rendered by Qt WebEngine in Python helper processes, one per loaded app, that keep running in the background while the plugin is enabled. Logins and site data are stored in ~/.local/share/webpopups.",
+      "distro": [
+        "any"
+      ],
+      "id": "webPopups",
+      "name": "Web Popups",
+      "repo": "https://github.com/etidona/dms-web-popups",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/etidona/dms-web-popups/main/screenshot.png",
+      "version": "0.5.0"
+    },
+    "path": "/nix/store/q742hviwlnb7z5vi4kzgz9ci2iijh867-dms-web-popups",
+    "rev": "5f0eede2f78d2aa508f649e1b6adfa19a577eb4e",
+    "rootDir": "",
+    "sha256": "13p0szz6zx5kc7mf7g1s5v742zw9vrs7f722lw1mqrgji5391xl4",
+    "url": "https://github.com/etidona/dms-web-popups"
+  },
   "webSearch": {
     "date": "2026-07-04T00:28:51-04:00",
     "deepClone": false,
