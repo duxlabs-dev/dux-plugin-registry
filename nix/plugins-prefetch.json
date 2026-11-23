@@ -12456,6 +12456,41 @@
     "sha256": "1n1hmjqv1zdy3cyd2xacs1r00jjc6xwwxi2sxb859yzicinax8an",
     "url": "https://github.com/NoaHimesaka1873/dms-plugin-roon"
   },
+  "roundedCorners": {
+    "date": "2026-10-27T01:50:17-04:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-W6nmIU0Gd8evHqd2TKRYfMJJq0DLlHeBjfq9N6KNpLs=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "TrashCat53",
+      "capabilities": [
+        "daemon"
+      ],
+      "category": "appearance",
+      "compositors": [
+        "niri",
+        "mango"
+      ],
+      "dependencies": [],
+      "description": "Adds rounded corners to your desktop to mimic round bezels",
+      "distro": [
+        "any"
+      ],
+      "id": "roundedCorners",
+      "name": "Rounded Corners",
+      "repo": "https://github.com/trashcat53/DesktopCorners-DuxLabs-QMS-Plugin.git",
+      "screenshot": "https://github.com/trashcat53/DesktopCorners-DuxLabs-QMS-Plugin/blob/master/rounded-corners-preview.png?raw=true",
+      "version": "1.0.0"
+    },
+    "path": "/nix/store/1373w0jp26ys25a8ry3r1cz6d58i9llr-DesktopCorners-DuxLabs-QMS-Plugin",
+    "rev": "6464309ac56626a2ae689d2f5e1102cac0abf416",
+    "rootDir": "",
+    "sha256": "1fx4ini3gggsin0pg56b82mlkhkwb2j4qxm73spwfxq69lhydaav",
+    "url": "https://github.com/trashcat53/DesktopCorners-DuxLabs-QMS-Plugin.git"
+  },
   "sathiAi": {
     "date": "2026-11-20T11:57:10-07:00",
     "deepClone": false,
