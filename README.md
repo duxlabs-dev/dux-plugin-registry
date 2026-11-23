@@ -147,6 +147,36 @@ Audio visualizer along a screen edge with eight styles, a glow that makes the br
 
 
 
+#### [Browser Glass](https://github.com/lung595/browserGlass)
+
+Translucent glass for Firefox-family browsers on niri (LibreWolf, Firefox, Zen, Floorp, Waterfox): the wallpaper shows blurred through the browser bars and page backgrounds, text, pictures and video stay sharp. Opacity, blur and colours follow DMS, light or dark. Needs DMS background blur on. Writes userChrome.css, userContent.css and user.js in each browser profile and adds an include line to the niri config.kdl. Optional Live control (off by default) installs a companion add-on and a native messaging host, and turns off add-on signature checks in those profiles. On Firefox release builds the page glass stays partial until the add-on is signed.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: browserGlass
+- name: Browser Glass
+- author: lung595
+- compositors: niri
+- capabilities: daemon, dankbar-widget, theming, launcher
+- dependencies: python3
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/lung595/browserGlass/main/screenshots/hero.png)
+
+</details>
+
+
+
+
+
 #### [Cava Visualizer](https://github.com/ernestowgg/cava-visualizer)
 
 A simple, customizable audio visualizer for your desktop
