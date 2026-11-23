@@ -9759,6 +9759,41 @@
     "sha256": "1gn3qg7wxadkf1bk67578i6zwlqj88yw0y5nk1c2559dpqjd3nkg",
     "url": "https://github.com/bernardopg/mediaPlayer"
   },
+  "micControl": {
+    "date": "2026-10-19T17:40:03-05:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-SWU4EKiVbF5CGggPaCLGpS7CnSkIMNdpc705EuR8cpA=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "MrAndyVF",
+      "capabilities": [
+        "dankbar-widget"
+      ],
+      "category": "media",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [],
+      "description": "Plasma-style microphone indicator: left click mutes the default input, right click opens per-input and per-app volume controls. Handles the EasyEffects virtual source.",
+      "distro": [
+        "any"
+      ],
+      "id": "micControl",
+      "name": "Mic Control",
+      "repo": "https://github.com/MrAndyVF/dms-mic-control",
+      "requires_dms": ">=1.6.3",
+      "screenshot": "https://raw.githubusercontent.com/MrAndyVF/dms-mic-control/main/assets/MainPanel.png",
+      "version": "1.0.1"
+    },
+    "path": "/nix/store/ysqc15fxbb2wbcdv9y1369bpx8akwd4d-dms-mic-control",
+    "rev": "f93cfda60f55c6b2bdcad944b6634e1cc2945556",
+    "rootDir": "",
+    "sha256": "143jgkj14fdxfdlxfc0856fw4bm5qqi6h3q83915wv4mm083hra9",
+    "url": "https://github.com/MrAndyVF/dms-mic-control"
+  },
   "mihomoVpn": {
     "date": "2026-10-02T17:56:23+03:00",
     "deepClone": false,
