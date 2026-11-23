@@ -3828,6 +3828,36 @@ List, search, create, and complete dcal tasks from the launcher, with natural la
 
 
 
+#### [Dev Launcher](https://github.com/TMS-Namespace/DuxPlugin-DevLauncher)
+
+Swiftly find local Git repositories and recently opened projects and files in IDEs in the Dux launcher (currently supports VS Code, NeoVim, Zed, Rider).
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: devLauncher
+- name: Dev Launcher
+- author: TMS-Namespace
+- compositors: any
+- capabilities: daemon, launcher
+- dependencies: find, timeout, stat, which, test, xdg-open, LocalStorage
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://github.com/TMS-Namespace/DuxPlugin-DevLauncher/raw/main/images/Launcher.png)
+
+</details>
+
+
+
+
+
 #### [GitHub Inbox](https://github.com/TMS-Namespace/DMS-GitHub-Inbox-Plugin)
 
 View and manage GitHub inbox messages (notifications) from a popup
