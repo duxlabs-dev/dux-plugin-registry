@@ -812,18 +812,18 @@ A new fresh daily wallpaper downloaded from a famous portal (Widget)
 
 
 
-#### [Waywallen Theme Sync](https://github.com/Douzend/dms-waywallen-theme)
+#### [Waywallen Theme Sync](https://github.com/Douzend/dux-waywallen-theme)
 
-Syncs DankMaterialShell colors with the wallpaper currently playing in Waywallen.
+Syncs Dux colors with the wallpaper currently playing in Waywallen.
 
-<strong>requires DMS version</strong>: <em>>=1.6.0</em>
+<strong>requires DMS version</strong>: <em>>=2.1.0</em>
 
 - id: waywallenTheme
 - name: Waywallen Theme Sync
 - author: Douzend
 - compositors: any
 - capabilities: daemon
-- dependencies: waywallen, ffmpeg, sqlite3
+- dependencies: waywallen, sqlite3
 - distro: any
 
 
@@ -834,7 +834,7 @@ Syncs DankMaterialShell colors with the wallpaper currently playing in Waywallen
 <details>
 <summary>Screenshot</summary>
 
-![screenshot](https://raw.githubusercontent.com/Douzend/dms-waywallen-theme/main/assets/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/Douzend/dux-waywallen-theme/main/assets/screenshot.png)
 
 </details>
 
