@@ -14887,12 +14887,12 @@
     "url": "https://github.com/sr-tream/dms-vscode-launcher"
   },
   "wallabag": {
-    "date": "2026-09-29T20:24:59-06:00",
+    "date": "2026-11-22T21:36:03-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-eJQcDI/oODBRwZ5FlR1xCMmlLerOStam+4H0g1c/R2I=",
+    "hash": "sha256-+FmTFvd0k+R1P+GAF3UlwSxnpEBcX/+UEeHmf18ltkI=",
     "leaveDotGit": false,
     "meta": {
       "author": "arqueon",
@@ -14927,12 +14927,12 @@
       "settings": "./Settings.qml",
       "startupCheck": "./StartupCheck.qml",
       "type": "widget",
-      "version": "0.1.3"
+      "version": "0.1.4"
     },
-    "path": "/nix/store/5p5zbfj84m27f840wpbg0rjcpnqnkfsf-dms-wallabag",
-    "rev": "ff69a337f503816c636d9b1177942d076a3130f7",
+    "path": "/nix/store/dl16ks6vifbw196r6kwd3v5y8kb94ryr-dms-wallabag",
+    "rev": "025a6a38278957953ae6c4b636387255d6784b38",
     "rootDir": "",
-    "sha256": "0qj77xbq7x41zfkdcjnfx8nsbj88f4fraicyq58k0f78iw61r53q",
+    "sha256": "0hmn4mgpzrp126agypsw82j6fb614msig0717xsy94vlywb96ngq",
     "url": "https://github.com/arqueon/dms-wallabag"
   },
   "wallarchyDms": {
