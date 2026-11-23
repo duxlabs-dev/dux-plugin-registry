@@ -1489,6 +1489,46 @@
     "sha256": "1vcykwi74d77y2zbk3pp3zi35ny476vp9h9sbsd9rqsqaxahg7q9",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
+  "browserGlass": {
+    "date": "2026-11-18T16:06:58+01:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-6GlV+cnH0hZQGURWKkfpBVz/Rv/HPGIcByOT5ZZGm+A=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "lung595",
+      "capabilities": [
+        "daemon",
+        "dankbar-widget",
+        "theming",
+        "launcher"
+      ],
+      "category": "appearance",
+      "compositors": [
+        "niri"
+      ],
+      "dependencies": [
+        "python3"
+      ],
+      "description": "Translucent glass for Firefox-family browsers on niri (LibreWolf, Firefox, Zen, Floorp, Waterfox): the wallpaper shows blurred through the browser bars and page backgrounds, text, pictures and video stay sharp. Opacity, blur and colours follow DMS, light or dark. Needs DMS background blur on. Writes userChrome.css, userContent.css and user.js in each browser profile and adds an include line to the niri config.kdl. Optional Live control (off by default) installs a companion add-on and a native messaging host, and turns off add-on signature checks in those profiles. On Firefox release builds the page glass stays partial until the add-on is signed.",
+      "distro": [
+        "any"
+      ],
+      "id": "browserGlass",
+      "name": "Browser Glass",
+      "repo": "https://github.com/lung595/browserGlass",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/lung595/browserGlass/main/screenshots/hero.png",
+      "version": "1.4.1"
+    },
+    "path": "/nix/store/crcw1qg789dqrnkzijxp0bmf33smzawx-browserGlass",
+    "rev": "961b5cd7226c5db87fa4391f3082f64ae6b2868a",
+    "rootDir": "",
+    "sha256": "1q4v8sbfb4r30wf64g67zx3gyp05x53jlmj43581dln7r7wmasg8",
+    "url": "https://github.com/lung595/browserGlass"
+  },
   "caffeineRedesigned": {
     "date": "2026-11-19T23:17:47+05:30",
     "deepClone": false,
@@ -2816,6 +2856,43 @@
     "rootDir": "",
     "sha256": "0f8haq7na4ax65bdq2rgx7l35axgr274ia94fs0ywdlxs6gl7jk5",
     "url": "https://github.com/ReyArlena/dms-cursor-highlight"
+  },
+  "customMenu": {
+    "date": "2026-11-23T11:17:29+01:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-EcxSbpZZeMzSez4J+fECgF4vMj6XyDTW467+P749CnY=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "PhulcZ",
+      "capabilities": [
+        "dankbar-widget"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "hyprland"
+      ],
+      "dependencies": [
+        "xdg-utils"
+      ],
+      "description": "Highly customizable start menu and launcher: search, categories, app tiles and buttons, arranged freely on a grid",
+      "distro": [
+        "any"
+      ],
+      "id": "customMenu",
+      "name": "CustomMenu",
+      "repo": "https://github.com/PhulcZ/dms-custom-menu",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/PhulcZ/dms-custom-menu/main/docs/menu.png",
+      "version": "1.0.1"
+    },
+    "path": "/nix/store/qbsmmvzrwch8rpl2cly9cizbjwrdakgi-dms-custom-menu",
+    "rev": "eb285d4b1b2209d4f9ecc40a9a30e7a8b2583726",
+    "rootDir": "",
+    "sha256": "0xha7nz3zzmfwgb39j4p7qr2ypl00bqzj29ygg9cqy2rjrp55k0i",
+    "url": "https://github.com/PhulcZ/dms-custom-menu"
   },
   "customRunningApps": {
     "date": "2026-06-28T09:50:09-07:00",
