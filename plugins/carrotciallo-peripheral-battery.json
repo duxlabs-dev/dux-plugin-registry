@@ -1,0 +1,21 @@
+{
+  "id": "peripheralBattery",
+  "name": "Peripheral Battery",
+  "capabilities": [
+    "dankbar-widget"
+  ],
+  "category": "monitoring",
+  "repo": "https://github.com/carrotciallo/dms-peripheral-battery",
+  "author": "carrotciallo",
+  "description": "Reads peripheral battery levels directly from UPower (keyboard, mouse, headset, controller), bypassing the laptop-battery gate so it works on desktops too.",
+  "dependencies": [
+    "upower"
+  ],
+  "compositors": [
+    "any"
+  ],
+  "distro": [
+    "any"
+  ],
+  "screenshot": "https://raw.githubusercontent.com/carrotciallo/dms-peripheral-battery/main/screenshot.png"
+}
