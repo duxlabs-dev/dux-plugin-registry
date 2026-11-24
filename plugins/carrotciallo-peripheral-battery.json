@@ -17,5 +17,6 @@
   "distro": [
     "any"
   ],
-  "screenshot": "https://raw.githubusercontent.com/carrotciallo/dms-peripheral-battery/main/screenshot.png"
+  "screenshot": "https://raw.githubusercontent.com/carrotciallo/dms-peripheral-battery/main/screenshot.png",
+  "requires_dms": ">=2.0.0"
 }
