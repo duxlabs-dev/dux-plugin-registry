@@ -2291,12 +2291,12 @@
     "url": "https://github.com/by-architect/DMS-Plugins"
   },
   "cliproxyQuota": {
-    "date": "2026-11-19T20:54:18Z",
+    "date": "2026-11-23T20:06:29Z",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-RzlhEYxpz6xPhIf440nmWJ5q2v8EzdRuQFVmzOT88v4=",
+    "hash": "sha256-En1P2+pKH8vyGV33bw1saVY7NgXekk98N+cB20N2RpY=",
     "leaveDotGit": false,
     "meta": {
       "author": "Spyros Psarras",
@@ -2319,12 +2319,12 @@
       "name": "CLIProxyAPI Quota",
       "repo": "https://github.com/SpyrosPsarras/dms-cliproxy-quota",
       "screenshot": "https://raw.githubusercontent.com/SpyrosPsarras/dms-cliproxy-quota/main/screenshot.png",
-      "version": "0.1.20"
+      "version": "0.1.22"
     },
-    "path": "/nix/store/mqlpmy0vkfi5bmc72bh8r89nqqb5jkvm-dms-cliproxy-quota",
-    "rev": "d69055c89505ae8db9714fc6e8a24390a536b158",
+    "path": "/nix/store/l5d727vzb0x8m4m6yk4i20j025hz8bdx-dms-cliproxy-quota",
+    "rev": "0d91bca6a7f777243c679757e3b245f3c70ba0bb",
     "rootDir": "",
-    "sha256": "1zpjzkjcqrjm81pd9k84zzd6m7jqwr4y7y47hi7srkv9ih8n2fa7",
+    "sha256": "15j6fr1xn0g76xy4z4ny0lv3nmk9dh6nzxsx37rcn7saxbdlyz8j",
     "url": "https://github.com/SpyrosPsarras/dms-cliproxy-quota"
   },
   "codeIsland": {
@@ -4295,12 +4295,12 @@
     "url": "https://github.com/alcxyz/DankSession"
   },
   "dankSoftwareDepot": {
-    "date": "2026-11-21T09:50:29+01:00",
+    "date": "2026-11-24T08:32:50+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Oj8YTssYX5PkuEv16tBBOEbSoEoCOlyqLo5QX5578EQ=",
+    "hash": "sha256-B7IN1GXAYEFbQ374JfKqx4pLybWuOk22wG7FEY2Irp0=",
     "leaveDotGit": false,
     "meta": {
       "author": "Vincent Blok",
@@ -4331,12 +4331,12 @@
       "repo": "https://github.com/vinceecniv/DuxSoftwareDepot",
       "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/vinceecniv/DuxSoftwareDepot/main/screenshot.png",
-      "version": "2.0.1"
+      "version": "2.2.0"
     },
-    "path": "/nix/store/v8g08kf2lhv6bim2636dp5n26a7nz092-DuxSoftwareDepot",
-    "rev": "b98fef92db4b8fe4ac8df620f91ce663e1e36be9",
+    "path": "/nix/store/qxa8yyhhlvzf1gas3nq3nqrk5inhglm2-DuxSoftwareDepot",
+    "rev": "8251f9484872f44505783e78ab7cc244f18d53e9",
     "rootDir": "",
-    "sha256": "0i7hgfg5yl4f5sm5qfh29ahd4iiq878fmxabp3j96pqqrd71hgrs",
+    "sha256": "17dfi26i3ibfq2v4sfmfnp4lp2n7mbr2by3y8ddl2q60cpa0vch7",
     "url": "https://github.com/vinceecniv/DuxSoftwareDepot"
   },
   "dankSpotify": {
@@ -4569,12 +4569,12 @@
     "url": "https://github.com/deepu105/dms-dank-todo"
   },
   "dankTodoman": {
-    "date": "2026-11-20T14:51:05+01:00",
+    "date": "2026-11-23T16:27:06+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-+QeNSihr79/7P53KKFpOS1yExnUoeRg0DAsRZQR0DnE=",
+    "hash": "sha256-CH8IAvMhOENV6K387tDauK4Uh96uSOyo7W7LYJ4FLs8=",
     "leaveDotGit": false,
     "meta": {
       "author": "shochraos",
@@ -4600,10 +4600,10 @@
       "screenshot": "https://raw.githubusercontent.com/Shochraos/dms-todoman-plugin/main/screenshot.png",
       "version": "0.4.0"
     },
-    "path": "/nix/store/nib2snp92vaqjpih0z93xkbx6q51f7lz-dms-todoman-plugin",
-    "rev": "feb04d7b24129c7777dd7a57896e9d2fd8f68258",
+    "path": "/nix/store/bbbn445p3d1gx3bpnsc2rfgadmaaivqd-dms-todoman-plugin",
+    "rev": "00edf403f5f8f94364b485daf24963c214825b3d",
     "rootDir": "",
-    "sha256": "0w8ffh26a48b1hs1hy98fp388p2b9rd2ijlx7zxxzvvb5158s1zr",
+    "sha256": "1krf0ng61jvfxnlfqj5fvs3i9bmqvb8fxz5dx1al6f11yc10hzq8",
     "url": "https://github.com/Shochraos/dms-todoman-plugin"
   },
   "dankTranslate": {
@@ -4795,12 +4795,12 @@
     "url": "https://github.com/augustocdias/dank-pinentry"
   },
   "dankmailUnread": {
-    "date": "2026-11-15T19:54:00-06:00",
+    "date": "2026-11-24T00:18:03-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-U2ZqmTJhuTED/BBBFE156GvSfvkPkEtiNbfyoqNkDxU=",
+    "hash": "sha256-ZajEQx/vKmxtMbrILvJwyHTfgzwDsO7QAcIEXpFCgaQ=",
     "leaveDotGit": false,
     "meta": {
       "author": "arqueon",
@@ -4824,12 +4824,12 @@
       "repo": "https://github.com/arqueon/dux-mail",
       "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/arqueon/dux-mail/main/assets/screenshot.png",
-      "version": "0.6.0"
+      "version": "0.6.3"
     },
-    "path": "/nix/store/zs5p8c9mjwfcial3xpvyjj9374g061n7-dux-mail",
-    "rev": "aea6bdfd0b6deee3bc7ad9163d7a7e90b56e0512",
+    "path": "/nix/store/z7ip7y5jwd22yzj6jrpqyqsiskichz9r-dux-mail",
+    "rev": "71b946d6274ee83cb3d0260b62c3eaa613a301f3",
     "rootDir": "",
-    "sha256": "058gcjis5wmp6mi4p40gz5zd4sz8g56i8h8hzh1k3fb16acnlrjk",
+    "sha256": "19418a8mw162078fxc037j1xyx68f3r2xj5s65nnqapg3x1w9a35",
     "url": "https://github.com/arqueon/dux-mail"
   },
   "dankscale": {
@@ -5331,12 +5331,12 @@
     "url": "https://github.com/TMS-Namespace/DuxPlugin-DevLauncher"
   },
   "developerUtilities": {
-    "date": "2026-08-14T13:11:22+08:00",
+    "date": "2026-11-24T14:26:32+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-bpsE5x26Ou7Sfzgv/ttIxfqK3w51x+kSP2dKOIGakTA=",
+    "hash": "sha256-/tnSvudpgTq0c7EPoTP3CRNzfPiIJssCDzGkv5R8/5o=",
     "leaveDotGit": false,
     "meta": {
       "author": "xxyangyoulin",
@@ -5358,12 +5358,12 @@
       "repo": "https://github.com/xxyangyoulin/dms-plugin-developer-utilities",
       "requires_dms": ">=1.4.0",
       "screenshot": "https://raw.githubusercontent.com/xxyangyoulin/dms-plugin-developer-utilities/master/assets/screenshot.png",
-      "version": "1.1.3"
+      "version": "1.1.4"
     },
-    "path": "/nix/store/fw6ndr8sfmwwcqz2mfp68vivznscwrbg-dms-plugin-developer-utilities",
-    "rev": "b115dcbbe0d82c80190f4fcc255a935e33889f4a",
+    "path": "/nix/store/vdq96pwgg1z54jx5van3v2vw4l2lad8z-dms-plugin-developer-utilities",
+    "rev": "3e8543f5876648bfcf346253e61221cbb200dd0e",
     "rootDir": "",
-    "sha256": "0c4ika0khjk77w9fkivm1vgqmyn593dzwbrqgz9fwfms3pkh96vf",
+    "sha256": "16pzgjabz91i1w1cn9l8z1y764q9ywrs23xiffs3m0b9wyzd5ngy",
     "url": "https://github.com/xxyangyoulin/dms-plugin-developer-utilities"
   },
   "deviceBatteries": {
@@ -6178,12 +6178,12 @@
     "url": "https://github.com/leonardofranco01/dms-sessionizer"
   },
   "dmsThemeSync": {
-    "date": "2026-11-15T18:43:49-06:00",
+    "date": "2026-11-24T01:14:23-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-dfCViOtf3WnZz+eFBu9aahZw2MErqjVo1oKIOsngJqk=",
+    "hash": "sha256-bQUlYDiC/8GtxXa+2ALK5DjjCGZW1O2V2Cj5MeJVzZ8=",
     "leaveDotGit": false,
     "meta": {
       "author": "arqueon",
@@ -6209,12 +6209,12 @@
       "repo": "https://github.com/arqueon/dms-theme-sync",
       "requires_dms": ">=1.5.0",
       "screenshot": "https://raw.githubusercontent.com/arqueon/dms-theme-sync/main/assets/screenshot.png",
-      "version": "0.15.0"
+      "version": "0.16.0"
     },
-    "path": "/nix/store/lyayjm5zvlf04pybqq3k69af35jh5x68-dms-theme-sync",
-    "rev": "a0e054e30ffa888842e8b6a16f41330fe3f35550",
+    "path": "/nix/store/x870320030qpcxdxzklcjx951qqghb0w-dms-theme-sync",
+    "rev": "9a58e90749a1437de059c19a4bbd54164adfa750",
     "rootDir": "",
-    "sha256": "1a96w34km242srl3baibq7c705kabbphd1g7rzcnkpazxf49bw3m",
+    "sha256": "17ydapi33y98v2ayvm2ncq4f6f74r81digknqnnw3zw271h2a1bd",
     "url": "https://github.com/arqueon/dms-theme-sync"
   },
   "dmsVikunja": {
@@ -6925,12 +6925,12 @@
     "url": "https://github.com/coldi1337/DankAuth"
   },
   "ephemera": {
-    "date": "2026-07-17T23:19:55-05:00",
+    "date": "2026-11-23T15:24:21-05:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-AUO5dE2piIbgMb9ymnnjf3zn9yrhjiB6NF/o4RQscUY=",
+    "hash": "sha256-lHw4QHIcx5bHLZ1pFB6bi8dSpsBUfpnIqcgwZLlbM5M=",
     "leaveDotGit": false,
     "meta": {
       "author": "nicolasgarcia214",
@@ -6956,10 +6956,10 @@
       "screenshot": "https://github.com/nicolasgarcia214/Ephemera/blob/master/screenshots/screenshot.jpg?raw=true",
       "version": "1.2.1"
     },
-    "path": "/nix/store/1q1anb951h62lk5692n8kjskhbc39xdf-Ephemera",
-    "rev": "042f03dc72c25e1e83d81134e2b8c1cc2e9c2bc3",
+    "path": "/nix/store/dzw3rf5lwmpncn43ip97yib4fh7xmdbk-Ephemera",
+    "rev": "2dfeddbd3d01069aa57c3f73f1b304931f475f63",
     "rootDir": "",
-    "sha256": "0iki5haf3s2z6ix213p15bvyfz3zwdwrlwmz67h8d2599msbjhq1",
+    "sha256": "14rkbfwn8c68m749jzjlq2k55iwbkcg18scx5p3rdiqwf903hz4l",
     "url": "https://github.com/nicolasgarcia214/Ephemera"
   },
   "extendedNetworkToggle": {
@@ -12492,12 +12492,12 @@
     "url": "https://github.com/trashcat53/DesktopCorners-DuxLabs-QMS-Plugin.git"
   },
   "sathiAi": {
-    "date": "2026-11-20T11:57:10-07:00",
+    "date": "2026-11-23T17:46:44Z",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-z7GGlSr5Bkh1R8lxO2nnFz1PyWjD43oGEKAkrCRvJkY=",
+    "hash": "sha256-WIRFAv7+KHXw4eICGzf+sHl81jp3Oo5bcBecaZ4DrnU=",
     "leaveDotGit": false,
     "meta": {
       "author": "SSingh44",
@@ -12518,12 +12518,12 @@
       "name": "Sathi.AI",
       "repo": "https://github.com/ss44/sathi.ai",
       "screenshot": "https://raw.githubusercontent.com/ss44/sathi.ai/refs/heads/master/assets/screenshot-01.png",
-      "version": "1.26.47"
+      "version": "1.26.48"
     },
-    "path": "/nix/store/qcjkp7pwn42dvz1h3a9gmndxlh6ximhr-sathi.ai",
-    "rev": "83e73925288b241c692ccdf86b373b11ff9e6cda",
+    "path": "/nix/store/ffb86zsanbnyq0pdxkgadvg7x10m8d8x-sathi.ai",
+    "rev": "1e14bf41e03e111f8d1dbacbff090761e430aefd",
     "rootDir": "",
-    "sha256": "0ii6dwjaq9502037mqy3d34lyg8pwxlknwf98xslh1pr5aaqdcfg",
+    "sha256": "0xdf0fg6k70pf1dqwfkp7bb7qydhzqvin0p2w7q7aa7yzq14b12q",
     "url": "https://github.com/ss44/sathi.ai"
   },
   "scratchpadHelper": {
