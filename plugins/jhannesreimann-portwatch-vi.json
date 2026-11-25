@@ -1,0 +1,14 @@
+{
+    "id": "portwatchVi",
+    "name": "PortWatch VI",
+    "capabilities": ["dankbar-widget"],
+    "category": "monitoring",
+    "repo": "https://github.com/jhannesreimann/dux-portwatch",
+    "author": "jhannesreimann",
+    "description": "Track reverse-engineered GTA VI PC port efforts from 4lwayz/portwatch-vi in DankBar, with a sorted progress leaderboard, FPS and hardware targets, pros/cons, and GitHub links.",
+    "dependencies": [],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/jhannesreimann/dux-portwatch/main/assets/screenshot.png",
+    "requires_dms": ">=2.0.0"
+}
