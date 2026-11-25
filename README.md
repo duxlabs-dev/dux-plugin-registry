@@ -2989,6 +2989,36 @@ Live view of the Bitcoin mempool: the latest block in the middle, the mempool as
 
 
 
+#### [Peripheral Battery](https://github.com/carrotciallo/dms-peripheral-battery)
+
+Reads peripheral battery levels directly from UPower (keyboard, mouse, headset, controller), bypassing the laptop-battery gate so it works on desktops too.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: peripheralBattery
+- name: Peripheral Battery
+- author: carrotciallo
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: upower
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/carrotciallo/dms-peripheral-battery/main/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [PortWatch](https://github.com/alamin147/PortWatch)
 
 Shows local listening ports and development servers in DankBar, with a popout to stop them safely.
