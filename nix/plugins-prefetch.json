@@ -3226,12 +3226,12 @@
     "url": "https://github.com/alcxyz/DankCalendar"
   },
   "dankCalendarAgenda": {
-    "date": "2026-11-13T00:12:58-06:00",
+    "date": "2026-11-24T23:00:25-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-O9vwZRqydaqk+YFS2Sro9oDanPrEoSv/gK5VxuOtgi4=",
+    "hash": "sha256-yR7yTqNiylhUEWc1W9N+6Gf1MFSaryxB62yHNxtSnbg=",
     "leaveDotGit": false,
     "meta": {
       "author": "arqueon",
@@ -3266,10 +3266,10 @@
       "type": "widget",
       "version": "1.5.6"
     },
-    "path": "/nix/store/n6px2gbivm7md19m1xajhbjpck16kanb-dms-dankcalendar",
-    "rev": "94a72490633e426093f4d45dab7ec43bebd699c7",
+    "path": "/nix/store/vk4masf4m05d67mgv3nvwff7iada47dl-dms-dankcalendar",
+    "rev": "e54c95c48311687c0c028ae6f424ab7c200e0bb2",
     "rootDir": "",
-    "sha256": "0bl2mpiwcmdfh3zjp8f4zafdm07nx0mdjll1z6jalxdj39jz1nrv",
+    "sha256": "1f4xa8dkg1vcxd0jrbwsahqgarz8gv9mndb725a5ijk2ld7g47n9",
     "url": "https://github.com/arqueon/dms-dankcalendar"
   },
   "dankCalendarPlus": {
@@ -4833,12 +4833,12 @@
     "url": "https://github.com/augustocdias/dank-pinentry"
   },
   "dankmailUnread": {
-    "date": "2026-11-24T18:05:23-06:00",
+    "date": "2026-11-24T23:00:33-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-mIgnMZEYROuPVdhV98FIQP1EOH66uYcNW15E0mJ6JME=",
+    "hash": "sha256-q51aLxmS7g0LgYdlQNP85SuF3t8zs/NDVPm1xAwmg0A=",
     "leaveDotGit": false,
     "meta": {
       "author": "arqueon",
@@ -4864,10 +4864,10 @@
       "screenshot": "https://raw.githubusercontent.com/arqueon/dux-mail/main/assets/screenshot.png",
       "version": "0.6.4"
     },
-    "path": "/nix/store/8i94mi4idfqvz4a224cbykl1mswksbmk-dux-mail",
-    "rev": "c6dd68a1964069a1f74f4796faef500a3ac5b49c",
+    "path": "/nix/store/kzmxsjx15m62fk90jp0nily8m2vzi4s9-dux-mail",
+    "rev": "124d97fc6b21dc1050f6cbac669b334013ec0748",
     "rootDir": "",
-    "sha256": "1h94g9id4i2ybc6qgfdsgqw49za0930zfmfqan7yni0qj4qjg24q",
+    "sha256": "0h434q6c9dgrai1z7crkvzg8aaz5zk9l0rc7h45hvvlj34pmm7db",
     "url": "https://github.com/arqueon/dux-mail"
   },
   "dankscale": {
@@ -6216,12 +6216,12 @@
     "url": "https://github.com/leonardofranco01/dms-sessionizer"
   },
   "dmsThemeSync": {
-    "date": "2026-11-24T18:11:40-06:00",
+    "date": "2026-11-24T22:57:10-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-XQYVRkImEf4g1/GINpfZKCYLGb8gf7DWN8clDrnE7ww=",
+    "hash": "sha256-U3m71SZKesh03tYFfWcmA9+56ZqC4IC9Zs9l1tcKtd4=",
     "leaveDotGit": false,
     "meta": {
       "author": "arqueon",
@@ -6247,21 +6247,21 @@
       "repo": "https://github.com/arqueon/dms-theme-sync",
       "requires_dms": ">=1.5.0",
       "screenshot": "https://raw.githubusercontent.com/arqueon/dms-theme-sync/main/assets/screenshot.png",
-      "version": "0.17.0"
+      "version": "0.18.1"
     },
-    "path": "/nix/store/2abzigm4a6xsg41av8naiyrmq9jy172v-dms-theme-sync",
-    "rev": "58da86d6d11654b4889ea3e324165f7a75d194a7",
+    "path": "/nix/store/6vx1i7z3c8ckn39zfx4czxnr3hyylkya-dms-theme-sync",
+    "rev": "27fd2a8f4d1bc92994e1fa8d89dc0ac2fb80cff5",
     "rootDir": "",
-    "sha256": "037gqjwhw9f76zbb0zr0pwchn9i8v6bkd27iswhgw4968931a1jx",
+    "sha256": "1pmm1bbxcrfgcsyq1q42kblvkpq34rkps1fnvrschyja4vavnyak",
     "url": "https://github.com/arqueon/dms-theme-sync"
   },
   "dmsVikunja": {
-    "date": "2026-10-18T01:08:17-06:00",
+    "date": "2026-11-24T23:00:30-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-9FyS45WUYl55rG31kL9C7+up9USQA3tg4Zv0hsarH2c=",
+    "hash": "sha256-0uGDHvFI5yXFAOkR40GyBHV/yRlk0dKO5nq0dCN2wW4=",
     "leaveDotGit": false,
     "meta": {
       "author": "arqueon",
@@ -6303,10 +6303,10 @@
       "type": "composite",
       "version": "0.2.4"
     },
-    "path": "/nix/store/sxg0s394sb47nhhilfnqdg04zj943b3p-dms-vikunja",
-    "rev": "1d815e59536722df7a61cb0c8fb001f54edd5b85",
+    "path": "/nix/store/w3xn09h38b88vy1ddyygkqb3k63am2kl-dms-vikunja",
+    "rev": "5ab03090ef013d89edfe30992c0d2fcdf2f51781",
     "rootDir": "",
-    "sha256": "0rqzmg38dx4vw5h7n0wh8ksskszg8azr1xbdmiwmwqlljpir4p7l",
+    "sha256": "0vn1fqip9d3sws7d5lb4374pyx84n90y64g9032jbrs8y4g87qfj",
     "url": "https://github.com/arqueon/dms-vikunja"
   },
   "dmsconky": {
@@ -6638,12 +6638,12 @@
     "url": "https://github.com/Gamen0ut/Duck"
   },
   "duxHerdrFleet": {
-    "date": "2026-11-06T02:11:08-06:00",
+    "date": "2026-11-24T23:00:45-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Y8vretuajTvpvHwwqPMhOCmua9E9K50U9TH7li905ys=",
+    "hash": "sha256-XSn7EZyYecn2uPa7HanoJG7CZTCDkiGaOter7H4lc3A=",
     "leaveDotGit": false,
     "meta": {
       "author": "arqueon",
@@ -6681,10 +6681,10 @@
       "type": "widget",
       "version": "1.3.2"
     },
-    "path": "/nix/store/qz5347p2rsql3l2rskkhan6y060cw4qp-dux-herdr-fleet",
-    "rev": "feb67bf983875cc7ff29672213607feb6da0aae7",
+    "path": "/nix/store/r0p5d9q1cx9am1cmv6v2dd03izadxqbi-dux-herdr-fleet",
+    "rev": "7eed86a9084cecf3565e148d4f5dc0c71358870b",
     "rootDir": "",
-    "sha256": "0az7fhprdyriyla9sarxs5mswa9q47rshc3wpklkp3csvdxfpjv3",
+    "sha256": "0w3k4mzfrayp7ad234l361jw4vi4x2livfznp3vcjycqkh8znaax",
     "url": "https://github.com/arqueon/dux-herdr-fleet"
   },
   "duxTouch": {
@@ -7428,12 +7428,12 @@
     "url": "https://github.com/Shochraos/game-chat-mix"
   },
   "gazeAuth": {
-    "date": "2026-09-29T19:07:38-06:00",
+    "date": "2026-11-24T23:00:28-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-NU/lJUuktrY1SLYa0Z+SnnvoTGGu/RYiecWK7W4S8U0=",
+    "hash": "sha256-EutUvWoVcEg6jxyfuIeNA/Dp3XLo8MxO+doWZa2lXYE=",
     "leaveDotGit": false,
     "meta": {
       "author": "arqueon",
@@ -7469,10 +7469,10 @@
       "type": "widget",
       "version": "0.3.5"
     },
-    "path": "/nix/store/g5wg06lqgd8qk1a2ri1rhszyvckcw3k8-dms-gaze-auth",
-    "rev": "d2cda3db76a8769a5c316f6031161e66c5fc8a7a",
+    "path": "/nix/store/5aw1z3xz37ivn3i9d015cwd7w626mr8d-dms-gaze-auth",
+    "rev": "b99ba7907db5ea7c8bb2e2fb195962faf9b07d88",
     "rootDir": "",
-    "sha256": "0kgi29pfv2n5g4i1dzdfc56fhywyjagx26mn90svddm49cjyakrm",
+    "sha256": "10axlnnna5nsz57crw78fbfykw03in3vi7qwiwx4hw0mdaym9sqj",
     "url": "https://github.com/arqueon/dms-gaze-auth"
   },
   "gbudsWatch": {
@@ -8923,12 +8923,12 @@
     "url": "https://github.com/Protectore/WiredDMS"
   },
   "lastfmScrobbler": {
-    "date": "2026-11-21T22:51:22-06:00",
+    "date": "2026-11-24T23:00:48-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-IEg1lG5sqQ3Q0J8KgU6wvwPm1eG0sxHfLaosj0KxsFk=",
+    "hash": "sha256-/HpnN9r9uCapt2nb5lYTb2LGvA4EDBw1OiedZx2QI7g=",
     "leaveDotGit": false,
     "meta": {
       "author": "arqueon",
@@ -8956,10 +8956,10 @@
       "screenshot": "https://raw.githubusercontent.com/arqueon/dms-scrobbler/main/assets/screenshot.png",
       "version": "1.5.0"
     },
-    "path": "/nix/store/g96wiaafwzqsw4hnwdkklhy7ff5lagrc-dms-scrobbler",
-    "rev": "974c227756c5e642b70b6f1afaac96802359d2a8",
+    "path": "/nix/store/hiqr318i49qdaf4d0i48abfz15i5vnkd-dms-scrobbler",
+    "rev": "ab7bda6e57e5396209c3ddefcd926803375e0441",
     "rootDir": "",
-    "sha256": "0ndhn518yb5a5pgi3cxlw7ayc0xzn17822lzs380vabcdsa3aj10",
+    "sha256": "1f13j0fng79778siq3041syccqkg2dbfdnv9nyljdf7xv8vnfypw",
     "url": "https://github.com/arqueon/dms-scrobbler"
   },
   "latex2svg": {
@@ -10928,12 +10928,12 @@
     "url": "https://github.com/samgrande/Dank-Nothing-Clock"
   },
   "ntfy": {
-    "date": "2026-09-29T18:29:02-06:00",
+    "date": "2026-11-24T23:00:35-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-NmfIpxCRgCLCbMJiIFehA9+cDi8HAr7EFfusAC6kmi4=",
+    "hash": "sha256-/VcKfaZWaKR0r30i+ihcGY1hjDNvsPaxfuIVVGRXne4=",
     "leaveDotGit": false,
     "meta": {
       "author": "arqueon",
@@ -10976,10 +10976,10 @@
       "type": "composite",
       "version": "0.3.2"
     },
-    "path": "/nix/store/d2r63jfz5h9flpjj8z9j6cknr1nb34k6-dms-ntfy",
-    "rev": "34c091c91ae49e87710247a70dd888fe0370c8f9",
+    "path": "/nix/store/br85bsiz2xw5lr4mm4yfb6j4q4q90mn2-dms-ntfy",
+    "rev": "dcec85fa641275c332f0c8a5e80b8c4d37087446",
     "rootDir": "",
-    "sha256": "0blslhp01b7v2p2bw0h75w79rpq3l5bj0qn2dk12504i22kwhrrn",
+    "sha256": "1vlxaxj585g2gsqzdc3g6f66338rbhlgl8kxmxsa8s2nlryhlmzx",
     "url": "https://github.com/arqueon/dms-ntfy"
   },
   "nvidiaGpuDankbarMonitor": {
@@ -12759,12 +12759,12 @@
     "url": "https://github.com/SakuraToErii/DmsScreenOff"
   },
   "screenRecorder": {
-    "date": "2026-11-13T00:08:49-06:00",
+    "date": "2026-11-24T23:00:39-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-69w9PBdlD0OYNNt97nq0CKCeR0jqs83nRCRaXB4P09o=",
+    "hash": "sha256-y3qsiNmJ1Y/W7OUCCjubEA/JnW/16C8ALaPomzaTnxM=",
     "leaveDotGit": false,
     "meta": {
       "author": "arqueon",
@@ -12792,10 +12792,10 @@
       "screenshot": "https://raw.githubusercontent.com/arqueon/dms-screen-recorder/main/assets/screenshot.png",
       "version": "1.5.4"
     },
-    "path": "/nix/store/3k14mvwzc9g5z851jzgh73a91wh6ikdy-dms-screen-recorder",
-    "rev": "798d3702fdc5bb8ed2a10b258d198ea5d41fbcce",
+    "path": "/nix/store/qfwc100wplkn4ic7h0ariz1rm828ky5s-dms-screen-recorder",
+    "rev": "d261ea6862620ae60ed42de9d8bb9df94152b7c1",
     "rootDir": "",
-    "sha256": "1nnk1wg5qni48kkwvcza913rx808nixfwzfv6jc463v52wy3vp7b",
+    "sha256": "04wzjcv9ps535l02zs7mdyfwj3qhkcxhl0p5xkb8zmc9v64aqynb",
     "url": "https://github.com/arqueon/dms-screen-recorder"
   },
   "screenRecorderX": {
@@ -15153,12 +15153,12 @@
     "url": "https://github.com/sr-tream/dms-vscode-launcher"
   },
   "wallabag": {
-    "date": "2026-11-22T21:36:03-06:00",
+    "date": "2026-11-24T23:00:42-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-+FmTFvd0k+R1P+GAF3UlwSxnpEBcX/+UEeHmf18ltkI=",
+    "hash": "sha256-BDYtKahnBXyiyDtPRATnMfdLjmTiZBzU6TmyEc7tLGE=",
     "leaveDotGit": false,
     "meta": {
       "author": "arqueon",
@@ -15195,10 +15195,10 @@
       "type": "widget",
       "version": "0.1.4"
     },
-    "path": "/nix/store/dl16ks6vifbw196r6kwd3v5y8kb94ryr-dms-wallabag",
-    "rev": "025a6a38278957953ae6c4b636387255d6784b38",
+    "path": "/nix/store/rv12gcnfgcp0dn0izx8la65c67w8xvjc-dms-wallabag",
+    "rev": "2a07af92ef2f7771fe2aec0673918a0c21cb4880",
     "rootDir": "",
-    "sha256": "0hmn4mgpzrp126agypsw82j6fb614msig0717xsy94vlywb96ngq",
+    "sha256": "0q9cxp713cirx7a1qr72cj74pxriww248krvr2i7q1b7m0ljsdh4",
     "url": "https://github.com/arqueon/dms-wallabag"
   },
   "wallarchyDms": {
