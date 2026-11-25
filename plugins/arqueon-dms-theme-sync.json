@@ -1,6 +1,6 @@
 {
     "id": "dmsThemeSync",
-    "name": "DMS Theme Sync",
+    "name": "Dux Theme Sync",
     "capabilities": [
         "dankbar-widget",
         "daemon",
@@ -9,9 +9,9 @@
     "category": "appearance",
     "repo": "https://github.com/arqueon/dms-theme-sync",
     "author": "arqueon",
-    "description": "Auto-sync starts on first load: DMS appearance is applied to GTK, Qt, KDE and Fontconfig, the systemd user environment and environment.d, with include lines added to niri and Hyprland configs and a managed labwc environment block. Optional Matugen folder colors, cursor variants and pre-apply backups.",
-    "version": "0.12.4",
-    "requires_dms": ">=1.5.0",
+    "description": "Auto-sync Dux appearance (palette, OKLab app surfaces, fonts, icons, cursor, and Niri border) across GTK, Qt, KDE, Kvantum, Flatpak, terminals, and portals.",
+    "version": "0.18.0",
+    "requires_dms": ">=2.0.0",
     "dependencies": [
         "bash",
         "dbus-send"
