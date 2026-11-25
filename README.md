@@ -237,36 +237,6 @@ A simple, customizable audio visualizer for your desktop
 
 
 
-#### [DMS Theme Sync](https://github.com/arqueon/dms-theme-sync)
-
-Auto-sync starts on first load: DMS appearance is applied to GTK, Qt, KDE and Fontconfig, the systemd user environment and environment.d, with include lines added to niri and Hyprland configs and a managed labwc environment block. Optional Matugen folder colors, cursor variants and pre-apply backups.
-
-<strong>requires DMS version</strong>: <em>>=1.5.0</em>
-
-- id: dmsThemeSync
-- name: DMS Theme Sync
-- author: arqueon
-- compositors: any
-- capabilities: dankbar-widget, daemon, ipc
-- dependencies: bash, dbus-send
-- distro: any
-
-
-
-
-
-
-<details>
-<summary>Screenshot</summary>
-
-![screenshot](https://raw.githubusercontent.com/arqueon/dms-theme-sync/main/assets/screenshot.png)
-
-</details>
-
-
-
-
-
 #### [Dank Terminal Theme](https://github.com/eduardez/DankTerminalTheme)
 
 Real-time Ghostty theme management from the navbar
@@ -350,6 +320,36 @@ A duck in your bar that says quack. Counts your quacks, unlocks 25 achievements,
 <summary>Screenshot</summary>
 
 ![screenshot](https://raw.githubusercontent.com/Gamen0ut/Duck/main/screenshot.png)
+
+</details>
+
+
+
+
+
+#### [Dux Theme Sync](https://github.com/arqueon/dms-theme-sync)
+
+Auto-sync starts on first load: edits Dux settings and writes GTK, Qt, KDE, Kvantum, Flatpak, Fontconfig, systemd user env, environment.d, and niri/Hyprland/labwc configs, with OKLab surfaces, Niri borders, icons, cursors, backups.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: dmsThemeSync
+- name: Dux Theme Sync
+- author: arqueon
+- compositors: any
+- capabilities: dankbar-widget, daemon, ipc
+- dependencies: bash, dbus-send
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/arqueon/dms-theme-sync/main/assets/screenshot.png)
 
 </details>
 
