@@ -82,6 +82,36 @@ Simple Chinese A-share stock market monitoring plugin
 
 
 
+#### [APOD Wallpaper](https://github.com/kkolsut/ApodWallpaper)
+
+Sets NASA's Astronomy Picture of the Day as your wallpaper and refreshes it daily
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: apodWallpaper
+- name: APOD Wallpaper
+- author: Krzysztof Kolsut
+- compositors: any
+- capabilities: daemon, dankbar-widget, wallpaper-downloader, wallpaper-set
+- dependencies: 
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/kkolsut/ApodWallpaper/0546afbac3db29a7614b4b8449f6a1e51acc6c67/config_screen.png)
+
+</details>
+
+
+
+
+
 #### [Aibou](https://github.com/satoshoe-dev/aibou)
 
 Control Center tile and settings for Aibou, small companions that live behind your windows on niri and dance, climb and play. The companion itself is cloned and linked from the same repository; its README lists what it watches, what the optional chat sends, and the optional tools (claude, playerctl, cava, grim and others).
