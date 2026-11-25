@@ -1,26 +1,16 @@
 {
-    "id": "dmsThemeSync",
-    "name": "Dux Theme Sync",
-    "capabilities": [
-        "dankbar-widget",
-        "daemon",
-        "ipc"
-    ],
-    "category": "appearance",
-    "repo": "https://github.com/arqueon/dms-theme-sync",
-    "author": "arqueon",
-    "description": "Auto-sync Dux appearance (palette, OKLab app surfaces, fonts, icons, cursor, and Niri border) across GTK, Qt, KDE, Kvantum, Flatpak, terminals, and portals.",
-    "version": "0.18.0",
-    "requires_dms": ">=2.0.0",
-    "dependencies": [
-        "bash",
-        "dbus-send"
-    ],
-    "compositors": [
-        "any"
-    ],
-    "distro": [
-        "any"
-    ],
-    "screenshot": "https://raw.githubusercontent.com/arqueon/dms-theme-sync/main/assets/screenshot.png"
+  "id": "dmsThemeSync",
+  "name": "Dux Theme Sync",
+  "version": "0.18.1",
+  "requires_dms": ">=2.0.0",
+  "capabilities": ["dankbar-widget", "daemon", "ipc"],
+  "category": "appearance",
+  "repo": "https://github.com/arqueon/dms-theme-sync",
+  "author": "arqueon",
+  "description": "Auto-sync starts on first load: edits Dux settings and writes GTK, Qt, KDE, Kvantum, Flatpak, Fontconfig, systemd user env, environment.d, and niri/Hyprland/labwc configs, with OKLab surfaces, Niri borders, icons, cursors, backups.",
+  "dependencies": ["bash", "dbus-send"],
+  "compositors": ["any"],
+  "distro": ["any"],
+  "license": "GPL-3.0-or-later",
+  "screenshot": "https://raw.githubusercontent.com/arqueon/dms-theme-sync/main/assets/screenshot.png"
 }
