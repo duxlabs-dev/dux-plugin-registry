@@ -1,0 +1,14 @@
+{
+    "id": "wallpaperSpan",
+    "name": "Wallpaper Span",
+    "capabilities": ["wallpaper", "daemon", "dankbar-widget", "control-center"],
+    "category": "appearance",
+    "repo": "https://github.com/Yashandyash30/wallpaper_DMS_Plugin",
+    "author": "Yashandyash30",
+    "description": "Multi-monitor image and live mpvpaper wallpaper browser with Spanright alignment, spanning, same-on-all, and per-display modes",
+    "dependencies": ["imagemagick"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/Yashandyash30/wallpaper_DMS_Plugin/main/screenshot.png",
+    "requires_dms": ">=1.7.0"
+}
