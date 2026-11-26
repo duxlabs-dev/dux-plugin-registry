@@ -1,0 +1,23 @@
+{
+  "id": "wellbeingInsights",
+  "name": "Digital Wellbeing Insights",
+  "capabilities": [
+    "daemon",
+    "dash-tab",
+    "dash-card"
+  ],
+  "description": "Permanent screen-time history, statistics, and automatic period comparisons using DMS tracking.",
+  "dependencies": [
+    "python3"
+  ],
+  "category": "monitoring",
+  "repo": "https://github.com/insadamt/wellbeingInsights",
+  "author": "insadamt",
+  "compositors": [
+    "hyprland"
+  ],
+  "distro": [
+    "arch"
+  ],
+  "screenshot": "https://github.com/insadamt/wellbeingInsights/releases/download/v1.0.0/wellbeing-insights.png"
+}
