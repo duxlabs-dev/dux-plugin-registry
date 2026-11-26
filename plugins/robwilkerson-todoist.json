@@ -1,0 +1,14 @@
+{
+    "id": "todoist",
+    "name": "Todoist",
+    "capabilities": ["dankbar-widget"],
+    "category": "productivity",
+    "repo": "https://github.com/robwilkerson/dux-todoist",
+    "author": "Rob Wilkerson",
+    "description": "Todoist tasks in the bar: see what's due, add tasks, and check them off, without the tray icon.",
+    "dependencies": ["secret-tool"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/robwilkerson/dux-todoist/main/docs/screenshot.png",
+    "requires_dms": ">=2.0.0"
+}
