@@ -3079,6 +3079,36 @@ Shows local listening ports and development servers in DankBar, with a popout to
 
 
 
+#### [PortWatch VI](https://github.com/jhannesreimann/dux-portwatch)
+
+Track reverse-engineered GTA VI PC port efforts from 4lwayz/portwatch-vi in DankBar, with a sorted progress leaderboard, FPS and hardware targets, pros/cons, and GitHub links.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: portwatchVi
+- name: PortWatch VI
+- author: jhannesreimann
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: 
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/jhannesreimann/dux-portwatch/main/assets/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Power Usage Monitor](https://github.com/Daniel-42-z/dms-power-usage)
 
 Display real-time power consumption from your device
