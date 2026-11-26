@@ -1,0 +1,24 @@
+{
+    "id": "bluetoothUsage",
+    "name": "Bluetooth Usage",
+    "capabilities": [
+        "daemon",
+        "dankbar-widget",
+        "ipc"
+    ],
+    "category": "monitoring",
+    "repo": "https://github.com/Rythamo8055/dms-bluetooth-usage",
+    "author": "rythamo",
+    "description": "Track connected, listening and idle time for Bluetooth audio devices, with per-device history, battery and weekly summaries.",
+    "dependencies": [
+        "pactl"
+    ],
+    "compositors": [
+        "any"
+    ],
+    "distro": [
+        "any"
+    ],
+    "screenshot": "https://raw.githubusercontent.com/Rythamo8055/dms-bluetooth-usage/main/screenshot.png",
+    "requires_dms": ">=2.1.0"
+}
