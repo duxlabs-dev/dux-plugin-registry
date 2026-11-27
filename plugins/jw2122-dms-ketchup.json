@@ -1,0 +1,15 @@
+{
+    "id": "dmsKetchup",
+    "name": "DMS Ketchup",
+    "capabilities": ["dankbar-widget", "desktop-widget"],
+    "category": "utilities",
+    "repo": "https://github.com/jw2122/dms-ketchup",
+    "path": "DankPomodoroTimer",
+    "author": "Virtual Wolf 369",
+    "description": "Pomodoro timer with a polished break overlay, media pausing, and a live lock-screen study timer",
+    "dependencies": [],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/jw2122/dms-ketchup/main/docs/screenshots/lock-screen.png",
+    "requires_dms": ">=2.0.0"
+}
