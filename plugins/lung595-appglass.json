@@ -1,0 +1,24 @@
+{
+    "id": "appGlass",
+    "name": "App Glass",
+    "capabilities": [
+        "daemon",
+        "dankbar-widget"
+    ],
+    "category": "appearance",
+    "repo": "https://github.com/lung595/appGlass",
+    "path": "dms-plugin",
+    "author": "lung595",
+    "description": "Translucent glass backgrounds for desktop apps on niri: terminals, GTK3, GTK4, Qt 6 and some Electron and WebKitGTK apps. The level follows the DMS window opacity, text and icons stay opaque, unfocused windows fade a little more. Per-app switches and a bar pill with a pause. Writes the apps' own colour files, launchers in ~/.local/share/applications, a niri rule file, a matugen hook and user systemd units; every write is backed up and uninstalling from DMS puts the files back.",
+    "dependencies": [
+        "python3"
+    ],
+    "compositors": [
+        "niri"
+    ],
+    "distro": [
+        "any"
+    ],
+    "screenshot": "https://raw.githubusercontent.com/lung595/appGlass/master/docs/media/hero-v2.png",
+    "requires_dms": ">=2.0.0"
+}
