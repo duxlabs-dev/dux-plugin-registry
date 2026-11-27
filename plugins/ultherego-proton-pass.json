@@ -1,0 +1,13 @@
+{
+    "id": "protonPass",
+    "name": "Proton Pass",
+    "capabilities": ["launcher"],
+    "category": "utilities",
+    "repo": "https://github.com/ultherego/dms-proton-pass",
+    "author": "Ulther Ego",
+    "description": "Search Proton Pass logins in the launcher and copy the username, password or OTP code (via pass-cli)",
+    "dependencies": ["pass-cli", "jq", "wl-clipboard", "util-linux"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/ultherego/dms-proton-pass/main/screenshot.png"
+}
