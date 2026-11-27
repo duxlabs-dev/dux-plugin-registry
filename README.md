@@ -4508,7 +4508,7 @@ Expanded control center for Acer Nitro/Predator laptops (based on raphamzn/dms-a
 
 Control, configure, and monitor adguardvpn-cli directly from DankBar
 
-<strong>requires DMS version</strong>: <em>>=1.4.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: adguardVPplugin
 - name: AdGuard VPN
