@@ -355,12 +355,12 @@
     "url": "https://github.com/agneswd/dms-ai-quotas"
   },
   "aibou": {
-    "date": "2026-10-27T18:15:29+01:00",
+    "date": "2026-11-27T09:49:04+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-VlnxKCm7hDVwOVPZFFGPZIptWeOJT+j1E6HNG8OMJcg=",
+    "hash": "sha256-KAo5nLqMzAazhaqGintn6DSzWDujwT905xdgbeT6gUM=",
     "leaveDotGit": false,
     "meta": {
       "author": "satoshoe",
@@ -388,10 +388,10 @@
       "screenshot": "https://raw.githubusercontent.com/satoshoe-dev/aibou/main/docs/screenshot.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/62wdcq7b1d0prfdidnrwib1s5ynk3m8k-aibou",
-    "rev": "4ee079211dd94a8e4ffba33117de960ba3ac3f72",
+    "path": "/nix/store/5lzi7xnm41j797vx1mgm7iqj0a09dv41-aibou",
+    "rev": "c11c5d68951686e3ee52cecc8e97854539ee0d85",
     "rootDir": "",
-    "sha256": "1j15ik1ipkd12gsyhkw9wdcnv2k4ix8i9nak75q3b15v54lg2nan",
+    "sha256": "0hw1zbj6sq0pwxs3zhd37dcb6d78cxxqm1mahnrhdk4cpaf3j2i8",
     "url": "https://github.com/satoshoe-dev/aibou"
   },
   "airQuality": {
@@ -1528,12 +1528,12 @@
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "browserGlass": {
-    "date": "2026-11-18T16:06:58+01:00",
+    "date": "2026-11-27T11:15:41+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-6GlV+cnH0hZQGURWKkfpBVz/Rv/HPGIcByOT5ZZGm+A=",
+    "hash": "sha256-U0zyCpO4J+B74ihAb8OCnnrZElL6IPAgz3V5Y1F3Rno=",
     "leaveDotGit": false,
     "meta": {
       "author": "lung595",
@@ -1559,12 +1559,12 @@
       "repo": "https://github.com/lung595/browserGlass",
       "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/lung595/browserGlass/main/screenshots/hero.png",
-      "version": "1.4.1"
+      "version": "1.4.2"
     },
-    "path": "/nix/store/crcw1qg789dqrnkzijxp0bmf33smzawx-browserGlass",
-    "rev": "961b5cd7226c5db87fa4391f3082f64ae6b2868a",
+    "path": "/nix/store/2p3v4lvry2izb16gdjmy8fsyy8mimp04-browserGlass",
+    "rev": "e81e23334ce14715835f142d916d237fedd0c220",
     "rootDir": "",
-    "sha256": "1q4v8sbfb4r30wf64g67zx3gyp05x53jlmj43581dln7r7wmasg8",
+    "sha256": "0yj6fx8n6ybmrwhg087sa89djylyhb1nyh18w9xy09xqjc5g4k2k",
     "url": "https://github.com/lung595/browserGlass"
   },
   "caffeineRedesigned": {
@@ -15572,6 +15572,48 @@
     "rootDir": "",
     "sha256": "1di4935hk95ichyz59ar74hs8ijifcjjg65pvqvsykm8qpqsldm8",
     "url": "https://github.com/garywei944/dms-wallpaper-engine-control"
+  },
+  "wallpaperSpan": {
+    "date": "2026-11-26T21:43:58+05:30",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-DHIMvVLgoSriZsCnaaaBLk7p4/vz9Clm142xBxZfF/0=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Yashandyash30",
+      "capabilities": [
+        "wallpaper",
+        "daemon",
+        "dankbar-widget",
+        "control-center"
+      ],
+      "category": "appearance",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "imagemagick",
+        "mpvpaper",
+        "ffmpeg"
+      ],
+      "description": "Multi-monitor image and live mpvpaper wallpaper browser with Spanright alignment, spanning, same-on-all, and per-display modes",
+      "distro": [
+        "any"
+      ],
+      "id": "wallpaperSpan",
+      "name": "Wallpaper Span",
+      "repo": "https://github.com/Yashandyash30/wallpaper_DMS_Plugin",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/Yashandyash30/wallpaper_DMS_Plugin/main/screenshot.png",
+      "version": "1.0.0"
+    },
+    "path": "/nix/store/qi49wrspzd3k8x6npbrmzkv9v8a1v0h0-wallpaper_DMS_Plugin",
+    "rev": "094c8f885744a0e6d4fc3b8647dc91789de7a0a7",
+    "rootDir": "",
+    "sha256": "1z8pbwb0gccdsxk2kx7kzgiyjkifh6k6k9y0cvi2m8g0aayhqwhc",
+    "url": "https://github.com/Yashandyash30/wallpaper_DMS_Plugin"
   },
   "warpToggle": {
     "date": "2026-11-17T13:12:06+02:00",
