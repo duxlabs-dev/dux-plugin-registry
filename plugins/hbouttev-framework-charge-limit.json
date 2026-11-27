@@ -1,0 +1,27 @@
+{
+    "id": "frameworkChargeLimit",
+    "name": "Framework Charge Limit",
+    "capabilities": [
+        "daemon",
+        "dankbar-widget",
+        "control-center"
+    ],
+    "category": "system",
+    "repo": "https://github.com/hbouttev/dms-framework-charge-limit",
+    "author": "Hadrien Boutteville",
+    "description": "Battery charge limit for Framework laptops, through framework_tool: toggle it from the bar or the Control Center, choose the maximum (25–99%), restore it after boot. On first use it installs a small root helper and a polkit rule, with your administrator password.",
+    "dependencies": [
+        "framework-system (framework_tool)",
+        "polkit (pkexec, pkcheck)",
+        "bash",
+        "util-linux (flock)"
+    ],
+    "compositors": [
+        "any"
+    ],
+    "distro": [
+        "any"
+    ],
+    "screenshot": "https://raw.githubusercontent.com/hbouttev/dms-framework-charge-limit/main/assets/popout.png",
+    "requires_dms": ">=2.1.1"
+}
