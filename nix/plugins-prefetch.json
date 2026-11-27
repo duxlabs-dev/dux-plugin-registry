@@ -157,12 +157,12 @@
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "adguardVPplugin": {
-    "date": "2026-08-13T13:40:41-03:00",
+    "date": "2026-11-26T14:50:07-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-1XPgBZSF0Pq2Bn0Bd/sH5j0YJ78etCvPArCnXsLb76g=",
+    "hash": "sha256-4yTr1HrJHJCL1eKTkHfnqIllc+koyG9CTFmI6E58Ic8=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -185,14 +185,14 @@
       "id": "adguardVPplugin",
       "name": "AdGuard VPN",
       "repo": "https://github.com/bernardopg/dms-adguard-vpn-plugin",
-      "requires_dms": ">=1.4.0",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/bernardopg/dms-adguard-vpn-plugin/main/docs/screenshot.png",
-      "version": "1.6.0"
+      "version": "1.7.0"
     },
-    "path": "/nix/store/idfxcva1mc82sviwxnydmh9pzsap0iji-dms-adguard-vpn-plugin",
-    "rev": "917a2dcb5b1955af3c3a42573e10bea9e4c6ca98",
+    "path": "/nix/store/5akbhg68v9g06hls2nncp0k7nf9kwl5l-dms-adguard-vpn-plugin",
+    "rev": "a37392e6172b6f6e9e03ee3940e261a3e59b9852",
     "rootDir": "",
-    "sha256": "1a7gvg15x9xh0b7jpd0ypwkihgg60zxpf0bx0svgml45jh2y0wym",
+    "sha256": "1kr1gi7fi22r9i16zj18x5rnb2d8wxvr14z2sn5r0769gbafn973",
     "url": "https://github.com/bernardopg/dms-adguard-vpn-plugin"
   },
   "aerox3Battery": {
@@ -8037,12 +8037,12 @@
     "url": "https://github.com/ghosty2004/dms-home-assistant"
   },
   "homeAssistantMonitor": {
-    "date": "2026-11-15T19:00:21+08:00",
+    "date": "2026-11-26T21:16:26+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-O8NgKtW5fCVf6XacwteimZ9mpJjImg3nZr77UM5/EZM=",
+    "hash": "sha256-OkJpKa40OqACiidUbH6aeSJTi73QdSEVPReZd4pLHyE=",
     "leaveDotGit": false,
     "meta": {
       "author": "xxyangyoulin",
@@ -8067,12 +8067,12 @@
       "repo": "https://github.com/xxyangyoulin/dms-plugin-hass",
       "requires_dms": ">=1.4.0",
       "screenshot": "https://raw.githubusercontent.com/xxyangyoulin/dms-plugin-hass/master/assets/screenshot.png",
-      "version": "3.1.5"
+      "version": "3.1.7"
     },
-    "path": "/nix/store/l65vdjagxzyf9c2ksjss4lv9mwfa2wvf-dms-plugin-hass",
-    "rev": "fe291a995dc4c6933d1bde0ba6f6ec862959bd69",
+    "path": "/nix/store/6np6l0vi1h2md5qlqv4w6zbnk5i8qaaf-dms-plugin-hass",
+    "rev": "6ef6a61271d54008bbd9836cbecec5f000ad262b",
     "rootDir": "",
-    "sha256": "14qigz751yxycvkhv6n8k2j6d7wrlbbw573nx5gjaz5rslm61hrv",
+    "sha256": "088z9f57g68p7laj2xfhpn5m68krk9z6qm17i81a0filmqlnjhis",
     "url": "https://github.com/xxyangyoulin/dms-plugin-hass"
   },
   "hoshiCalendar": {
@@ -11058,12 +11058,12 @@
     "url": "https://github.com/TEJASJONDHALE/dms-nvidia-gpu-monitor"
   },
   "obsbot4linuxDux": {
-    "date": "2026-11-13T21:40:33+01:00",
+    "date": "2026-11-26T22:40:15+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-nZ3bND7RA6yq45LeKIDRY8ACfOSij10kn/oEhJK/gMw=",
+    "hash": "sha256-wUAf4vz136a89/vWTdqF2FtNjCVgpADNr/tUCDuOAOU=",
     "leaveDotGit": false,
     "meta": {
       "author": "nofuturekid",
@@ -11089,12 +11089,12 @@
       "repo": "https://github.com/hellwand/obsbot4linux-dux",
       "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hellwand/obsbot4linux-dux/main/assets/screenshot.png",
-      "version": "0.29.2"
+      "version": "1.0.1"
     },
-    "path": "/nix/store/5s9dz4c0d1j60zng6v04ycjw8wq7kbhb-obsbot4linux-dux",
-    "rev": "1eb5a1082f5dc163030c80610668cb7eddda169d",
+    "path": "/nix/store/ld9akjgyq3vxp19rz4vl78h3v33xl90f-obsbot4linux-dux",
+    "rev": "36ab94ca13ab73861a7015574ec5bfa3fed9afe3",
     "rootDir": "",
-    "sha256": "1k40py98817skwj5v3x2wiy05h33s602ipljwfmaq0yi7qsdp7cx",
+    "sha256": "1r80iqxhhm7vmz6h19304n64snyqhpd4vmpvyyyadpzmzki1yh61",
     "url": "https://github.com/hellwand/obsbot4linux-dux"
   },
   "obsidianCapture": {
@@ -11772,12 +11772,12 @@
     "url": "https://github.com/alamin147/PortWatch"
   },
   "portwatchVi": {
-    "date": "2026-11-25T14:31:53+01:00",
+    "date": "2026-11-26T11:57:43+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-mwlvapl7GSBK9xkS89hurl4xrhLufJ7HW9leL4/j3DA=",
+    "hash": "sha256-Wc3dQ7/ob9pPIHMfcWgLjpDOUPHhaLYOATyfwS047+k=",
     "leaveDotGit": false,
     "meta": {
       "author": "jhannesreimann",
@@ -11798,12 +11798,12 @@
       "repo": "https://github.com/jhannesreimann/dux-portwatch",
       "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/jhannesreimann/dux-portwatch/main/assets/screenshot.png",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
-    "path": "/nix/store/76x2lh109kl09yfiy1pfsizn1l92j98h-dux-portwatch",
-    "rev": "d2b1eb9a2d75fccfdcac36d4f6893fc6f62e54a8",
+    "path": "/nix/store/rb9p1ifbrjvxarwfm0zjr3a1yqsxsg7l-dux-portwatch",
+    "rev": "ec0082ad07eabfccbc062eb1ba290ddf7acaadfe",
     "rootDir": "",
-    "sha256": "0c6wwf7jypnrbg3rwz7f2ap32pmfdvcg64hryx5206bvk5m6y2cv",
+    "sha256": "1sgg70nw37rw047bcs71y58cx44f1dl727vk417xlvz8px1xvkar",
     "url": "https://github.com/jhannesreimann/dux-portwatch"
   },
   "powerUsagePlugin": {
