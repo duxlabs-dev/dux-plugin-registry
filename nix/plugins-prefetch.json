@@ -14469,6 +14469,43 @@
     "sha256": "08ccvaws9j6xdd45pbyxxgp639vp9sbp2qfvlkj55bfyrirvkd49",
     "url": "https://github.com/iskepr/DankTodoLauncher"
   },
+  "todoist": {
+    "date": "2026-11-26T15:31:47-05:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-XUG4CmUcdal7vnc+TSo6VYBjfagrcrMsVLkcctnbn8M=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Rob Wilkerson",
+      "capabilities": [
+        "dankbar-widget"
+      ],
+      "category": "productivity",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "secret-tool"
+      ],
+      "description": "Todoist tasks in the bar: see what's due, add tasks, and check them off, without the tray icon.",
+      "distro": [
+        "any"
+      ],
+      "id": "todoist",
+      "name": "Todoist",
+      "repo": "https://github.com/robwilkerson/dux-todoist",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/robwilkerson/dux-todoist/main/docs/screenshot.png",
+      "version": "0.1.0"
+    },
+    "path": "/nix/store/syqi7ka0kj7hk9ar2wc249w1ak73sjg5-dux-todoist",
+    "rev": "745983de7f2dba524afd60e4b5911ac6a5612463",
+    "rootDir": "",
+    "sha256": "1hwzvgcp475rahnb6wibm1yn702m78m4sgkpprxsjx8wcl5bhhax",
+    "url": "https://github.com/robwilkerson/dux-todoist"
+  },
   "trashBin": {
     "date": "2026-10-01T11:30:58+08:00",
     "deepClone": false,
