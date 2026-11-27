@@ -9,9 +9,11 @@
     "category": "productivity",
     "repo": "https://github.com/lung595/Sands",
     "author": "lung595",
-    "description": "Natural-language timers from the launcher (“timer 12 min pasta”, “at 6pm”), a bar pill with a draining ring, and a floating hourglass panel whose sand is synced to the remaining time. Multiple named timers, pause freezes the hourglass, alarm sound of your choice.",
+    "description": "A floating hourglass timer for your bar. Type “timer 20 min pasta” in the launcher, watch the sand fall, freeze it with a pause.",
     "dependencies": [
-        "pw-play"
+        "pw-play",
+        "libnotify",
+        "glib2"
     ],
     "compositors": [
         "any"
@@ -19,5 +21,6 @@
     "distro": [
         "any"
     ],
-    "screenshot": "https://raw.githubusercontent.com/lung595/Sands/main/screenshot.png"
+    "screenshot": "https://github.com/lung595/Sands/raw/main/docs/images/registry.png",
+    "requires_dms": ">=1.6.0"
 }
