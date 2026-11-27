@@ -11993,6 +11993,46 @@
     "sha256": "0laxmkkmw52d5ff7g516w6wjzr1aqmiprgdp4552kwbrlx2481rx",
     "url": "https://github.com/Mithgroth/dms-process-list"
   },
+  "protonPass": {
+    "date": "2026-11-27T11:04:54+01:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-CGTJZgpJ5R4KCAl4kX798JeBzwskXhxwfCxz4SoAYdQ=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Ulther Ego",
+      "capabilities": [
+        "launcher"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "pass-cli",
+        "jq",
+        "wl-clipboard",
+        "util-linux"
+      ],
+      "description": "Search Proton Pass logins in the launcher and copy the username, password or OTP code (via pass-cli)",
+      "distro": [
+        "any"
+      ],
+      "id": "protonPass",
+      "name": "Proton Pass",
+      "repo": "https://github.com/ultherego/dms-proton-pass",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/ultherego/dms-proton-pass/main/screenshot.png",
+      "version": "1.0.0"
+    },
+    "path": "/nix/store/hq2d9gx7vyqvq0syjxc110jwadmp09i1-dms-proton-pass",
+    "rev": "c6a29f492e0f4b2810396fdd6d5fc6eded0163ef",
+    "rootDir": "",
+    "sha256": "1m3100mf2wrcgiq1qpi41g7q35zhzmz92y091051xra919kcjr08",
+    "url": "https://github.com/ultherego/dms-proton-pass"
+  },
   "protonVPN": {
     "date": "2026-11-20T22:47:18+05:30",
     "deepClone": false,
