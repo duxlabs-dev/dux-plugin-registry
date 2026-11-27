@@ -8037,12 +8037,12 @@
     "url": "https://github.com/ghosty2004/dms-home-assistant"
   },
   "homeAssistantMonitor": {
-    "date": "2026-11-26T21:16:26+08:00",
+    "date": "2026-11-27T13:17:05+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-OkJpKa40OqACiidUbH6aeSJTi73QdSEVPReZd4pLHyE=",
+    "hash": "sha256-sWxr/oM1XvvmUVzHLwhy7d4q+qXBKdvZ1Ccbs3gWgcA=",
     "leaveDotGit": false,
     "meta": {
       "author": "xxyangyoulin",
@@ -8067,12 +8067,12 @@
       "repo": "https://github.com/xxyangyoulin/dms-plugin-hass",
       "requires_dms": ">=1.4.0",
       "screenshot": "https://raw.githubusercontent.com/xxyangyoulin/dms-plugin-hass/master/assets/screenshot.png",
-      "version": "3.1.7"
+      "version": "3.1.8"
     },
-    "path": "/nix/store/6np6l0vi1h2md5qlqv4w6zbnk5i8qaaf-dms-plugin-hass",
-    "rev": "6ef6a61271d54008bbd9836cbecec5f000ad262b",
+    "path": "/nix/store/z1ymqc8azcxny7akp35z4s0q1rh7pk1a-dms-plugin-hass",
+    "rev": "0bd2f4cd96654d47686daa56d7edb71724b34164",
     "rootDir": "",
-    "sha256": "088z9f57g68p7laj2xfhpn5m68krk9z6qm17i81a0filmqlnjhis",
+    "sha256": "1h412rwb66r7skcxnaf1lpx2mppdf842ziswa7kgnpimhgz6nv5i",
     "url": "https://github.com/xxyangyoulin/dms-plugin-hass"
   },
   "hoshiCalendar": {
