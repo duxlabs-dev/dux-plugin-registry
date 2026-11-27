@@ -4278,6 +4278,36 @@ A simple todo list plugin to manage, track, and export your daily tasks directly
 
 
 
+#### [Todoist](https://github.com/robwilkerson/dux-todoist)
+
+Todoist tasks in the bar: see what's due, add tasks, and check them off, without the tray icon.
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: todoist
+- name: Todoist
+- author: Rob Wilkerson
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: secret-tool
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/robwilkerson/dux-todoist/main/docs/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Todoman Tasks](https://github.com/Shochraos/dms-todoman-plugin)
 
 CalDAV tasks in the bar via todoman: list, complete, and create todos with a popout.
