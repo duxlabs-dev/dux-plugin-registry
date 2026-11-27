@@ -5167,46 +5167,6 @@
     "sha256": "0ypqjlkq5g9ijvdgwnq89zq9wcpbcaaxkdlj57rpx1li50y37aqj",
     "url": "https://github.com/Tz-slayer/depthscape"
   },
-  "desktopBackup": {
-    "date": "2026-09-16T19:40:39Z",
-    "deepClone": false,
-    "fetchLFS": false,
-    "fetchSubmodules": false,
-    "fetchTags": false,
-    "hash": "sha256-lEVguElJaa3yxXdAGoE4ZGYqJIlwolEYKT4ws2jPAss=",
-    "leaveDotGit": false,
-    "meta": {
-      "author": "iquantecho",
-      "capabilities": [
-        "dankbar-widget"
-      ],
-      "category": "system",
-      "compositors": [
-        "any"
-      ],
-      "dependencies": [
-        "python",
-        "tar",
-        "systemd",
-        "xdg-utils"
-      ],
-      "description": "Verified desktop configuration backups for DMS, with configurable contents and bar styles.",
-      "distro": [
-        "any"
-      ],
-      "id": "desktopBackup",
-      "name": "EnderBackup",
-      "repo": "https://github.com/iquantecho/enderbackup",
-      "requires_dms": ">=1.6.0",
-      "screenshot": "https://raw.githubusercontent.com/iquantecho/enderbackup/main/docs/preview.png",
-      "version": "2.3.0"
-    },
-    "path": "/nix/store/af2h611inh6fvpgp6aa1ac6s57z9k76j-enderbackup",
-    "rev": "23293efe8a31768fc2ab108217d5e79e8730526b",
-    "rootDir": "",
-    "sha256": "1jq2rxlb6c1y54c538khi4j2lrk4720ilh3pqprassa996w60icl",
-    "url": "https://github.com/iquantecho/enderbackup"
-  },
   "desktopCommand": {
     "date": "2026-01-06T22:34:35+01:00",
     "deepClone": false,
