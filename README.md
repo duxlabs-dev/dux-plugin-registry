@@ -812,6 +812,36 @@ DankBar widget for linux-wallpaperengine: see what every monitor shows, skip to 
 
 
 
+#### [Wallpaper Span](https://github.com/Yashandyash30/wallpaper_DMS_Plugin)
+
+Multi-monitor image and live mpvpaper wallpaper browser with Spanright alignment, spanning, same-on-all, and per-display modes
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: wallpaperSpan
+- name: Wallpaper Span
+- author: Yashandyash30
+- compositors: any
+- capabilities: wallpaper, daemon, dankbar-widget, control-center
+- dependencies: imagemagick, mpvpaper, ffmpeg
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/Yashandyash30/wallpaper_DMS_Plugin/main/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Wallpaper by Workspace](https://github.com/3DTreeDee/wallpaperByWorkspace)
 
 Sets a different wallpaper per niri workspace, with fixed or alternate mode, optional periodic rotation, and a "show desktop" transition.
