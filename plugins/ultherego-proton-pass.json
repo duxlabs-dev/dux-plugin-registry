@@ -9,5 +9,6 @@
     "dependencies": ["pass-cli", "jq", "wl-clipboard", "util-linux"],
     "compositors": ["any"],
     "distro": ["any"],
+    "requires_dms": ">=2.0.0",
     "screenshot": "https://raw.githubusercontent.com/ultherego/dms-proton-pass/main/screenshot.png"
 }
