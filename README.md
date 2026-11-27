@@ -11147,6 +11147,36 @@ Move presentation windows to an audience display, manage a session, and optional
 
 
 
+#### [Proton Pass](https://github.com/ultherego/dms-proton-pass)
+
+Search Proton Pass logins in the launcher and copy the username, password or OTP code (via pass-cli)
+
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
+
+- id: protonPass
+- name: Proton Pass
+- author: Ulther Ego
+- compositors: any
+- capabilities: launcher
+- dependencies: pass-cli, jq, wl-clipboard, util-linux
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/ultherego/dms-proton-pass/main/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Proton VPN](https://github.com/JDKamalakar/DMS-Proton_VPN)
 
 Proton VPN client using pVPN backend CLI.
