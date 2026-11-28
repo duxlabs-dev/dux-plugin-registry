@@ -1,0 +1,23 @@
+{
+    "id": "memosWidget",
+    "name": "Memos",
+    "capabilities": [
+        "dankbar-widget"
+    ],
+    "category": "productivity",
+    "repo": "https://github.com/fepfitra/dms-memos.git",
+    "author": "fepfitra",
+    "description": "Read a Memos server from the bar: recent memos with image and document previews, pinned first, compose from the popout, and save clipboard text or images as new memos.",
+    "dependencies": [
+        "curl",
+        "wl-clipboard",
+        "python3"
+    ],
+    "compositors": [
+        "any"
+    ],
+    "distro": [
+        "any"
+    ],
+    "screenshot": "https://raw.githubusercontent.com/fepfitra/dms-memos/master/screenshot.png"
+}
