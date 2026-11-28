@@ -1,0 +1,14 @@
+{
+    "id": "quickshare",
+    "name": "Quick Share",
+    "capabilities": ["daemon", "dankbar-widget", "control-center"],
+    "category": "utilities",
+    "repo": "https://github.com/jhannesreimann/dux-quickshare",
+    "author": "jhannesreimann",
+    "description": "Send and receive files, links and text with Android phones over Google Quick Share, with fast Wi-Fi transfers even when the phone is on another network. Phones connect over Bluetooth LE without pairing; when the PC sends over Bluetooth Classic, the daemon answers the pairing request of the phone you are sending to (no other device) and removes the pairing afterwards. One click builds the background service from source (needs Rust; cargo downloads the locked crates from crates.io). Optional for laptops with one Wi-Fi card: a small Wi-Fi helper that runs as root, installed to /usr with a polkit rule that lets your session run it without a password and a udev rule that keeps NetworkManager off its interface.",
+    "dependencies": ["rust", "bluez", "networkmanager", "wpa_supplicant", "iw", "iproute2", "dnsmasq", "polkit", "xdg-utils"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/jhannesreimann/dux-quickshare/main/assets/screenshot.png",
+    "requires_dms": ">=2.1.0"
+}
