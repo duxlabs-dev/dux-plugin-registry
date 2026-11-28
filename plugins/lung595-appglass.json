@@ -1,0 +1,26 @@
+{
+    "id": "appGlass",
+    "name": "App Glass",
+    "capabilities": [
+        "daemon",
+        "dankbar-widget"
+    ],
+    "category": "appearance",
+    "repo": "https://github.com/lung595/appGlass",
+    "path": "dms-plugin",
+    "author": "lung595",
+    "description": "Translucent glass backgrounds for desktop apps on niri: terminals, GTK3, GTK4, Qt 6 and some Electron and WebKitGTK apps. The level follows the DMS window opacity, text and icons stay opaque, unfocused windows fade a little more. Per-app switches and a bar pill with a pause. Writes the apps' own colour files, launchers in ~/.local/share/applications, a niri rule file, a matugen hook and user systemd units (path units, a daily timer, an Alacritty fade daemon only while Alacritty glass is on); every write is backed up and uninstalling from DMS puts the files back. Forced routes are on by default: for apps with no theme hook it compiles small C/C++ shims with gcc/g++ (pkg-config, Qt 6 moc) and LD_PRELOADs them, or injects a JS hook (which adds the glass CSS) into VSCodium and Feishin through a Node inspector on 127.0.0.1, random port, closed after injection (if closing fails it stays open on 127.0.0.1 while the app runs). Each Forced app is first launched by appglass-verify.service in a hidden headless session (gamescope, bwrap with no network, dbus-run-session, ffmpeg); without those tools Forced routes stay plain. Optional: gsettings, flatpak.",
+    "dependencies": [
+        "python3",
+        "jq",
+        "flock"
+    ],
+    "compositors": [
+        "niri"
+    ],
+    "distro": [
+        "any"
+    ],
+    "screenshot": "https://raw.githubusercontent.com/lung595/appGlass/master/docs/media/hero-v2.png",
+    "requires_dms": ">=2.0.0"
+}
