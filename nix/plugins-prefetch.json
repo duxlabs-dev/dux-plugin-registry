@@ -1528,12 +1528,12 @@
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "browserGlass": {
-    "date": "2026-11-27T11:15:41+01:00",
+    "date": "2026-11-28T00:29:13+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-U0zyCpO4J+B74ihAb8OCnnrZElL6IPAgz3V5Y1F3Rno=",
+    "hash": "sha256-2KRDo/FM8OQaxlIWuKhsn3HFai+EgG/92ysfhQV/s4Q=",
     "leaveDotGit": false,
     "meta": {
       "author": "lung595",
@@ -1559,12 +1559,12 @@
       "repo": "https://github.com/lung595/browserGlass",
       "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/lung595/browserGlass/main/screenshots/hero.png",
-      "version": "1.4.2"
+      "version": "1.4.3"
     },
-    "path": "/nix/store/2p3v4lvry2izb16gdjmy8fsyy8mimp04-browserGlass",
-    "rev": "e81e23334ce14715835f142d916d237fedd0c220",
+    "path": "/nix/store/9fpc73hmsc33lfvj2m9m2088vggz05z4-browserGlass",
+    "rev": "11989084cadc17177d84765349da5a82cacd2048",
     "rootDir": "",
-    "sha256": "0yj6fx8n6ybmrwhg087sa89djylyhb1nyh18w9xy09xqjc5g4k2k",
+    "sha256": "115kgw2qa7rbvgynz0445xmcawczdjlbh5jjqqdf9w2cy6il796q",
     "url": "https://github.com/lung595/browserGlass"
   },
   "caffeineRedesigned": {
@@ -1762,12 +1762,12 @@
     "url": "https://github.com/jankelemen/cardwire-manager"
   },
   "cast": {
-    "date": "2026-11-25T22:20:47+01:00",
+    "date": "2026-11-27T18:48:37+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-3ksFLy2QokWafsWG7GU1VcDPxJMQsmgV9WeJlCal8fs=",
+    "hash": "sha256-K8rl6erRVzoT/UmxCuj6EJafDRKYChbJWNuyl6etZLY=",
     "leaveDotGit": false,
     "meta": {
       "author": "Marlon Kranz",
@@ -1793,12 +1793,12 @@
       "repo": "https://github.com/Conava/dux-plugins",
       "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/Conava/dux-plugins/master/Cast/screenshots/overview.png",
-      "version": "0.2.0"
+      "version": "0.2.2"
     },
-    "path": "/nix/store/wcy0fy175mb718g0xj9w6ps5dnwz6xwh-dux-plugins",
-    "rev": "0f96053f13e759ee34d1be21ff8304be101b1e15",
+    "path": "/nix/store/hifzxmahjshbb4yrd0n6z0ja2grf37y1-dux-plugins",
+    "rev": "d5c70998ff99dd4a5d72bba1e76e03783cc469d3",
     "rootDir": "",
-    "sha256": "1yzillk992b7ylanichhjg2czh2m6mjyr1n5gsd4b8lh5lphajyy",
+    "sha256": "1dk4mnkrgcnvb34ic2lq286rz5hhzbl0mca9zl9klmyixblybjib",
     "url": "https://github.com/Conava/dux-plugins"
   },
   "catWidget": {
@@ -6216,12 +6216,12 @@
     "url": "https://github.com/leonardofranco01/dms-sessionizer"
   },
   "dmsThemeSync": {
-    "date": "2026-11-24T22:57:10-06:00",
+    "date": "2026-11-27T08:04:48-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-U3m71SZKesh03tYFfWcmA9+56ZqC4IC9Zs9l1tcKtd4=",
+    "hash": "sha256-44o0VEEI4sjAfJPWRRTBmQ1j9oicHdWtWjpTTZsY70Y=",
     "leaveDotGit": false,
     "meta": {
       "author": "arqueon",
@@ -6248,12 +6248,12 @@
       "repo": "https://github.com/arqueon/dms-theme-sync",
       "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/arqueon/dms-theme-sync/main/assets/screenshot.png",
-      "version": "0.18.1"
+      "version": "0.18.2"
     },
-    "path": "/nix/store/6vx1i7z3c8ckn39zfx4czxnr3hyylkya-dms-theme-sync",
-    "rev": "27fd2a8f4d1bc92994e1fa8d89dc0ac2fb80cff5",
+    "path": "/nix/store/8jzfvxycyinf34gkbv5vilza662hafxi-dms-theme-sync",
+    "rev": "95ce719ba4b846b5a55fb94913eec9c082794810",
     "rootDir": "",
-    "sha256": "1pmm1bbxcrfgcsyq1q42kblvkpq34rkps1fnvrschyja4vavnyak",
+    "sha256": "0ipg32dlslrsbanxa7cwi3v663crq4a4bmlkgk0ciqh885a392p3",
     "url": "https://github.com/arqueon/dms-theme-sync"
   },
   "dmsVikunja": {
@@ -10473,12 +10473,12 @@
     "url": "https://github.com/arcatva/dms-next-boot-selector"
   },
   "nexusAi": {
-    "date": "2026-11-15T21:32:15+01:00",
+    "date": "2026-11-27T23:27:15+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-b5+w+OcUdjXlPATf/gnAXb+Nd/oDSNPUDZmXBkMqgjU=",
+    "hash": "sha256-k6NOQWv5isxS37oxlKB/9uCvI1qVbyxjNDAf9XtgMAA=",
     "leaveDotGit": false,
     "meta": {
       "author": "myNicole98",
@@ -10500,12 +10500,12 @@
       "name": "Nexus AI",
       "repo": "https://github.com/myNicole98/NexusAI-DMS",
       "screenshot": "https://github.com/myNicole98/NexusAI-DMS/blob/main/resources/attachments/preview.png",
-      "version": "4.1.2"
+      "version": "5.0.1"
     },
-    "path": "/nix/store/67nyj2yrbk3cnnkkksaycn14v1lg2wsh-NexusAI-DMS",
-    "rev": "a16b74daeabc8a74c9ebad0181cf81f919a619d6",
+    "path": "/nix/store/d689zp9h6shg1na1lmz7l6nhmyj0n0s2-NexusAI-DMS",
+    "rev": "515ef89ee3c87838f0a260b9b4ee8771c955d08c",
     "rootDir": "",
-    "sha256": "0dc2591hd5wr1pad6j03z9vqvgsxq04zxpq47kjkaxhlwzwb17vg",
+    "sha256": "001hc1xza7rh6iijqvwmb8iszq7ngyh98cdsvx9cr2prdd0lx8wk",
     "url": "https://github.com/myNicole98/NexusAI-DMS"
   },
   "nightModeControl": {
@@ -13481,12 +13481,12 @@
     "url": "https://github.com/Dukko/dms-skykeep-reminders"
   },
   "smartTimer": {
-    "date": "2026-11-26T00:47:42+01:00",
+    "date": "2026-11-27T14:15:13+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-+uI+D1ur5rGCm1ygATIbjqlo+ZyhUjj+OYeOasnQBsg=",
+    "hash": "sha256-9F55cct1+jYFHzmOjaneGZU4OFiE5LAyPN82DGmGy0g=",
     "leaveDotGit": false,
     "meta": {
       "author": "lung595",
@@ -13512,10 +13512,10 @@
       "screenshot": "https://raw.githubusercontent.com/lung595/Sands/main/screenshot.png",
       "version": "1.7.1"
     },
-    "path": "/nix/store/vmvjrq2z7sf3xg1xy00fv7gyhg8rflwf-Sands",
-    "rev": "645c980c7cb7c056ef02ed101201884b1902b1af",
+    "path": "/nix/store/ddqlvmq8xqmv3v9yv2a8xlg9y4wcnkkf-Sands",
+    "rev": "fd6a155f054ad72a87749929a19fbe42263a8756",
     "rootDir": "",
-    "sha256": "1j06s34nm3l777z3hlm1kkwniacf3cr0382wkf1b3rmbbc7kxqps",
+    "sha256": "0j6bhrlhqdnz7hrb1r44b0w3i58rvslqv3ir3w2kdykmrdqpjppl",
     "url": "https://github.com/lung595/Sands"
   },
   "splayerDesktopLyrics": {
@@ -15731,12 +15731,12 @@
     "url": "https://github.com/joyanhui/dms-ext-wayfire-workspace"
   },
   "waywallenTheme": {
-    "date": "2026-11-22T01:21:04-05:00",
+    "date": "2026-11-27T19:19:29-05:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-x2H22lfEYQPdUfZ9eCE5kxtysW3Se2tqXpt0sB0TKDA=",
+    "hash": "sha256-PAJW2PgRJ2oFc/9p9huU7jFaZD57bSo6Peu71/zS2Bg=",
     "leaveDotGit": false,
     "meta": {
       "author": "Douzend",
@@ -15760,12 +15760,12 @@
       "repo": "https://github.com/Douzend/dux-waywallen-theme",
       "requires_dms": ">=2.1.0",
       "screenshot": "https://raw.githubusercontent.com/Douzend/dux-waywallen-theme/main/assets/screenshot.png",
-      "version": "0.2.0"
+      "version": "0.3.0"
     },
-    "path": "/nix/store/g4wm5mj7aj0gwnxmyvw133hnsi28vmw0-dux-waywallen-theme",
-    "rev": "cd414b9f57d6df4bc415014f616fbf0b7e710c6a",
+    "path": "/nix/store/nqvi95xg55khlwsyim1v7mcvwjmss1bm-dux-waywallen-theme",
+    "rev": "ecb7d61543bbf968473886f00d40cf1ba0fb0ca5",
     "rootDir": "",
-    "sha256": "0c182cfv0x4vbrm6nyyjdnqp46wk74hphzgna7fh6qf4azdgcqf7",
+    "sha256": "066qsbydgfzb7lx2lvbv7rj5lcgfjhdzcsgzfc2nl9qiz3c5c0iw",
     "url": "https://github.com/Douzend/dux-waywallen-theme"
   },
   "weatherArt": {
