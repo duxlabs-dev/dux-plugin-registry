@@ -1,0 +1,13 @@
+{
+    "id": "pixelBuds",
+    "name": "Pixel Buds",
+    "capabilities": ["dankbar-widget", "daemon"],
+    "category": "utilities",
+    "repo": "https://github.com/Finoo125/dux-pixel-buds",
+    "author": "finoo125",
+    "description": "Google Pixel Buds battery, noise control, equalizer and switches in the bar. Pro models talk to the buds through pbpctrl; other models show the BlueZ battery.",
+    "dependencies": ["pbpctrl"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/Finoo125/dux-pixel-buds/main/screenshot.png"
+}
