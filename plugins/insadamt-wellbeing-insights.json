@@ -13,6 +13,7 @@
   "category": "monitoring",
   "repo": "https://github.com/insadamt/wellbeingInsights",
   "author": "insadamt",
+  "requires_dms": ">=2.1.2",
   "compositors": [
     "hyprland"
   ],
